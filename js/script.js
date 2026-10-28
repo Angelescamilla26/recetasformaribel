@@ -1,6 +1,6 @@
 "use strict";
 
-const SPOTIFY_PLAYLIST_URL = "PEGAR_AQUI_MI_ENLACE_DE_SPOTIFY";
+const SPOTIFY_PLAYLIST_URL = "https://open.spotify.com/playlist/6OmAX1bqcYFhDRPzAGpbg2";
 
 function ingredient(name, amount, unit, group = "Ingredientes") {
   return { name, amount, unit, group };
@@ -130,12 +130,909 @@ const recipeCatalog = [
     ingredients: [ingredient("galletas María", 140, "g", "Base"), ingredient("mantequilla derretida", 60, "g", "Base"), ingredient("queso crema a temperatura ambiente", 360, "g", "Relleno"), ingredient("azúcar", 90, "g", "Relleno"), ingredient("huevo grande, sin cáscara", 2, "pzas", "Relleno"), ingredient("crema ácida", 120, "g", "Relleno"), ingredient("extracto de vainilla", 5, "ml", "Relleno"), ingredient("mermelada de frutos rojos", 120, "g", "Cobertura")],
     steps: [recipeStep("Pequeñas bases", "Precalienta a 160 °C. Pon capacillos en el molde. Tritura galletas, mezcla con mantequilla y reparte presionando en las bases."), recipeStep("El relleno", "Bate queso crema y azúcar a velocidad baja hasta suavizar. Agrega los huevos uno a uno, después crema ácida y vainilla. Evita incorporar demasiado aire."), recipeStep("Al horno", "Reparte sin llenar hasta el borde. Hornea a 160 °C durante unos 22 minutos, hasta que los bordes estén firmes y el centro se mueva ligeramente, sin estar líquido.", 22), recipeStep("Enfría despacito", "Deja enfriar en el molde unos 30 minutos. Retira con cuidado hacia una rejilla si todavía están tibios y espera a que pierdan el calor.", 30), recipeStep("Un descanso frío", "Cubre y refrigera por lo menos 3 horas antes de quitar los capacillos.", 180), recipeStep("Termina con frutos rojos", "Reparte la mermelada fría sobre cada cheesecake justo antes de servir.")],
     tips: "El queso crema suave evita grumos. No sobrehornees: el centro termina de asentarse al enfriarse. Conserva cubiertos en refrigeración y consume en 3 días."
+  },
+  {
+    "id": "cheesecake-de-galleta",
+    "name": "Cheesecake de galleta",
+    "categoryLabel": "Cookies & cream, sin encender el horno",
+    "tags": [
+      "pasteles",
+      "frios",
+      "sin-horno",
+      "chocolate",
+      "nuevas"
+    ],
+    "difficulty": "Intermedia",
+    "servings": 8,
+    "prep": 30,
+    "cook": 0,
+    "rest": 360,
+    "oven": null,
+    "description": "Galleta de chocolate en la base, en el relleno y en ese último bocado que nadie quiere compartir.",
+    "photo": "photo-1638199023658-1c771bafafda",
+    "photoAlt": "Cheesecake de galleta de chocolate decorado con crema y galletas",
+    "photographer": "yusuff",
+    "photoSource": "https://unsplash.com/photos/v3LrraBLs88",
+    "equipment": "Molde desmontable de 20 cm, batidora, espátula y refrigerador.",
+    "ingredients": [
+      {
+        "name": "galletas de chocolate tipo sándwich, con su crema",
+        "amount": 220,
+        "unit": "g",
+        "group": "Base"
+      },
+      {
+        "name": "mantequilla derretida sin sal",
+        "amount": 65,
+        "unit": "g",
+        "group": "Base"
+      },
+      {
+        "name": "queso crema a temperatura ambiente",
+        "amount": 500,
+        "unit": "g",
+        "group": "Relleno"
+      },
+      {
+        "name": "crema para batir fría, mínimo 35 % grasa",
+        "amount": 250,
+        "unit": "ml",
+        "group": "Relleno"
+      },
+      {
+        "name": "azúcar glass",
+        "amount": 70,
+        "unit": "g",
+        "group": "Relleno"
+      },
+      {
+        "name": "grenetina sin sabor",
+        "amount": 10,
+        "unit": "g",
+        "group": "Relleno"
+      },
+      {
+        "name": "agua fría",
+        "amount": 50,
+        "unit": "ml",
+        "group": "Relleno"
+      },
+      {
+        "name": "extracto de vainilla",
+        "amount": 5,
+        "unit": "ml",
+        "group": "Relleno"
+      },
+      {
+        "name": "galletas de chocolate tipo sándwich, troceadas",
+        "amount": 100,
+        "unit": "g",
+        "group": "Relleno"
+      },
+      {
+        "name": "galletas de chocolate tipo sándwich",
+        "amount": 60,
+        "unit": "g",
+        "group": "Decoración"
+      }
+    ],
+    "steps": [
+      {
+        "title": "La base crujiente",
+        "text": "Tritura las galletas de la base con su crema. Mezcla con la mantequilla y presiona sobre el fondo del molde. Refrigera mientras preparas el relleno.",
+        "minutes": 0
+      },
+      {
+        "title": "Hidrata la grenetina",
+        "text": "Espolvorea la grenetina sobre el agua fría. Espera 5 minutos y después calienta en intervalos cortos, solo hasta disolverla, sin hervir.",
+        "minutes": 5
+      },
+      {
+        "title": "Prepara las dos cremas",
+        "text": "Bate el queso con el azúcar glass y la vainilla hasta suavizar. En otro recipiente, bate la crema fría hasta obtener picos suaves.",
+        "minutes": 0
+      },
+      {
+        "title": "Todo se encuentra",
+        "text": "Mezcla unas cucharadas del queso con la grenetina tibia y devuelve al resto del queso. Incorpora la crema batida con movimientos envolventes y añade las galletas troceadas.",
+        "minutes": 0
+      },
+      {
+        "title": "Su descanso en frío",
+        "text": "Vierte sobre la base, alisa y cubre. Refrigera por lo menos 6 horas, hasta que el centro esté firme.",
+        "minutes": 360
+      },
+      {
+        "title": "El toque de galleta",
+        "text": "Desmolda con cuidado y decora con las galletas restantes justo antes de servir. Corta con un cuchillo limpio entre cada porción.",
+        "minutes": 0
+      }
+    ],
+    "tips": "No retires la crema de las galletas: está contemplada en estas cantidades. La grenetina debe estar tibia y fluida al mezclarla. Mantén refrigerado y consume en 3 días."
+  },
+  {
+    "id": "galletas-de-mantequilla",
+    "name": "Galletas de mantequilla",
+    "categoryLabel": "Pocas cosas. Un sabor enorme.",
+    "tags": [
+      "galletas",
+      "faciles",
+      "nuevas"
+    ],
+    "difficulty": "Fácil",
+    "servings": 24,
+    "prep": 20,
+    "cook": 14,
+    "rest": 40,
+    "oven": 170,
+    "description": "Delicadas, doraditas y con ese sabor a mantequilla que se queda en la memoria.",
+    "photo": "photo-1766226763209-48db0b29c675",
+    "photoAlt": "Galletas de mantequilla en forma de estrella sobre una superficie blanca",
+    "photographer": "Stacy",
+    "photoSource": "https://unsplash.com/photos/6JOGQH7Y-5U",
+    "equipment": "Charolas, papel para hornear, rodillo y cortador de galletas.",
+    "ingredients": [
+      {
+        "name": "mantequilla suave sin sal",
+        "amount": 180,
+        "unit": "g",
+        "group": "Ingredientes"
+      },
+      {
+        "name": "azúcar glass",
+        "amount": 90,
+        "unit": "g",
+        "group": "Ingredientes"
+      },
+      {
+        "name": "yema de huevo grande",
+        "amount": 1,
+        "unit": "pza",
+        "group": "Ingredientes"
+      },
+      {
+        "name": "extracto de vainilla",
+        "amount": 5,
+        "unit": "ml",
+        "group": "Ingredientes"
+      },
+      {
+        "name": "harina de trigo",
+        "amount": 280,
+        "unit": "g",
+        "group": "Ingredientes"
+      },
+      {
+        "name": "sal",
+        "amount": 2,
+        "unit": "g",
+        "group": "Ingredientes"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Suaviza la mantequilla",
+        "text": "Bate la mantequilla con el azúcar glass hasta obtener una crema uniforme, sin batir en exceso. Incorpora la yema y la vainilla.",
+        "minutes": 0
+      },
+      {
+        "title": "Forma la masa",
+        "text": "Añade la harina y la sal. Mezcla solo hasta que la masa se una; no la amases como pan.",
+        "minutes": 0
+      },
+      {
+        "title": "Enfría antes de cortar",
+        "text": "Forma un disco, cubre y refrigera 30 minutos. Precalienta el horno a 170 °C y prepara las charolas.",
+        "minutes": 30
+      },
+      {
+        "title": "Dales forma",
+        "text": "Estira entre dos hojas de papel para hornear hasta un grosor de 5 mm. Corta las galletas y acomódalas separadas en las charolas. Si la masa se ablanda, enfríala de nuevo.",
+        "minutes": 0
+      },
+      {
+        "title": "Dorado suave",
+        "text": "Hornea a 170 °C unos 14 minutos por tanda, hasta que los bordes apenas cambien de color. El centro debe permanecer claro.",
+        "minutes": 14
+      },
+      {
+        "title": "Espera el primer bocado",
+        "text": "Deja reposar 10 minutos en la charola y termina de enfriar sobre una rejilla antes de guardarlas.",
+        "minutes": 10
+      }
+    ],
+    "tips": "Usa mantequilla, no margarina, para conservar el sabor y la textura. El tiempo de horno es por tanda. Guarda las galletas completamente frías en una lata o recipiente hermético hasta 5 días."
+  },
+  {
+    "id": "galletas-de-naranja",
+    "name": "Galletas de naranja",
+    "categoryLabel": "Una tarde con aroma a cítricos",
+    "tags": [
+      "galletas",
+      "faciles",
+      "nuevas"
+    ],
+    "difficulty": "Fácil",
+    "servings": 20,
+    "prep": 20,
+    "cook": 14,
+    "rest": 40,
+    "oven": 175,
+    "description": "Suaves por dentro, con ralladura de naranja y un glaseado ligero que alegra cualquier tarde.",
+    "photo": "photo-1744160252920-967ab9b733ce",
+    "photoAlt": "Galletas cítricas claras acomodadas sobre una superficie blanca",
+    "photographer": "Maria Klichik",
+    "photoSource": "https://unsplash.com/photos/DgoIL3GhDlY",
+    "equipment": "Rallador fino, dos charolas y papel para hornear.",
+    "ingredients": [
+      {
+        "name": "mantequilla suave sin sal",
+        "amount": 100,
+        "unit": "g",
+        "group": "Masa"
+      },
+      {
+        "name": "azúcar",
+        "amount": 110,
+        "unit": "g",
+        "group": "Masa"
+      },
+      {
+        "name": "huevo grande, sin cáscara",
+        "amount": 1,
+        "unit": "pza",
+        "group": "Masa"
+      },
+      {
+        "name": "ralladura fina de naranja, solo la parte coloreada",
+        "amount": 6,
+        "unit": "g",
+        "group": "Masa"
+      },
+      {
+        "name": "jugo de naranja",
+        "amount": 30,
+        "unit": "ml",
+        "group": "Masa"
+      },
+      {
+        "name": "harina de trigo",
+        "amount": 250,
+        "unit": "g",
+        "group": "Masa"
+      },
+      {
+        "name": "polvo para hornear",
+        "amount": 5,
+        "unit": "g",
+        "group": "Masa"
+      },
+      {
+        "name": "sal",
+        "amount": 1,
+        "unit": "g",
+        "group": "Masa"
+      },
+      {
+        "name": "azúcar glass",
+        "amount": 70,
+        "unit": "g",
+        "group": "Glaseado"
+      },
+      {
+        "name": "jugo de naranja",
+        "amount": 15,
+        "unit": "ml",
+        "group": "Glaseado"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Despierta la naranja",
+        "text": "Frota la ralladura con el azúcar usando los dedos. Bate con la mantequilla hasta formar una crema; añade el huevo y el jugo de la masa.",
+        "minutes": 0
+      },
+      {
+        "title": "Integra los secos",
+        "text": "Mezcla harina, polvo para hornear y sal. Incorpora a la crema sin sobrebatir.",
+        "minutes": 0
+      },
+      {
+        "title": "Una pausa en frío",
+        "text": "Cubre y refrigera 25 minutos. Precalienta el horno a 175 °C y prepara las charolas.",
+        "minutes": 25
+      },
+      {
+        "title": "Porciones parejitas",
+        "text": "Divide la masa en 20 bolitas, colócalas con unos 5 cm de separación y aplástalas ligeramente.",
+        "minutes": 0
+      },
+      {
+        "title": "Al horno",
+        "text": "Hornea a 175 °C aproximadamente 14 minutos por tanda, hasta que la base esté dorada y la superficie firme. No esperes un dorado intenso.",
+        "minutes": 14
+      },
+      {
+        "title": "Enfría y glasea",
+        "text": "Deja enfriar por completo, unos 15 minutos. Mezcla el azúcar glass con el jugo del glaseado y dibuja hilos sobre las galletas. Deja secar antes de apilarlas.",
+        "minutes": 15
+      }
+    ],
+    "tips": "Lava y seca la naranja antes de rallarla; evita la parte blanca, que amarga. El tiempo de horno es por tanda. Conserva las galletas frías y con el glaseado seco en un recipiente hermético hasta 4 días."
+  },
+  {
+    "id": "empanadas-dulces-de-pina",
+    "name": "Empanadas dulces de piña",
+    "categoryLabel": "Un relleno que sabe a casa",
+    "tags": [
+      "pasteles",
+      "de-casa",
+      "nuevas"
+    ],
+    "difficulty": "Intermedia",
+    "servings": 12,
+    "prep": 40,
+    "cook": 40,
+    "rest": 50,
+    "oven": 180,
+    "description": "Masa dorada, orillitas selladas a mano y un corazón de piña con canela.",
+    "photo": "photo-1774971343509-d575ec6bd3af",
+    "photoAlt": "Empanadas horneadas de bordes trenzados acomodadas en filas",
+    "photographer": "Anastasiia Mitiushova",
+    "photoSource": "https://unsplash.com/photos/wyOmd8z2Uws",
+    "equipment": "Cacerola, rodillo, cortador de 12 cm, brocha y charola.",
+    "ingredients": [
+      {
+        "name": "harina de trigo",
+        "amount": 300,
+        "unit": "g",
+        "group": "Masa"
+      },
+      {
+        "name": "mantequilla fría sin sal, en cubos",
+        "amount": 120,
+        "unit": "g",
+        "group": "Masa"
+      },
+      {
+        "name": "azúcar",
+        "amount": 40,
+        "unit": "g",
+        "group": "Masa"
+      },
+      {
+        "name": "huevo grande, sin cáscara",
+        "amount": 1,
+        "unit": "pza",
+        "group": "Masa"
+      },
+      {
+        "name": "leche fría",
+        "amount": 60,
+        "unit": "ml",
+        "group": "Masa"
+      },
+      {
+        "name": "sal",
+        "amount": 2,
+        "unit": "g",
+        "group": "Masa"
+      },
+      {
+        "name": "piña fresca, pelada y picada pequeña",
+        "amount": 450,
+        "unit": "g",
+        "group": "Relleno"
+      },
+      {
+        "name": "azúcar",
+        "amount": 70,
+        "unit": "g",
+        "group": "Relleno"
+      },
+      {
+        "name": "canela molida",
+        "amount": 2,
+        "unit": "g",
+        "group": "Relleno"
+      },
+      {
+        "name": "fécula de maíz",
+        "amount": 12,
+        "unit": "g",
+        "group": "Relleno"
+      },
+      {
+        "name": "agua",
+        "amount": 20,
+        "unit": "ml",
+        "group": "Relleno"
+      },
+      {
+        "name": "huevo grande batido",
+        "amount": 1,
+        "unit": "pza",
+        "group": "Acabado"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Cocina la piña",
+        "text": "Calienta la piña con el azúcar y la canela a fuego medio durante unos 12 minutos. Disuelve la fécula en el agua, incorpora y cocina 3 minutos más, removiendo, hasta tener un relleno espeso. Pasa a un recipiente amplio y deja enfriar por completo.",
+        "minutes": 15
+      },
+      {
+        "title": "Una masa sin prisa",
+        "text": "Mezcla harina, azúcar y sal. Incorpora la mantequilla fría con las yemas de los dedos hasta obtener migas. Añade el huevo y la leche poco a poco, solo hasta unir. No amases en exceso.",
+        "minutes": 0
+      },
+      {
+        "title": "Descansa en frío",
+        "text": "Cubre la masa y refrigera 30 minutos; durante ese tiempo termina de enfriarse el relleno. Precalienta el horno a 180 °C.",
+        "minutes": 30
+      },
+      {
+        "title": "Rellena y sella",
+        "text": "Estira la masa a 3 mm y corta 12 discos de unos 12 cm, reuniendo los recortes sin sobreamasar. Reparte el relleno frío, dejando el borde libre. Dobla, humedece apenas los bordes con agua y sella con un tenedor.",
+        "minutes": 0
+      },
+      {
+        "title": "Dorado de panadería",
+        "text": "Acomoda en una charola con papel. Barniza con el huevo batido y haz una pequeña ranura para que salga el vapor. Hornea a 180 °C unos 25 minutos, hasta que estén doradas y la base cocida.",
+        "minutes": 25
+      },
+      {
+        "title": "Que no queme el antojo",
+        "text": "Deja reposar 20 minutos antes de comer: el relleno conserva mucho calor.",
+        "minutes": 20
+      }
+    ],
+    "tips": "El relleno debe estar frío y espeso antes de cerrar las empanadas. No las llenes de más. El tiempo de horno es por tanda si no caben juntas. Conserva refrigeradas hasta 3 días y recalienta para recuperar la textura."
+  },
+  {
+    "id": "tarta-de-manzana",
+    "name": "Tarta de manzana",
+    "categoryLabel": "Manzana, canela y una mesa compartida",
+    "tags": [
+      "pasteles",
+      "de-casa",
+      "nuevas"
+    ],
+    "difficulty": "Intermedia",
+    "servings": 8,
+    "prep": 35,
+    "cook": 45,
+    "rest": 60,
+    "oven": 190,
+    "description": "Láminas de manzana, una base de mantequilla y ese aroma que hace que todos se acerquen a la cocina.",
+    "photo": "photo-1633352638064-c65eedc51fff",
+    "photoAlt": "Tarta de manzana horneada servida sobre una mesa con cubiertos",
+    "photographer": "Monika Grabkowska",
+    "photoSource": "https://unsplash.com/photos/Z2Ot4Z6B_S4",
+    "equipment": "Molde para tarta de 24 cm, rodillo y cuchillo afilado.",
+    "ingredients": [
+      {
+        "name": "harina de trigo",
+        "amount": 200,
+        "unit": "g",
+        "group": "Base"
+      },
+      {
+        "name": "mantequilla fría sin sal, en cubos",
+        "amount": 100,
+        "unit": "g",
+        "group": "Base"
+      },
+      {
+        "name": "azúcar",
+        "amount": 50,
+        "unit": "g",
+        "group": "Base"
+      },
+      {
+        "name": "huevo grande, sin cáscara",
+        "amount": 1,
+        "unit": "pza",
+        "group": "Base"
+      },
+      {
+        "name": "sal",
+        "amount": 1,
+        "unit": "g",
+        "group": "Base"
+      },
+      {
+        "name": "manzanas firmes, ya peladas y sin corazón",
+        "amount": 650,
+        "unit": "g",
+        "group": "Relleno"
+      },
+      {
+        "name": "azúcar",
+        "amount": 60,
+        "unit": "g",
+        "group": "Relleno"
+      },
+      {
+        "name": "jugo de limón",
+        "amount": 15,
+        "unit": "ml",
+        "group": "Relleno"
+      },
+      {
+        "name": "canela molida",
+        "amount": 3,
+        "unit": "g",
+        "group": "Relleno"
+      },
+      {
+        "name": "fécula de maíz",
+        "amount": 10,
+        "unit": "g",
+        "group": "Relleno"
+      },
+      {
+        "name": "mantequilla sin sal, en cubitos",
+        "amount": 20,
+        "unit": "g",
+        "group": "Relleno"
+      }
+    ],
+    "steps": [
+      {
+        "title": "La base de mantequilla",
+        "text": "Mezcla harina, azúcar y sal. Integra la mantequilla fría hasta formar migas; añade el huevo y une sin amasar de más. Forma un disco y cubre.",
+        "minutes": 0
+      },
+      {
+        "title": "Un descanso necesario",
+        "text": "Refrigera la masa 30 minutos. Precalienta el horno a 190 °C y engrasa ligeramente el molde.",
+        "minutes": 30
+      },
+      {
+        "title": "Prepara las manzanas",
+        "text": "Corta las manzanas en láminas de unos 2 mm. Mezcla con limón, azúcar, canela y fécula de maíz justo antes de armar la tarta.",
+        "minutes": 0
+      },
+      {
+        "title": "Arma tu tarta",
+        "text": "Estira la masa a 3 mm y cubre el fondo y los lados del molde. Pincha la base con un tenedor. Distribuye la manzana en capas, sin amontonar demasiado el centro, y reparte la mantequilla del relleno.",
+        "minutes": 0
+      },
+      {
+        "title": "Al horno",
+        "text": "Coloca el molde sobre una charola y hornea a 190 °C unos 45 minutos, hasta que la base esté dorada, la manzana tierna y los jugos burbujeen. Cubre suavemente los bordes si se doran antes.",
+        "minutes": 45
+      },
+      {
+        "title": "Dale tiempo de asentarse",
+        "text": "Deja reposar al menos 30 minutos antes de desmoldar y cortar, para que el relleno se asiente.",
+        "minutes": 30
+      }
+    ],
+    "tips": "Combina manzanas ácidas y dulces si te gusta el contraste. Para una base más crujiente, coloca el molde en la mitad inferior del horno. Refrigera las sobras cubiertas y consume en 3 días."
+  },
+  {
+    "id": "pay-de-queso",
+    "name": "Pay de queso",
+    "categoryLabel": "El clásico de la mesa familiar",
+    "tags": [
+      "pasteles",
+      "frios",
+      "de-casa",
+      "nuevas"
+    ],
+    "difficulty": "Fácil",
+    "servings": 8,
+    "prep": 20,
+    "cook": 45,
+    "rest": 300,
+    "oven": 170,
+    "description": "Queso crema, leche condensada y una base de galleta: el pay de siempre, hecho a tu ritmo.",
+    "photo": "photo-1774988867972-98caecc776d8",
+    "photoAlt": "Rebanada de pay de queso con base de galleta en un plato claro",
+    "photographer": "Leonardo Ziaja",
+    "photoSource": "https://unsplash.com/photos/rWz-WXVOYPw",
+    "equipment": "Molde para pay de 22 cm, licuadora y charola para horno.",
+    "ingredients": [
+      {
+        "name": "galletas María",
+        "amount": 180,
+        "unit": "g",
+        "group": "Base"
+      },
+      {
+        "name": "mantequilla derretida sin sal",
+        "amount": 80,
+        "unit": "g",
+        "group": "Base"
+      },
+      {
+        "name": "queso crema a temperatura ambiente",
+        "amount": 300,
+        "unit": "g",
+        "group": "Relleno"
+      },
+      {
+        "name": "leche condensada",
+        "amount": 300,
+        "unit": "g",
+        "group": "Relleno"
+      },
+      {
+        "name": "huevo grande, sin cáscara",
+        "amount": 3,
+        "unit": "pzas",
+        "group": "Relleno"
+      },
+      {
+        "name": "extracto de vainilla",
+        "amount": 5,
+        "unit": "ml",
+        "group": "Relleno"
+      },
+      {
+        "name": "jugo de limón",
+        "amount": 15,
+        "unit": "ml",
+        "group": "Relleno"
+      }
+    ],
+    "steps": [
+      {
+        "title": "La base",
+        "text": "Precalienta el horno a 170 °C. Tritura las galletas y mezcla con la mantequilla. Presiona en el fondo y los lados del molde para pay.",
+        "minutes": 0
+      },
+      {
+        "title": "Licúa con suavidad",
+        "text": "Licúa el queso crema, la leche condensada, los huevos, la vainilla y el limón solo hasta obtener una mezcla lisa, sin incorporar demasiado aire.",
+        "minutes": 0
+      },
+      {
+        "title": "Llena el molde",
+        "text": "Vierte sobre la base. Da unos golpecitos suaves contra la mesa para liberar las burbujas grandes y coloca el molde sobre una charola.",
+        "minutes": 0
+      },
+      {
+        "title": "Al horno",
+        "text": "Hornea a 170 °C unos 45 minutos. Los bordes deben estar firmes y el centro debe temblar ligeramente como gelatina, sin verse líquido. Si se dora demasiado pronto, cubre suavemente con aluminio.",
+        "minutes": 45
+      },
+      {
+        "title": "Enfría poco a poco",
+        "text": "Apaga el horno, deja la puerta entreabierta y espera 20 minutos. Retira y deja enfriar otros 40 minutos, hasta que pierda el calor.",
+        "minutes": 60
+      },
+      {
+        "title": "Una pausa en el refrigerador",
+        "text": "Cubre y refrigera por lo menos 4 horas antes de cortar. Sirve frío.",
+        "minutes": 240
+      }
+    ],
+    "tips": "El pay termina de asentarse al enfriar; hornearlo hasta que el centro esté completamente rígido puede agrietarlo. Ajusta el tiempo según tu horno. Conserva refrigerado y consume en 3 días."
+  },
+  {
+    "id": "pan-de-elote",
+    "name": "Pan de elote",
+    "categoryLabel": "Dulce, dorado y muy de casa",
+    "tags": [
+      "pasteles",
+      "de-casa",
+      "faciles",
+      "nuevas"
+    ],
+    "difficulty": "Fácil",
+    "servings": 10,
+    "prep": 15,
+    "cook": 50,
+    "rest": 30,
+    "oven": 180,
+    "description": "Elote tierno, una miga húmeda y el olor de un pan recién hecho para acompañar el café.",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Pan_de_elote.jpg/1280px-Pan_de_elote.jpg",
+    "photoAlt": "Panes de elote horneados, con superficie dorada",
+    "photographer": "Jruizs2k",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Pan_de_elote.jpg",
+    "equipment": "Molde redondo de 22 cm, licuadora y papel para hornear.",
+    "ingredients": [
+      {
+        "name": "granos de elote fresco y tierno, crudos",
+        "amount": 500,
+        "unit": "g",
+        "group": "Ingredientes"
+      },
+      {
+        "name": "leche condensada",
+        "amount": 300,
+        "unit": "g",
+        "group": "Ingredientes"
+      },
+      {
+        "name": "mantequilla derretida sin sal, tibia",
+        "amount": 100,
+        "unit": "g",
+        "group": "Ingredientes"
+      },
+      {
+        "name": "huevo grande, sin cáscara",
+        "amount": 3,
+        "unit": "pzas",
+        "group": "Ingredientes"
+      },
+      {
+        "name": "leche",
+        "amount": 80,
+        "unit": "ml",
+        "group": "Ingredientes"
+      },
+      {
+        "name": "harina de trigo",
+        "amount": 80,
+        "unit": "g",
+        "group": "Ingredientes"
+      },
+      {
+        "name": "polvo para hornear",
+        "amount": 10,
+        "unit": "g",
+        "group": "Ingredientes"
+      },
+      {
+        "name": "extracto de vainilla",
+        "amount": 5,
+        "unit": "ml",
+        "group": "Ingredientes"
+      },
+      {
+        "name": "sal",
+        "amount": 2,
+        "unit": "g",
+        "group": "Ingredientes"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Prepara el molde",
+        "text": "Precalienta el horno a 180 °C. Engrasa el molde y forra la base con papel para hornear.",
+        "minutes": 0
+      },
+      {
+        "title": "Licúa el elote",
+        "text": "Licúa los granos de elote con la leche, la leche condensada, los huevos y la vainilla hasta obtener una mezcla espesa. Puede conservar pequeños trocitos de elote.",
+        "minutes": 0
+      },
+      {
+        "title": "Integra la mantequilla",
+        "text": "Añade la mantequilla derretida y tibia. Mezcla la harina con el polvo para hornear y la sal; incorpora a la mezcla de elote solo hasta integrar.",
+        "minutes": 0
+      },
+      {
+        "title": "Dorado y húmedo",
+        "text": "Vierte en el molde y hornea a 180 °C unos 50 minutos. Comprueba con un palillo en el centro: debe salir sin masa líquida. Si hace falta, continúa en intervalos de 5 minutos; cubre si la superficie ya está dorada.",
+        "minutes": 50
+      },
+      {
+        "title": "Enfría antes de cortar",
+        "text": "Deja reposar 15 minutos en el molde. Desmolda con cuidado y espera otros 15 minutos antes de cortar.",
+        "minutes": 30
+      }
+    ],
+    "tips": "Usa elote fresco y tierno, no maíz seco ni maíz para pozole. Su humedad cambia según la variedad: revisa siempre el centro. Es un pan húmedo, no un bizcocho seco. Guarda cubierto en refrigeración hasta 3 días.",
+    "photoLicense": "CC BY-SA 4.0",
+    "photoLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "photoPlatform": "Wikimedia Commons"
+  },
+  {
+    "id": "arroz-con-leche",
+    "name": "Arroz con leche",
+    "categoryLabel": "El favorito de Ángel",
+    "tags": [
+      "frios",
+      "sin-horno",
+      "de-casa",
+      "faciles",
+      "nuevas"
+    ],
+    "difficulty": "Fácil",
+    "servings": 6,
+    "prep": 10,
+    "cook": 40,
+    "rest": 10,
+    "oven": null,
+    "description": "Cremoso, con canela y un lugar especial en este recetario. Este antojo tiene dueño: Ángel.",
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Arroz_con_Leche_y_Caf%C3%A9.jpg/1280px-Arroz_con_Leche_y_Caf%C3%A9.jpg",
+    "photoAlt": "Arroz con leche servido en una copa, acompañado de café",
+    "photographer": "Armando Olivo Martín del Campo",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Arroz_con_Leche_y_Caf%C3%A9.jpg",
+    "photoFocus": "right",
+    "photoPlatform": "Wikimedia Commons",
+    "photoLicense": "CC BY-SA 4.0",
+    "photoLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "equipment": "Cacerola de fondo grueso de al menos 3 litros, cuchara y seis tazones.",
+    "ingredients": [
+      {
+        "name": "arroz blanco de grano largo",
+        "amount": 200,
+        "unit": "g",
+        "group": "Ingredientes"
+      },
+      {
+        "name": "agua",
+        "amount": 500,
+        "unit": "ml",
+        "group": "Ingredientes"
+      },
+      {
+        "name": "canela en rama",
+        "amount": 4,
+        "unit": "g",
+        "group": "Ingredientes"
+      },
+      {
+        "name": "sal",
+        "amount": 1,
+        "unit": "g",
+        "group": "Ingredientes"
+      },
+      {
+        "name": "leche entera",
+        "amount": 1000,
+        "unit": "ml",
+        "group": "Ingredientes"
+      },
+      {
+        "name": "leche condensada",
+        "amount": 180,
+        "unit": "g",
+        "group": "Ingredientes"
+      },
+      {
+        "name": "extracto de vainilla",
+        "amount": 5,
+        "unit": "ml",
+        "group": "Ingredientes"
+      },
+      {
+        "name": "canela molida para servir",
+        "amount": 1,
+        "unit": "g",
+        "group": "Ingredientes"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Empieza por el arroz",
+        "text": "Enjuaga brevemente el arroz y escúrrelo. Coloca en la cacerola con el agua, la canela en rama y la sal.",
+        "minutes": 0
+      },
+      {
+        "title": "Que se abra el grano",
+        "text": "Lleva a hervor y baja el fuego. Cocina con la tapa entreabierta unos 15 minutos, hasta que el arroz absorba casi toda el agua. Si todavía está muy duro y se queda seco, agrega un poco de agua caliente.",
+        "minutes": 15
+      },
+      {
+        "title": "La parte cremosa",
+        "text": "Añade la leche entera y mantén un hervor muy suave, con la cacerola destapada. Cocina unos 20 minutos, removiendo seguido y pasando la cuchara por el fondo para que no se pegue. El arroz debe quedar tierno.",
+        "minutes": 20
+      },
+      {
+        "title": "El toque dulce",
+        "text": "Incorpora la leche condensada y la vainilla. Cocina 5 minutos más a fuego bajo, removiendo. Retira la canela en rama. Déjalo un poco más líquido de lo que quieres: se espesa al reposar.",
+        "minutes": 5
+      },
+      {
+        "title": "A tu gusto, Ángel",
+        "text": "Retira del fuego y deja reposar 10 minutos. Sirve tibio con la canela molida repartida por encima, o refrigera para disfrutar frío.",
+        "minutes": 10
+      }
+    ],
+    "tips": "Si lo prefieres más suelto después de enfriar, añade un chorrito de leche. Para servir frío, reparte en recipientes poco profundos y refrigera dentro de las 2 horas siguientes a la cocción. Conserva refrigerado y consume en 3 días."
   }
 ];
 
 const storageKey = "sweet-notes.v1";
 const recipeById = new Map(recipeCatalog.map(recipe => [recipe.id, recipe]));
-const categoryNames = { chocolate: "Chocolate", pasteles: "Pasteles", galletas: "Galletas", frios: "Postres fríos", "sin-horno": "Sin horno", faciles: "Recetas fáciles" };
+const categoryNames = { chocolate: "Chocolate", pasteles: "Pasteles", galletas: "Galletas", frios: "Postres fríos", "sin-horno": "Sin horno", faciles: "Recetas fáciles", nuevas: "Recién llegadas", "de-casa": "Sabores de casa" };
 const numberFormatter = new Intl.NumberFormat("es-MX", { maximumFractionDigits: 2 });
 const reducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)");
 let storageWorks = true;
@@ -160,7 +1057,8 @@ let previouslyFocused = null;
 let toastTimeout;
 let audioContext;
 let wakeLock;
-let spotifyUrl = normalizeSpotifyUrl(SPOTIFY_PLAYLIST_URL) || normalizeSpotifyUrl(savedData.spotifyUrl) || "";
+const spotifyDefaultUrl = normalizeSpotifyUrl(SPOTIFY_PLAYLIST_URL);
+let spotifyUrl = savedData.spotifyDefaultUrl === spotifyDefaultUrl ? normalizeSpotifyUrl(savedData.spotifyUrl) || spotifyDefaultUrl || "" : spotifyDefaultUrl || normalizeSpotifyUrl(savedData.spotifyUrl) || "";
 
 const pageShell = document.getElementById("page-shell");
 const experienceLayer = document.getElementById("experience-layer");
@@ -227,7 +1125,7 @@ function persistData() {
     const state = kitchenState(recipe);
     kitchen[recipe.id] = { servings: state.servings, checked: [...state.checked], completed: [...state.completed], currentStep: state.currentStep };
   }
-  const data = { favorites: [...favoriteIds], kitchen, spotifyUrl, timers: [...activeTimers.values()] };
+  const data = { favorites: [...favoriteIds], kitchen, spotifyUrl, spotifyDefaultUrl, timers: [...activeTimers.values()] };
   savedData = data;
   try {
     localStorage.setItem(storageKey, JSON.stringify(data));
@@ -247,6 +1145,7 @@ function showToast(message) {
 }
 
 function imageMarkup(recipe, width = 800, lazy = true) {
+  if (recipe.photo.startsWith("https://")) return `<img src="${escapeHTML(recipe.photo)}"${recipe.photoFocus ? ` data-photo-focus="${escapeHTML(recipe.photoFocus)}"` : ""} width="1280" height="960" alt="${escapeHTML(recipe.photoAlt)}" loading="${lazy ? "lazy" : "eager"}" decoding="async"><span class="photo-fallback" hidden>${escapeHTML(recipe.name)}</span>`;
   const base = `https://images.unsplash.com/${recipe.photo}?auto=format&fit=crop`;
   return `<img src="${base}&w=${width}&q=80" srcset="${base}&w=400&q=75 400w, ${base}&w=800&q=80 800w, ${base}&w=1200&q=80 1200w" sizes="${lazy ? "(max-width: 650px) calc(100vw - 40px), (max-width: 900px) 44vw, 370px" : "(max-width: 650px) calc(100vw - 20px), 285px"}" width="800" height="600" alt="${escapeHTML(recipe.photoAlt)}" ${lazy ? 'loading="lazy"' : 'loading="eager"'} decoding="async"><span class="photo-fallback" hidden>${escapeHTML(recipe.name)}</span>`;
 }
@@ -257,7 +1156,7 @@ function favoriteLabel(recipe) {
 
 function cardMarkup(recipe) {
   const saved = favoriteIds.has(recipe.id);
-  const badge = recipe.tags.includes("sin-horno") ? "Sin horno" : recipe.difficulty === "Fácil" ? "Fácil de querer" : "Hecho con calma";
+  const badge = recipe.id === "arroz-con-leche" ? "El favorito de Ángel" : recipe.tags.includes("nuevas") ? "Nuevo antojo" : recipe.tags.includes("sin-horno") ? "Sin horno" : recipe.difficulty === "Fácil" ? "Fácil de querer" : "Hecho con calma";
   return `<article class="recipe-card" data-recipe-card="${recipe.id}"><div class="card-photo"><button class="card-open-image" type="button" data-open-recipe="${recipe.id}" aria-label="Ver receta de ${escapeHTML(recipe.name)}">${imageMarkup(recipe)}</button><span class="card-badge">${badge}</span><button class="favorite-button${saved ? " is-saved" : ""}" type="button" data-favorite="${recipe.id}" aria-pressed="${saved}" aria-label="${escapeHTML(favoriteLabel(recipe))}">${icon("heart")}</button></div><div class="card-copy"><p class="card-category">${escapeHTML(recipe.categoryLabel)}</p><h3 class="card-title"><button type="button" data-open-recipe="${recipe.id}">${escapeHTML(recipe.name)}</button></h3><p class="card-description">${escapeHTML(recipe.description)}</p><div class="card-meta"><span>${icon("clock")}${formatDuration(totalMinutes(recipe))}</span><span><i class="difficulty-dot" aria-hidden="true"></i>${recipe.difficulty}</span><button class="card-arrow" type="button" data-open-recipe="${recipe.id}" aria-label="Preparar ${escapeHTML(recipe.name)}">${icon("arrow")}</button></div></div></article>`;
 }
 
@@ -276,9 +1175,14 @@ function filteredRecipes() {
 }
 
 function renderRecipeCards(container, recipes) {
+  const replacingCards = container.childElementCount > 0;
   if (recipeCardObserver) container.querySelectorAll(".recipe-card").forEach(card => recipeCardObserver.unobserve(card));
   if (tiltedRecipeCard && container.contains(tiltedRecipeCard)) resetCardTilt();
   container.innerHTML = recipes.map(cardMarkup).join("");
+  if (replacingCards && !reducedMotion.matches && container.animate) {
+    container.getAnimations().forEach(animation => animation.cancel());
+    container.animate([{ opacity: .5, translate: "0 7px" }, { opacity: 1, translate: "0 0" }], { duration: 260, easing: "cubic-bezier(.2,.75,.3,1)" });
+  }
   if (reducedMotion.matches || !("IntersectionObserver" in window)) return;
   if (!recipeCardObserver) {
     recipeCardObserver = new IntersectionObserver(entries => {
@@ -395,7 +1299,7 @@ function renderDetail() {
   recipeDialog.classList.toggle("is-cooking", cookingMode);
   const cookNavigation = cookingMode && !finishedRoute ? `<div class="cook-navigation"><button class="button button-outline" type="button" data-action="previous-step" ${state.currentStep === 0 ? "disabled" : ""}>${icon("arrow", "back-arrow")} Anterior</button><span class="cook-position">Paso ${state.currentStep + 1} de ${recipe.steps.length}</span><button class="button button-primary" type="button" data-action="next-step">${state.currentStep === recipe.steps.length - 1 ? "Terminar" : "Completar y seguir"} ${icon("arrow")}</button></div>` : "";
   const completion = finishedRoute ? `<div class="cook-completion"><p class="handwritten">${state.completed.size === recipe.steps.length ? "Algo rico acaba de nacer." : "Llegaste al final del recorrido."}</p><p>${state.completed.size} de ${recipe.steps.length} pasos marcados. ${state.completed.size === recipe.steps.length ? "Disfruta lo que preparaste, Maribel." : "Puedes volver a revisar los pasos que te falten."}</p><button class="button button-outline" type="button" data-action="review-steps">Volver a los pasos ${icon("arrow")}</button></div>` : "";
-  recipeDetail.innerHTML = `<div class="detail-intro"><div class="detail-photo">${imageMarkup(recipe, 800, false)}</div><div class="detail-summary"><p class="eyebrow">${escapeHTML(recipe.categoryLabel)}</p><h2 id="detail-title" tabindex="-1">${escapeHTML(recipe.name)}</h2><p>${escapeHTML(recipe.description)}</p><div class="detail-stats"><div class="detail-stat"><small>Preparación</small><strong>${formatDuration(recipe.prep)}</strong></div><div class="detail-stat"><small>Cocción</small><strong>${recipe.cook ? formatDuration(recipe.cook) : "Sin cocción"}</strong></div><div class="detail-stat"><small>Reposo / frío</small><strong>${recipe.rest ? formatDuration(recipe.rest) : "Sin reposo"}</strong></div><div class="detail-stat"><small>Porciones</small><strong id="detail-yield">${state.servings}</strong></div><div class="detail-stat"><small>Nivel</small><strong>${recipe.difficulty}</strong></div><div class="detail-stat"><small>Horno</small><strong>${recipe.oven ? `${recipe.oven} °C` : "Sin horno"}</strong></div></div><div class="detail-actions"><button class="button ${cookingMode ? "button-outline" : "button-primary"}" type="button" data-action="toggle-cook" aria-pressed="${cookingMode}">${icon("cook")}${cookingMode ? "Ver receta completa" : "Modo cocina"}</button><button class="button button-outline detail-favorite${favoriteIds.has(recipe.id) ? " is-saved" : ""}" type="button" data-favorite="${recipe.id}" aria-pressed="${favoriteIds.has(recipe.id)}" aria-label="${escapeHTML(favoriteLabel(recipe))}">${icon("heart")} Favorita</button><button class="icon-button" type="button" data-action="share" aria-label="Compartir ${escapeHTML(recipe.name)}">${icon("share")}</button><button class="icon-button" type="button" data-music-open aria-label="Abrir música mientras cocinas">${icon("music")}</button></div><div class="share-fallback" id="share-fallback" hidden><label for="share-url">Copia este enlace para compartir la receta</label><input id="share-url" readonly></div></div></div><div class="detail-columns"><section class="ingredients-pane" aria-labelledby="ingredients-title"><h3 id="ingredients-title">Lo que necesitas</h3><div class="servings-control"><span>Porciones</span><div class="servings-stepper"><button type="button" data-action="less-portions" aria-label="Reducir una porción" ${state.servings <= 1 ? "disabled" : ""}>${icon("minus")}</button><output id="portion-output" aria-live="polite">${state.servings}</output><button type="button" data-action="more-portions" aria-label="Aumentar una porción" ${state.servings >= 60 ? "disabled" : ""}>${icon("plus")}</button></div></div><p class="portion-note">Cantidades base para ${recipe.servings}. Si necesitas una fracción de huevo, bátelo y pesa esa proporción. Ajusta el molde; los tiempos no se multiplican.</p><div id="ingredient-list">${ingredientListMarkup(recipe)}</div><p class="ingredients-progress" id="ingredients-progress">${state.checked.size} de ${recipe.ingredients.length} ingredientes listos</p><p class="portion-note">${escapeHTML(recipe.equipment)}</p></section><section class="steps-pane" aria-labelledby="steps-title"><div class="steps-title-row"><h3 id="steps-title">${cookingMode ? "A tu ritmo, paso a paso." : "Manos a la masa"}</h3><span class="steps-progress" id="steps-progress">${state.completed.size}/${recipe.steps.length} listos</span></div>${timerFormMarkup(recipe)}<ol class="steps-list" aria-label="Pasos de preparación">${stepsMarkup(recipe)}</ol>${completion}${cookNavigation}<aside class="recipe-tips"><h4>Una nota de tu recetario</h4><p>${escapeHTML(recipe.tips)}</p></aside></section></div><p class="recipe-credit">Fotografía ilustrativa: <a href="${escapeHTML(recipe.photoSource)}" target="_blank" rel="noopener noreferrer">${escapeHTML(recipe.photographer)} en Unsplash</a>. La presentación puede variar. Tiempo total estimado: ${formatDuration(totalMinutes(recipe))}; los levados y la cocción dependen de tu cocina.</p>`;
+  recipeDetail.innerHTML = `<div class="detail-intro"><div class="detail-photo">${imageMarkup(recipe, 800, false)}</div><div class="detail-summary"><p class="eyebrow">${escapeHTML(recipe.categoryLabel)}</p><h2 id="detail-title" tabindex="-1">${escapeHTML(recipe.name)}</h2><p>${escapeHTML(recipe.description)}</p><div class="detail-stats"><div class="detail-stat"><small>Preparación</small><strong>${formatDuration(recipe.prep)}</strong></div><div class="detail-stat"><small>Cocción</small><strong>${recipe.cook ? formatDuration(recipe.cook) : "Sin cocción"}</strong></div><div class="detail-stat"><small>Reposo / frío</small><strong>${recipe.rest ? formatDuration(recipe.rest) : "Sin reposo"}</strong></div><div class="detail-stat"><small>Porciones</small><strong id="detail-yield">${state.servings}</strong></div><div class="detail-stat"><small>Nivel</small><strong>${recipe.difficulty}</strong></div><div class="detail-stat"><small>Horno</small><strong>${recipe.oven ? `${recipe.oven} °C` : "Sin horno"}</strong></div></div><div class="detail-actions"><button class="button ${cookingMode ? "button-outline" : "button-primary"}" type="button" data-action="toggle-cook" aria-pressed="${cookingMode}">${icon("cook")}${cookingMode ? "Ver receta completa" : "Modo cocina"}</button><button class="button button-outline detail-favorite${favoriteIds.has(recipe.id) ? " is-saved" : ""}" type="button" data-favorite="${recipe.id}" aria-pressed="${favoriteIds.has(recipe.id)}" aria-label="${escapeHTML(favoriteLabel(recipe))}">${icon("heart")} Favorita</button><button class="icon-button" type="button" data-action="share" aria-label="Compartir ${escapeHTML(recipe.name)}">${icon("share")}</button><button class="icon-button" type="button" data-music-open aria-label="Abrir música mientras cocinas">${icon("music")}</button></div><div class="share-fallback" id="share-fallback" hidden><label for="share-url">Copia este enlace para compartir la receta</label><input id="share-url" readonly></div></div></div><div class="detail-columns"><section class="ingredients-pane" aria-labelledby="ingredients-title"><h3 id="ingredients-title">Lo que necesitas</h3><div class="servings-control"><span>Porciones</span><div class="servings-stepper"><button type="button" data-action="less-portions" aria-label="Reducir una porción" ${state.servings <= 1 ? "disabled" : ""}>${icon("minus")}</button><output id="portion-output" aria-live="polite">${state.servings}</output><button type="button" data-action="more-portions" aria-label="Aumentar una porción" ${state.servings >= 60 ? "disabled" : ""}>${icon("plus")}</button></div></div><p class="portion-note">Cantidades base para ${recipe.servings}. Si necesitas una fracción de huevo, bátelo y pesa esa proporción. Ajusta el molde; los tiempos no se multiplican.</p><div id="ingredient-list">${ingredientListMarkup(recipe)}</div><p class="ingredients-progress" id="ingredients-progress">${state.checked.size} de ${recipe.ingredients.length} ingredientes listos</p><p class="portion-note">${escapeHTML(recipe.equipment)}</p></section><section class="steps-pane" aria-labelledby="steps-title"><div class="steps-title-row"><h3 id="steps-title">${cookingMode ? "A tu ritmo, paso a paso." : "Manos a la masa"}</h3><span class="steps-progress" id="steps-progress">${state.completed.size}/${recipe.steps.length} listos</span></div>${timerFormMarkup(recipe)}<ol class="steps-list" aria-label="Pasos de preparación">${stepsMarkup(recipe)}</ol>${completion}${cookNavigation}<aside class="recipe-tips"><h4>Una nota de tu recetario</h4><p>${escapeHTML(recipe.tips)}</p></aside></section></div><p class="recipe-credit">Fotografía ilustrativa: <a href="${escapeHTML(recipe.photoSource)}" target="_blank" rel="noopener noreferrer">${escapeHTML(recipe.photographer)} en ${escapeHTML(recipe.photoPlatform || "Unsplash")}</a>${recipe.photoLicense ? ` · <a href="${escapeHTML(recipe.photoLicenseUrl)}" target="_blank" rel="noopener noreferrer">${escapeHTML(recipe.photoLicense)}</a> · encuadre adaptado` : ""}. La presentación puede variar. Tiempo total estimado: ${formatDuration(totalMinutes(recipe))}; los levados y la cocción dependen de tu cocina.</p>`;
 }
 
 function recipeLink(id) {
@@ -712,10 +1616,12 @@ function normalizeSpotifyUrl(value) {
 function updateSpotify() {
   const configured = Boolean(spotifyUrl);
   document.getElementById("spotify-url").value = spotifyUrl;
-  document.getElementById("playlist-state-title").textContent = configured ? "La playlist ya tiene su lugar." : "Tu playlist, tu toque final.";
-  document.getElementById("playlist-state-text").textContent = configured ? "Abre el reproductor y elige una canción desde los controles oficiales de Spotify." : "Pega la playlist que preparaste para Maribel y hazla parte del recetario.";
-  document.getElementById("player-status").textContent = configured ? "Tu enlace de Spotify está listo" : "Tu playlist está por llegar";
+  document.getElementById("playlist-state-title").textContent = configured ? "Tu playlist ya está aquí." : "Tu playlist, tu toque final.";
+  document.getElementById("playlist-state-text").textContent = configured ? "Toca Ver canciones y elige un tema de la lista. Puedes cambiarlo sin salir del recetario." : "Pega la playlist que preparaste para Maribel y hazla parte del recetario.";
+  document.getElementById("player-status").textContent = configured ? "Elegir canción · tu playlist" : "Tu playlist está por llegar";
   document.getElementById("player-placeholder").hidden = configured;
+  document.getElementById("player-guide").hidden = !configured;
+  document.getElementById("restore-default-playlist").hidden = !spotifyDefaultUrl || spotifyUrl === spotifyDefaultUrl;
   document.getElementById("player-footnote").hidden = !configured;
   document.getElementById("spotify-page-link").hidden = !configured;
   if (!configured) return;
@@ -726,9 +1632,10 @@ function updateSpotify() {
   const iframe = document.createElement("iframe");
   iframe.src = spotifyUrl.replace("open.spotify.com/", "open.spotify.com/embed/") + "?utm_source=generator&theme=0";
   iframe.dataset.playlistUrl = spotifyUrl;
-  iframe.title = "Playlist o álbum de Maribel en Spotify";
+  iframe.title = "Spotify: elige o cambia una canción de tu playlist";
+  iframe.setAttribute("aria-describedby", "player-howto");
   iframe.width = "100%";
-  iframe.height = "352";
+  iframe.height = "432";
   iframe.allow = "autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture";
   iframe.allowFullscreen = true;
   iframe.loading = "eager";
@@ -742,7 +1649,9 @@ function setPlayerExpanded(expanded) {
   playerBody.setAttribute("aria-hidden", String(!expanded));
   const button = document.getElementById("toggle-player");
   button.setAttribute("aria-expanded", String(expanded));
-  button.setAttribute("aria-label", expanded ? "Contraer reproductor" : "Expandir reproductor");
+  button.setAttribute("aria-label", expanded ? "Contraer reproductor" : "Ver canciones de Spotify");
+  document.getElementById("player-launch").setAttribute("aria-expanded", String(expanded));
+  document.getElementById("player-status").textContent = spotifyUrl ? expanded ? "Elige un tema de la lista de Spotify" : "Elegir canción · tu playlist" : "Agrega tu playlist";
   document.body.classList.toggle("music-expanded", expanded && !musicPlayer.hidden);
 }
 
@@ -898,6 +1807,17 @@ document.getElementById("load-more").addEventListener("click", () => {
 });
 document.getElementById("close-recipe").addEventListener("click", () => closeRecipe());
 recipeOverlay.addEventListener("click", event => { if (event.target === recipeOverlay) closeRecipe(); });
+document.getElementById("player-launch").addEventListener("click", openMusicPlayer);
+document.getElementById("restore-default-playlist").addEventListener("click", () => {
+  if (!spotifyDefaultUrl) return;
+  spotifyUrl = spotifyDefaultUrl;
+  document.getElementById("spotify-error").hidden = true;
+  document.getElementById("spotify-url").removeAttribute("aria-invalid");
+  persistData();
+  updateSpotify();
+  openMusicPlayer();
+  showToast("Tu playlist original está de vuelta.");
+});
 document.getElementById("toggle-player").addEventListener("click", () => setPlayerExpanded(musicPlayer.classList.contains("is-collapsed")));
 document.getElementById("go-music-settings").addEventListener("click", () => {
   closeRecipe(true, false);
@@ -954,6 +1874,7 @@ function updateScrollState() {
   for (const section of navigationSections) {
     if (section.getBoundingClientRect().top <= 155) currentSection = section;
   }
+  if (document.documentElement.dataset.scene !== currentSection.id) document.documentElement.dataset.scene = currentSection.id;
   for (const anchor of navigationAnchors) {
     const current = anchor.getAttribute("href") === `#${currentSection.id}`;
     anchor.classList.toggle("is-current", current);
@@ -1037,6 +1958,7 @@ for (const grid of [recipeGrid, favoritesGrid]) {
 }
 
 function updateMotionActivity() {
+  document.getElementById("replay-intro").hidden = reducedMotion.matches;
   document.documentElement.classList.toggle("motion-paused", document.hidden || reducedMotion.matches);
   if (document.hidden || reducedMotion.matches) resetCardTilt();
 }
@@ -1157,10 +2079,99 @@ document.querySelector(".hero").addEventListener("pointerleave", () => { heroCol
 renderRecipes();
 renderFavorites();
 updateSpotify();
+if (spotifyUrl) {
+  musicPlayer.hidden = false;
+  document.body.classList.add("music-visible");
+  setPlayerExpanded(false);
+}
 restoreTimers();
 renderTimerTray();
 tickTimers();
+if (savedData.spotifyDefaultUrl !== spotifyDefaultUrl) persistData();
 setInterval(tickTimers, 500);
 updateScrollState();
 syncRecipeWithLocation();
 if (!storageWorks) showToast("El almacenamiento del navegador no está disponible. Tus cambios durarán esta visita.");
+
+function playPageEntrance(force = false) {
+  const intro = document.getElementById("page-intro");
+  if (!intro || !intro.hidden || reducedMotion.matches || currentRecipeId) return;
+  if (!force && window.location.hash && window.location.hash !== "#inicio") return;
+  const previousFocus = document.activeElement;
+  const shellWasInert = pageShell.inert;
+  const experienceWasInert = experienceLayer.inert;
+  let finished = false;
+  let revealTimer;
+  let finishTimer;
+  const finish = () => {
+    if (finished) return;
+    finished = true;
+    clearTimeout(revealTimer);
+    clearTimeout(finishTimer);
+    const restoreFocus = force || intro.contains(document.activeElement);
+    document.documentElement.classList.remove("intro-active", "intro-showing");
+    intro.hidden = true;
+    intro.classList.remove("is-entering");
+    pageShell.inert = shellWasInert;
+    experienceLayer.inert = experienceWasInert;
+    intro.removeEventListener("pointerdown", skipPointer);
+    intro.removeEventListener("animationend", animationFinished);
+    document.removeEventListener("keydown", skipKey, true);
+    window.removeEventListener("pagehide", finish);
+    reducedMotion.removeEventListener?.("change", motionChanged);
+    if (restoreFocus) {
+      const focusTarget = previousFocus instanceof HTMLElement && previousFocus !== document.body && previousFocus.isConnected && !previousFocus.closest("[inert]") ? previousFocus : document.querySelector(".header-inner .brand");
+      focusTarget?.focus({ preventScroll: true });
+    }
+  };
+  const skipPointer = event => { event.preventDefault(); event.stopPropagation(); finish(); };
+  const skipKey = event => {
+    if (["Shift", "Control", "Alt", "Meta", "CapsLock"].includes(event.key)) return;
+    if (["Enter", " ", "Escape"].includes(event.key)) { event.preventDefault(); event.stopPropagation(); }
+    finish();
+  };
+  const motionChanged = () => { if (reducedMotion.matches) finish(); };
+  const animationFinished = event => { if (event.animationName === "intro-open-right") finish(); };
+  pageShell.inert = true;
+  experienceLayer.inert = true;
+  intro.hidden = false;
+  document.documentElement.classList.add("intro-active", "intro-showing");
+  intro.classList.add("is-entering");
+  revealTimer = setTimeout(() => document.documentElement.classList.remove("intro-active"), 2050);
+  finishTimer = setTimeout(finish, 3200);
+  intro.addEventListener("pointerdown", skipPointer);
+  intro.addEventListener("animationend", animationFinished);
+  document.addEventListener("keydown", skipKey, true);
+  window.addEventListener("pagehide", finish);
+  reducedMotion.addEventListener?.("change", motionChanged);
+}
+
+let atmosphereFrame = 0;
+let pendingAtmospherePointer = null;
+function resetAtmospherePointer() {
+  if (atmosphereFrame) cancelAnimationFrame(atmosphereFrame);
+  atmosphereFrame = 0;
+  pendingAtmospherePointer = null;
+  document.documentElement.style.setProperty("--ambient-x", "0");
+  document.documentElement.style.setProperty("--ambient-y", "0");
+}
+
+function updateAtmospherePointer() {
+  atmosphereFrame = 0;
+  if (!pendingAtmospherePointer || reducedMotion.matches || document.hidden || currentRecipeId) return;
+  document.documentElement.style.setProperty("--ambient-x", pendingAtmospherePointer.x.toFixed(3));
+  document.documentElement.style.setProperty("--ambient-y", pendingAtmospherePointer.y.toFixed(3));
+}
+
+document.addEventListener("pointermove", event => {
+  if (reducedMotion.matches || !finePointer.matches || event.pointerType !== "mouse" || currentRecipeId || document.documentElement.classList.contains("intro-active")) return;
+  pendingAtmospherePointer = { x: Math.max(-1, Math.min(1, event.clientX / window.innerWidth * 2 - 1)), y: Math.max(-1, Math.min(1, event.clientY / window.innerHeight * 2 - 1)) };
+  if (!atmosphereFrame) atmosphereFrame = requestAnimationFrame(updateAtmospherePointer);
+}, { passive: true });
+document.addEventListener("pointerleave", resetAtmospherePointer);
+window.addEventListener("blur", resetAtmospherePointer);
+document.addEventListener("visibilitychange", () => { if (document.hidden) resetAtmospherePointer(); });
+if (reducedMotion.addEventListener) reducedMotion.addEventListener("change", resetAtmospherePointer);
+window.addEventListener("resize", () => { if (!scrollScheduled) { scrollScheduled = true; requestAnimationFrame(updateScrollState); } }, { passive: true });
+document.getElementById("replay-intro").addEventListener("click", () => playPageEntrance(true));
+playPageEntrance();
