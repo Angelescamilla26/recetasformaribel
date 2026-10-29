@@ -7,7 +7,7 @@ const recipeCatalog = [
   {
     "id": "brownies-de-chocolate",
     "name": "Brownies de chocolate",
-    "categoryLabel": "Para amantes del chocolate",
+    "categoryLabel": "Chocolate y costrita crujiente",
     "tags": [
       "chocolate",
       "pasteles",
@@ -139,7 +139,7 @@ const recipeCatalog = [
   {
     "id": "galletas-con-chispas",
     "name": "Galletas con chispas",
-    "categoryLabel": "Un clásico que abraza",
+    "categoryLabel": "Galletas con chispas",
     "tags": [
       "galletas",
       "chocolate",
@@ -277,7 +277,7 @@ const recipeCatalog = [
   {
     "id": "cheesecake-de-fresa",
     "name": "Cheesecake de fresa",
-    "categoryLabel": "Bonito por fuera, dulce por dentro",
+    "categoryLabel": "Cheesecake sin horno",
     "tags": [
       "frios",
       "sin-horno",
@@ -433,7 +433,7 @@ const recipeCatalog = [
   {
     "id": "tiramisu",
     "name": "Tiramisú sin huevo",
-    "categoryLabel": "Una pausa con sabor a café",
+    "categoryLabel": "Café y mascarpone",
     "tags": [
       "frios",
       "sin-horno"
@@ -558,7 +558,7 @@ const recipeCatalog = [
   {
     "id": "pastel-de-zanahoria",
     "name": "Pastel de zanahoria",
-    "categoryLabel": "De esos que saben a hogar",
+    "categoryLabel": "Zanahoria, nuez y canela",
     "tags": [
       "pasteles"
     ],
@@ -718,7 +718,7 @@ const recipeCatalog = [
   {
     "id": "cupcakes-de-vainilla",
     "name": "Cupcakes de vainilla",
-    "categoryLabel": "Pequeños motivos para celebrar",
+    "categoryLabel": "Vainilla y betún",
     "tags": [
       "pasteles"
     ],
@@ -872,7 +872,7 @@ const recipeCatalog = [
   {
     "id": "roles-de-canela",
     "name": "Roles de canela",
-    "categoryLabel": "Un domingo en forma de espiral",
+    "categoryLabel": "Masa suave con canela",
     "tags": [
       "pasteles"
     ],
@@ -1038,7 +1038,7 @@ const recipeCatalog = [
   {
     "id": "fresas-con-crema",
     "name": "Fresas con crema",
-    "categoryLabel": "La felicidad en una cucharada",
+    "categoryLabel": "Fresas con crema",
     "tags": [
       "frios",
       "sin-horno",
@@ -1134,7 +1134,7 @@ const recipeCatalog = [
   {
     "id": "mousse-de-chocolate",
     "name": "Mousse de chocolate",
-    "categoryLabel": "Suave como una buena canción",
+    "categoryLabel": "Chocolate semiamargo",
     "tags": [
       "chocolate",
       "frios",
@@ -1242,7 +1242,7 @@ const recipeCatalog = [
   {
     "id": "pay-de-limon",
     "name": "Pay de limón",
-    "categoryLabel": "Un rayito de sabor",
+    "categoryLabel": "Limón sin horno",
     "tags": [
       "pasteles",
       "frios"
@@ -1361,7 +1361,7 @@ const recipeCatalog = [
   {
     "id": "galletas-red-velvet",
     "name": "Galletas Red Velvet",
-    "categoryLabel": "Un poquito fuera de lo común",
+    "categoryLabel": "Galletas red velvet",
     "tags": [
       "galletas",
       "chocolate",
@@ -1505,7 +1505,7 @@ const recipeCatalog = [
   {
     "id": "panque-de-platano",
     "name": "Panqué de plátano",
-    "categoryLabel": "Aprovechar también sabe rico",
+    "categoryLabel": "Plátanos maduros",
     "tags": [
       "pasteles",
       "faciles"
@@ -1642,7 +1642,7 @@ const recipeCatalog = [
   {
     "id": "trufas-de-chocolate",
     "name": "Trufas de chocolate",
-    "categoryLabel": "Pequeñitas, pero inolvidables",
+    "categoryLabel": "Chocolate para compartir",
     "tags": [
       "chocolate",
       "frios",
@@ -1745,7 +1745,7 @@ const recipeCatalog = [
   {
     "id": "donas-glaseadas",
     "name": "Donas glaseadas",
-    "categoryLabel": "Una vuelta a la felicidad",
+    "categoryLabel": "Donas al horno",
     "tags": [
       "pasteles",
       "faciles"
@@ -1888,7 +1888,7 @@ const recipeCatalog = [
   {
     "id": "mini-cheesecakes",
     "name": "Mini cheesecakes",
-    "categoryLabel": "Para compartir o guardar uno",
+    "categoryLabel": "Porciones individuales",
     "tags": [
       "pasteles",
       "frios"
@@ -2019,7 +2019,7 @@ const recipeCatalog = [
   {
     "id": "cheesecake-de-galleta",
     "name": "Cheesecake de galleta",
-    "categoryLabel": "Cookies & cream, sin encender el horno",
+    "categoryLabel": "Galleta y queso crema",
     "tags": [
       "pasteles",
       "frios",
@@ -2165,7 +2165,7 @@ const recipeCatalog = [
   {
     "id": "galletas-de-mantequilla",
     "name": "Galletas de mantequilla",
-    "categoryLabel": "Pocas cosas. Un sabor enorme.",
+    "categoryLabel": "Mantequilla y vainilla",
     "tags": [
       "galletas",
       "faciles",
@@ -2285,7 +2285,7 @@ const recipeCatalog = [
   {
     "id": "galletas-de-naranja",
     "name": "Galletas de naranja",
-    "categoryLabel": "Una tarde con aroma a cítricos",
+    "categoryLabel": "Ralladura de naranja",
     "tags": [
       "galletas",
       "faciles",
@@ -2429,7 +2429,7 @@ const recipeCatalog = [
   {
     "id": "empanadas-dulces-de-pina",
     "name": "Empanadas dulces de piña",
-    "categoryLabel": "Un relleno que sabe a casa",
+    "categoryLabel": "Empanadas de piña",
     "tags": [
       "pasteles",
       "de-casa",
@@ -2585,7 +2585,7 @@ const recipeCatalog = [
   {
     "id": "tarta-de-manzana",
     "name": "Tarta de manzana",
-    "categoryLabel": "Manzana, canela y una mesa compartida",
+    "categoryLabel": "Manzana y canela",
     "tags": [
       "pasteles",
       "de-casa",
@@ -2735,7 +2735,7 @@ const recipeCatalog = [
   {
     "id": "pay-de-queso",
     "name": "Pay de queso",
-    "categoryLabel": "El clásico de la mesa familiar",
+    "categoryLabel": "Queso crema al horno",
     "tags": [
       "pasteles",
       "frios",
@@ -2862,7 +2862,7 @@ const recipeCatalog = [
   {
     "id": "pan-de-elote",
     "name": "Pan de elote",
-    "categoryLabel": "Dulce, dorado y muy de casa",
+    "categoryLabel": "Elote y leche condensada",
     "tags": [
       "pasteles",
       "de-casa",
@@ -3259,7 +3259,7 @@ function favoriteLabel(recipe) {
 
 function cardMarkup(recipe) {
   const saved = favoriteIds.has(recipe.id);
-  const badge = recipe.id === "arroz-con-leche" ? "El favorito de Ángel" : recipe.tags.includes("nuevas") ? "Nuevo antojo" : recipe.tags.includes("sin-horno") ? "Sin horno" : recipe.difficulty === "Fácil" ? "Fácil de querer" : "Hecho con calma";
+  const badge = recipe.id === "arroz-con-leche" ? "El favorito de Ángel" : recipe.tags.includes("nuevas") ? "Nuevo antojo" : recipe.tags.includes("sin-horno") ? "Sin horno" : recipe.difficulty === "Fácil" ? "Fácil" : "Para preparar con tiempo";
   return `<article class="recipe-card" data-recipe-card="${recipe.id}"><div class="card-photo"><button class="card-open-image" type="button" data-open-recipe="${recipe.id}" aria-label="Ver receta de ${escapeHTML(recipe.name)}">${imageMarkup(recipe)}</button><span class="card-badge">${badge}</span><button class="favorite-button${saved ? " is-saved" : ""}" type="button" data-favorite="${recipe.id}" aria-pressed="${saved}" aria-label="${escapeHTML(favoriteLabel(recipe))}">${icon("heart")}</button></div><div class="card-copy"><p class="card-category">${escapeHTML(recipe.categoryLabel)}</p><h3 class="card-title"><button type="button" data-open-recipe="${recipe.id}">${escapeHTML(recipe.name)}</button></h3><p class="card-description">${escapeHTML(recipe.description)}</p><div class="card-meta"><span>${icon("clock")}${formatDuration(totalMinutes(recipe))}</span><span><i class="difficulty-dot" aria-hidden="true"></i>${recipe.difficulty}</span><button class="card-arrow" type="button" data-open-recipe="${recipe.id}" aria-label="Preparar ${escapeHTML(recipe.name)}">${icon("arrow")}</button></div></div></article>`;
 }
 
@@ -3788,17 +3788,11 @@ function normalizeSpotifyUrl(value) {
 
 function updateSpotify() {
   const configured = Boolean(spotifyUrl);
-  document.getElementById("spotify-url").value = spotifyUrl;
-  document.getElementById("playlist-state-title").textContent = configured ? "Tu playlist ya está aquí." : "Tu playlist, tu toque final.";
-  document.getElementById("playlist-state-text").textContent = configured ? "Toca Ver canciones y elige un tema de la lista. Puedes cambiarlo sin salir del recetario." : "Pega la playlist que preparaste para Maribel y hazla parte del recetario.";
   document.getElementById("player-status").textContent = configured ? "Elegir canción · tu playlist" : "Tu playlist está por llegar";
-  document.getElementById("player-placeholder").hidden = configured;
   document.getElementById("player-guide").hidden = !configured;
-  document.getElementById("restore-default-playlist").hidden = !spotifyDefaultUrl || spotifyUrl === spotifyDefaultUrl;
   document.getElementById("player-footnote").hidden = !configured;
-  document.getElementById("spotify-page-link").hidden = !configured;
   if (!configured) return;
-  for (const id of ["spotify-page-link", "spotify-player-link"]) document.getElementById(id).href = spotifyUrl;
+  document.getElementById("spotify-player-link").href = spotifyUrl;
   const container = document.getElementById("spotify-embed");
   const currentEmbed = container.querySelector("iframe");
   if (currentEmbed?.dataset.playlistUrl === spotifyUrl) return;
@@ -3946,26 +3940,7 @@ document.addEventListener("submit", event => {
     const form = event.target;
     if (form.reportValidity()) beginTimer(Number(document.getElementById("timer-minutes").value));
   }
-  if (event.target.id === "spotify-form") {
-    event.preventDefault();
-    const field = document.getElementById("spotify-url");
-    const error = document.getElementById("spotify-error");
-    const normalized = normalizeSpotifyUrl(field.value);
-    if (!normalized) {
-      error.textContent = "Usa el enlace completo de una playlist o álbum: https://open.spotify.com/playlist/… No se admiten enlaces acortados.";
-      error.hidden = false;
-      field.setAttribute("aria-invalid", "true");
-      field.focus();
-      return;
-    }
-    spotifyUrl = normalized;
-    error.hidden = true;
-    field.removeAttribute("aria-invalid");
-    persistData();
-    updateSpotify();
-    openMusicPlayer();
-    showToast("Enlace guardado. Pulsa reproducir en los controles de Spotify.");
-  }
+
 });
 
 document.addEventListener("error", event => {
@@ -3991,23 +3966,7 @@ document.getElementById("load-more").addEventListener("click", () => {
 document.getElementById("close-recipe").addEventListener("click", () => closeRecipe());
 recipeOverlay.addEventListener("click", event => { if (event.target === recipeOverlay) closeRecipe(); });
 document.getElementById("player-launch").addEventListener("click", openMusicPlayer);
-document.getElementById("restore-default-playlist").addEventListener("click", () => {
-  if (!spotifyDefaultUrl) return;
-  spotifyUrl = spotifyDefaultUrl;
-  document.getElementById("spotify-error").hidden = true;
-  document.getElementById("spotify-url").removeAttribute("aria-invalid");
-  persistData();
-  updateSpotify();
-  openMusicPlayer();
-  showToast("Tu playlist original está de vuelta.");
-});
 document.getElementById("toggle-player").addEventListener("click", () => setPlayerExpanded(musicPlayer.classList.contains("is-collapsed")));
-document.getElementById("go-music-settings").addEventListener("click", () => {
-  closeRecipe(true, false);
-  setPlayerExpanded(false);
-  document.getElementById("musica").scrollIntoView({ behavior: reducedMotion.matches ? "instant" : "smooth" });
-  document.getElementById("spotify-url").focus({ preventScroll: true });
-});
 document.getElementById("menu-toggle").addEventListener("click", () => setMobileMenu(document.getElementById("menu-toggle").getAttribute("aria-expanded") !== "true"));
 document.querySelectorAll("#main-nav a").forEach(anchor => anchor.addEventListener("click", () => setMobileMenu(false)));
 document.addEventListener("click", event => {
@@ -4453,7 +4412,7 @@ class SpotifyAccountClient {
 
   async authorizationURL(currentURL) {
     const redirectUri = SpotifyAccountClient.redirectURI(currentURL);
-    if (!redirectUri) throw new SpotifyRequestError("Abre la web con http://127.0.0.1 y Live Server, o con HTTPS. Encontrarás ayuda debajo.");
+    if (!redirectUri) throw new SpotifyRequestError("Abre la web con http://127.0.0.1 y Live Server, o con HTTPS. Vuelve a abrir tu página y pulsa conectar.");
     if (!this.clientId) throw new SpotifyRequestError("Falta configurar el Client ID de la aplicación.");
     if (!this.crypto?.subtle) throw new SpotifyRequestError("Este navegador necesita una conexión segura para iniciar sesión. Usa 127.0.0.1 con Live Server o HTTPS.");
     const verifier = SpotifyAccountClient.base64URL(this.crypto.getRandomValues(new Uint8Array(64)));
@@ -4572,6 +4531,32 @@ class SpotifyAccountClient {
   }
 }
 
+function spotifyListeningView(playback, connected, fresh = true) {
+  const item = connected ? playback?.item : null;
+  const hasItem = Boolean(item?.name && playback?.currently_playing_type !== "ad");
+  const isEpisode = item?.type === "episode" || playback?.currently_playing_type === "episode";
+  const artists = hasItem ? item.artists?.map(artist => artist.name).filter(Boolean).join(", ") || item.show?.name || "Spotify" : connected ? "Pon una canción y sus datos aparecerán aquí." : "Conecta tu Spotify para ver la canción aquí.";
+  const title = hasItem ? item.name : connected ? "Elige una canción" : "¿Qué está sonando?";
+  const release = hasItem ? item.album?.release_date || item.release_date || "" : "";
+  const image = hasItem ? item.album?.images?.[0]?.url || item.images?.[0]?.url || "" : "";
+  const milliseconds = Number(item?.duration_ms);
+  const seconds = Number.isFinite(milliseconds) && milliseconds > 0 ? Math.floor(milliseconds / 1000) : 0;
+  const query = hasItem && !isEpisode ? `${title} ${artists}` : "";
+  return {
+    hasItem,
+    title,
+    artists,
+    album: hasItem ? item.album?.name || item.show?.name || "—" : "—",
+    year: /^\d{4}/.test(release) ? release.slice(0, 4) : "—",
+    duration: hasItem && seconds ? `${Math.floor(seconds / 60)}:${String(seconds % 60).padStart(2, "0")}` : "—",
+    image: /^https:\/\//i.test(image) ? image : "",
+    status: hasItem ? fresh ? playback.is_playing ? "SONANDO" : "EN PAUSA" : "SIN ACTUALIZAR" : connected ? "CONECTADO" : "TU MÚSICA",
+    note: hasItem ? fresh ? playback?.device?.name ? `En ${playback.device.name}` : "Desde tu cuenta de Spotify." : "No se pudo actualizar. Esta es la última canción recibida." : connected ? "Puedes elegir una canción desde el reproductor o desde Spotify." : "Tu playlist sigue en el reproductor.",
+    lyricsURL: query ? `https://www.musixmatch.com/search/${encodeURIComponent(query)}/tracks` : "",
+    lyricsNote: query ? `Busca la letra de «${title}» de ${artists} en Musixmatch.` : hasItem && isEpisode ? "Este audio es un episodio; no tiene letra de canción." : "Cuando pongas una canción, tendrás aquí el acceso a su letra."
+  };
+}
+
 function initializeSpotifyControls() {
   const client = new SpotifyAccountClient(SPOTIFY_CLIENT_ID);
   const byId = id => document.getElementById(id);
@@ -4587,6 +4572,8 @@ function initializeSpotifyControls() {
   let devices = [];
   let playback = null;
   let playbackAt = 0;
+  let playbackFresh = true;
+  let musicSectionVisible = false;
   let pollPromise = null;
   let pollTimer = 0;
   let sdk = null;
@@ -4638,6 +4625,36 @@ function initializeSpotifyControls() {
     byId("spotify-duration").textContent = clock(duration);
   }
 
+  function renderListeningCard() {
+    const view = spotifyListeningView(playback, Boolean(client.session), playbackFresh);
+    const text = (id, value) => { if (byId(id).textContent !== value) byId(id).textContent = value; };
+    text("listening-title", view.title);
+    text("listening-artists", view.artists);
+    text("listening-album", view.album);
+    text("listening-year", view.year);
+    text("listening-duration", view.duration);
+    text("listening-state", view.status);
+    text("listening-note", view.note);
+    text("listening-lyrics-note", view.lyricsNote);
+    byId("listening-facts").hidden = !view.hasItem;
+    byId("listening-connect").hidden = Boolean(client.session);
+    byId("listening-card").dataset.playing = String(view.hasItem && playbackFresh && Boolean(playback?.is_playing));
+    const image = byId("listening-cover-image");
+    image.hidden = !view.image;
+    byId("listening-cover-placeholder").toggleAttribute("hidden", Boolean(view.image));
+    if (view.image && image.getAttribute("src") !== view.image) image.src = view.image;
+    if (!view.image) image.removeAttribute("src");
+    const lyrics = byId("listening-lyrics-link");
+    lyrics.hidden = !view.lyricsURL;
+    if (view.lyricsURL) {
+      lyrics.href = view.lyricsURL;
+      lyrics.setAttribute("aria-label", `Buscar la letra de ${view.title} en Musixmatch, se abre en otra pestaña`);
+    } else {
+      lyrics.removeAttribute("href");
+      lyrics.removeAttribute("aria-label");
+    }
+  }
+
   function render() {
     const connected = Boolean(client.session);
     byId("spotify-connect-card").hidden = connected;
@@ -4677,6 +4694,7 @@ function initializeSpotifyControls() {
     }
     byId("spotify-device-note").textContent = playback?.device?.name ? `Ahora: ${playback.device.name}. El destino cambia al pulsar reproducir.` : "El dispositivo cambia al pulsar reproducir. Abre Spotify si quieres usar otro equipo.";
     renderProgress();
+    renderListeningCard();
     updateHeader();
   }
 
@@ -4691,7 +4709,7 @@ function initializeSpotifyControls() {
   }
 
   function pollingVisible() {
-    return Boolean(client.session && !busy && mode === "controls" && !document.hidden && !musicPlayer.hidden && !musicPlayer.classList.contains("is-collapsed"));
+    return Boolean(client.session && !busy && !document.hidden && (musicSectionVisible || (mode === "controls" && !musicPlayer.hidden && !musicPlayer.classList.contains("is-collapsed"))));
   }
 
   function schedulePoll(delay = 8000) {
@@ -4709,10 +4727,11 @@ function initializeSpotifyControls() {
       const data = await client.api("/me/player");
       playback = data;
       playbackAt = Date.now();
+      playbackFresh = true;
       render();
       return data;
     })();
-    try { return await pollPromise; } finally { pollPromise = null; }
+    try { return await pollPromise; } catch (error) { playbackFresh = false; renderListeningCard(); throw error; } finally { pollPromise = null; }
   }
 
   async function readDevices() {
@@ -4853,6 +4872,7 @@ function initializeSpotifyControls() {
     unloadSDK();
     clearTimeout(pollTimer);
     playback = null;
+    playbackFresh = true;
     devices = [];
     premiumRequired = false;
     byId("spotify-account-name").textContent = "Cuenta conectada";
@@ -4862,22 +4882,12 @@ function initializeSpotifyControls() {
   }
 
   client.onSessionExpired = resetAccount;
-  const redirect = SpotifyAccountClient.redirectURI(location.href);
-  const localURL = new URL(location.href);
-  if (localURL.hostname === "localhost") {
-    localURL.hostname = "127.0.0.1";
-    for (const key of ["code", "state", "error", "error_description"]) localURL.searchParams.delete(key);
-    byId("spotify-loopback-link").href = localURL.href;
-    byId("spotify-loopback-link").hidden = false;
-  }
-  byId("spotify-redirect").value = redirect || (localURL.hostname === "127.0.0.1" ? localURL.origin + localURL.pathname : "http://127.0.0.1:5500/index.html");
-
   document.querySelectorAll("[data-spotify-mode]").forEach(button => button.addEventListener("click", () => setMode(button.dataset.spotifyMode)));
   document.querySelectorAll("[data-spotify-open]").forEach(button => button.addEventListener("click", () => { openMusicPlayer(); setMode("controls"); }));
   byId("spotify-connect").addEventListener("click", () => command(async () => {
     connectionState.textContent = "Abriendo el inicio de sesión de Spotify…";
     try { window.location.assign(await client.authorizationURL(location.href)); }
-    catch (error) { connectionState.textContent = "Conecta tu cuenta para usar los controles."; byId("spotify-setup").open = true; throw error; }
+    catch (error) { connectionState.textContent = "Conecta tu cuenta para usar los controles."; throw error; }
   }));
   byId("spotify-disconnect").addEventListener("click", () => { client.disconnect(); resetAccount(); clearError(); showToast("Cuenta desconectada de esta pestaña."); byId("spotify-connect").focus(); });
   byId("spotify-play").addEventListener("click", () => {
@@ -4914,12 +4924,17 @@ function initializeSpotifyControls() {
     if (deviceSelect.value === "browser" && !premiumRequired) await connectSDK();
     connectionState.textContent = "Destino elegido. Pulsa reproducir para escuchar allí.";
   }));
-  byId("spotify-copy-redirect").addEventListener("click", async () => {
-    const field = byId("spotify-redirect");
-    try { await navigator.clipboard.writeText(field.value); showToast("Dirección de regreso copiada."); }
-    catch { field.focus(); field.select(); showToast("Copia la dirección seleccionada."); }
-  });
   byId("spotify-track-image").addEventListener("error", () => { byId("spotify-track-image").hidden = true; byId("spotify-art-placeholder").removeAttribute("hidden"); });
+  byId("listening-cover-image").addEventListener("error", () => { byId("listening-cover-image").hidden = true; byId("listening-cover-placeholder").removeAttribute("hidden"); });
+  if ("IntersectionObserver" in window) {
+    const observer = new IntersectionObserver(entries => {
+      musicSectionVisible = entries.some(entry => entry.isIntersecting);
+      schedulePoll(0);
+    }, { threshold: 0 });
+    observer.observe(byId("musica"));
+  } else {
+    musicSectionVisible = true;
+  }
   document.addEventListener("spotify-playlist-changed", render);
   document.addEventListener("music-visibility-changed", () => { render(); schedulePoll(0); });
   document.addEventListener("visibilitychange", () => { if (document.hidden) clearTimeout(pollTimer); else schedulePoll(0); });
