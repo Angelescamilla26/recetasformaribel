@@ -1,6 +1,6 @@
 "use strict";
 
-const SPOTIFY_CLIENT_ID = "8fcp5yHLcxgExWc8ddeM6znVTA3jFXNbdVcpRTcr7TY4";
+const SPOTIFY_CLIENT_ID = "dc4c539ceaa54f74bd4c93eb7a77ea54";
 const SPOTIFY_PLAYLIST_URL = "https://open.spotify.com/playlist/6OmAX1bqcYFhDRPzAGpbg2";
 
 const recipeCatalog = [
