@@ -4960,3 +4960,38 @@ function initializeSpotifyControls() {
 }
 
 initializeSpotifyControls();
+
+function initializeHiddenQuokka() {
+  const corner = document.getElementById("secret-corner");
+  const trigger = document.getElementById("secret-paw");
+  const note = document.getElementById("secret-quokka");
+  const dismiss = document.getElementById("secret-dismiss");
+
+  function setOpen(open, restoreFocus = true) {
+    trigger.setAttribute("aria-expanded", String(open));
+    note.hidden = !open;
+    corner.classList.toggle("secret-open", open);
+    if (open) {
+      note.focus({ preventScroll: true });
+      const bounds = note.getBoundingClientRect();
+      const topLimit = mobileLayout.matches ? 104 : 110;
+      const bottomLimit = window.innerHeight - (mobileLayout.matches ? 96 : 22);
+      const adjustment = bounds.top < topLimit ? bounds.top - topLimit : Math.max(0, bounds.bottom - bottomLimit);
+      if (adjustment) window.scrollBy({ top: adjustment, behavior: reducedMotion.matches ? "instant" : "smooth" });
+    } else if (restoreFocus && !trigger.closest("[inert]")) trigger.focus({ preventScroll: true });
+  }
+
+  trigger.addEventListener("click", () => setOpen(note.hidden));
+  dismiss.addEventListener("click", () => setOpen(false));
+  document.addEventListener("click", event => {
+    if (!note.hidden && !corner.contains(event.target)) setOpen(false, false);
+  });
+  document.addEventListener("keydown", event => {
+    if (event.key !== "Escape" || note.hidden || pageShell.inert) return;
+    event.preventDefault();
+    event.stopPropagation();
+    setOpen(false);
+  }, true);
+}
+
+initializeHiddenQuokka();
