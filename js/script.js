@@ -3126,12 +3126,5027 @@ const recipeCatalog = [
     ],
     "storage": "Divide en recipientes poco profundos y refrigera dentro de las 2 horas posteriores a la cocción. Conserva a 4 °C o menos y consume en 3 días. Recalienta solo la porción que vayas a comer.",
     "servingTip": "El favorito de Ángel se puede servir tibio o frío. Reparte la canela molida al final y ajusta la consistencia con un poco de leche si ya ha reposado."
+  },
+  {
+    "id": "flan-napolitano",
+    "name": "Flan napolitano",
+    "categoryLabel": "Caramelo y sobremesa",
+    "tags": [
+      "frios",
+      "de-casa",
+      "recientes"
+    ],
+    "difficulty": "Intermedia",
+    "servings": 10,
+    "prep": 25,
+    "cook": 70,
+    "rest": 300,
+    "oven": 160,
+    "description": "Una rebanada fría, caramelo que cae por los lados y ganas de repetir.",
+    "equipment": "Molde redondo de aluminio de 20 cm y 6 cm de alto, charola profunda, licuadora, colador y aluminio.",
+    "ingredients": [
+      {
+        "name": "azúcar",
+        "amount": 120.0,
+        "unit": "g",
+        "group": "Caramelo"
+      },
+      {
+        "name": "agua",
+        "amount": 30.0,
+        "unit": "ml",
+        "group": "Caramelo"
+      },
+      {
+        "name": "queso crema a temperatura ambiente",
+        "amount": 190.0,
+        "unit": "g",
+        "group": "Flan"
+      },
+      {
+        "name": "leche condensada",
+        "amount": 397.0,
+        "unit": "g",
+        "group": "Flan"
+      },
+      {
+        "name": "leche evaporada",
+        "amount": 360.0,
+        "unit": "ml",
+        "group": "Flan"
+      },
+      {
+        "name": "huevos grandes",
+        "amount": 4.0,
+        "unit": "pzas",
+        "group": "Flan"
+      },
+      {
+        "name": "extracto de vainilla",
+        "amount": 10.0,
+        "unit": "ml",
+        "group": "Flan"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Haz el caramelo",
+        "text": "Calienta azúcar y agua a fuego medio sin meter cucharas; mueve suavemente el cazo si hace falta. Al tomar color ámbar, vierte en el molde y gíralo con guantes. No toques ni pruebes el caramelo caliente.",
+        "minutes": 0,
+        "cue": "Ámbar claro, sin humo."
+      },
+      {
+        "title": "Mezcla sin espuma",
+        "text": "Precalienta el horno a 160 °C. Licúa queso, ambas leches, huevos y vainilla solo hasta integrar. Deja reposar 5 minutos y pasa por un colador al molde caramelizado para quitar grumos y parte de la espuma.",
+        "minutes": 0,
+        "cue": "Crema lisa y sin trozos de queso."
+      },
+      {
+        "title": "Prepara el baño María",
+        "text": "Cubre el molde con aluminio y colócalo dentro de la charola, sobre la rejilla del horno. Vierte agua caliente alrededor, sin que entre al flan. Usa una jarra para evitar mover una charola llena.",
+        "minutes": 0,
+        "cue": "El agua llega a media altura del molde."
+      },
+      {
+        "title": "Hornea con calma",
+        "text": "Hornea unos 60–75 minutos. Comprueba desde el minuto 60: al mover apenas el molde, el centro debe temblar unido, sin olas líquidas. Si sigue líquido, añade tandas de 5–10 minutos; no esperes que quede completamente rígido.",
+        "minutes": 70,
+        "cue": "Bordes firmes y centro que tiembla como gelatina."
+      },
+      {
+        "title": "Enfría y refrigera",
+        "text": "Saca el molde del agua con cuidado y deja templar aproximadamente 1 hora. Refrigera tapado al menos 4 horas; una noche facilita el desmolde. No dejes el flan toda la tarde a temperatura ambiente.",
+        "minutes": 300,
+        "cue": "Flan totalmente frío y firme al tacto suave."
+      },
+      {
+        "title": "Dale la vuelta",
+        "text": "Pasa un cuchillo fino por el contorno. Apoya el fondo 15 segundos en agua tibia si el caramelo se pegó. Cubre con un plato con borde y voltea de una vez, sujetando ambas piezas. Levanta el molde despacio.",
+        "minutes": 0,
+        "cue": "El flan se separa del borde y el caramelo fluye."
+      }
+    ],
+    "tips": "Una mezcla poco aireada y el baño María suave ayudan a conseguir una textura más fina.",
+    "beforeYouStart": [
+      "Saca el queso del refrigerador con anticipación para que no deje grumos.",
+      "Elige un molde metálico de una sola pieza, no desmontable.",
+      "Ten listo el plato de servir: debe contener el caramelo."
+    ],
+    "doneWhen": [
+      "El centro tiembla en bloque al terminar el horneado.",
+      "Después del frío, la rebanada mantiene su forma."
+    ],
+    "troubleshooting": [
+      {
+        "problem": "Tiene muchos agujeritos.",
+        "solution": "El horno o el agua estaban demasiado calientes. En la próxima tanda usa 160 °C y evita un hervor fuerte."
+      },
+      {
+        "problem": "No se desprende.",
+        "solution": "Entibia únicamente el fondo unos segundos y vuelve a soltar el borde; no lo sacudas con fuerza."
+      }
+    ],
+    "storage": "Refrigera tapado hasta 3 días. No congeles si quieres conservar una textura uniforme.",
+    "servingTip": "Sirve frío, con una cucharada de su propio caramelo en cada plato.",
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Flan_napolitano.png/960px-Flan_napolitano.png",
+    "photoAlt": "Flan napolitano con caramelo en un plato",
+    "photographer": "Giovanni Alfredo Garciliano Diaz",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Flan_napolitano.png",
+    "photoPlatform": "Wikimedia Commons",
+    "photoLicense": "CC BY 4.0",
+    "photoLicenseUrl": "https://creativecommons.org/licenses/by/4.0"
+  },
+  {
+    "id": "pastel-tres-leches",
+    "name": "Pastel tres leches",
+    "categoryLabel": "Esponjoso y bien mojadito",
+    "tags": [
+      "pasteles",
+      "frios",
+      "de-casa",
+      "recientes"
+    ],
+    "difficulty": "Intermedia",
+    "servings": 12,
+    "prep": 35,
+    "cook": 30,
+    "rest": 270,
+    "oven": 175,
+    "description": "Bizcocho ligero que se toma las tres leches despacito. Mejor al día siguiente.",
+    "equipment": "Molde de 23 × 33 cm y al menos 5 cm de alto, batidora, espátula y brocheta.",
+    "ingredients": [
+      {
+        "name": "huevos grandes a temperatura ambiente",
+        "amount": 5.0,
+        "unit": "pzas",
+        "group": "Bizcocho"
+      },
+      {
+        "name": "azúcar",
+        "amount": 150.0,
+        "unit": "g",
+        "group": "Bizcocho"
+      },
+      {
+        "name": "harina de trigo",
+        "amount": 160.0,
+        "unit": "g",
+        "group": "Bizcocho"
+      },
+      {
+        "name": "polvo para hornear",
+        "amount": 6.0,
+        "unit": "g",
+        "group": "Bizcocho"
+      },
+      {
+        "name": "sal",
+        "amount": 1.0,
+        "unit": "g",
+        "group": "Bizcocho"
+      },
+      {
+        "name": "leche entera",
+        "amount": 60.0,
+        "unit": "ml",
+        "group": "Bizcocho"
+      },
+      {
+        "name": "vainilla",
+        "amount": 5.0,
+        "unit": "ml",
+        "group": "Bizcocho"
+      },
+      {
+        "name": "leche condensada",
+        "amount": 397.0,
+        "unit": "g",
+        "group": "Baño"
+      },
+      {
+        "name": "leche evaporada",
+        "amount": 360.0,
+        "unit": "ml",
+        "group": "Baño"
+      },
+      {
+        "name": "leche entera",
+        "amount": 200.0,
+        "unit": "ml",
+        "group": "Baño"
+      },
+      {
+        "name": "crema para batir fría",
+        "amount": 300.0,
+        "unit": "ml",
+        "group": "Cubierta"
+      },
+      {
+        "name": "azúcar glass",
+        "amount": 25.0,
+        "unit": "g",
+        "group": "Cubierta"
+      },
+      {
+        "name": "fresas lavadas, secas y rebanadas",
+        "amount": 150.0,
+        "unit": "g",
+        "group": "Cubierta"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Prepara todo",
+        "text": "Precalienta a 175 °C. Separa claras y yemas sin dejar grasa en el recipiente de las claras. Mezcla harina, polvo de hornear y sal. Engrasa ligeramente el molde; el pastel se servirá dentro de él.",
+        "minutes": 0,
+        "cue": "Molde ligeramente engrasado y secos tamizados."
+      },
+      {
+        "title": "Bate los huevos",
+        "text": "Bate las claras hasta espumar y agrega 75 g de azúcar poco a poco. En otro recipiente bate yemas y los otros 75 g hasta aclarar. Incorpora a las yemas la leche y la vainilla.",
+        "minutes": 0,
+        "cue": "Claras brillantes con picos medios, no secas."
+      },
+      {
+        "title": "Conserva el aire",
+        "text": "Añade los secos a las yemas en dos tandas. Afloja con un tercio de las claras y después incorpora el resto con movimientos envolventes. Vierte en el molde sin golpearlo sobre la mesa.",
+        "minutes": 0,
+        "cue": "Masa ligera sin bolsas de harina."
+      },
+      {
+        "title": "Hornea el bizcocho",
+        "text": "Hornea de 25 a 30 minutos en la rejilla central. Deja enfriar 30 minutos en su molde. Si se dora demasiado rápido, cubre flojamente con aluminio al final; no abras el horno durante los primeros 20 minutos.",
+        "minutes": 30,
+        "cue": "Superficie elástica y brocheta sin masa cruda."
+      },
+      {
+        "title": "Baña por tandas",
+        "text": "Mezcla las tres leches. Pincha el bizcocho con una brocheta y vierte el baño en tres tandas, esperando a que absorba cada una. Tapa y refrigera al menos 4 horas dentro del molde.",
+        "minutes": 240,
+        "cue": "La leche entra en el bizcocho sin desbordarse."
+      },
+      {
+        "title": "Termina con crema",
+        "text": "Bate crema fría con azúcar glass hasta que mantenga su forma; detente antes de que se vea granulosa. Extiende sobre el pastel frío y añade las fresas justo antes de servir. Corta dentro del molde con una espátula.",
+        "minutes": 0,
+        "cue": "Crema con picos firmes y suaves."
+      }
+    ],
+    "tips": "El molde profundo es parte de la receta: contiene el baño y evita perder leche al servir.",
+    "beforeYouStart": [
+      "Usa crema con al menos 35 % de grasa para que monte.",
+      "Pesa el azúcar en dos porciones de 75 g.",
+      "Reserva espacio en el refrigerador para el molde completo."
+    ],
+    "doneWhen": [
+      "La brocheta sale limpia antes de añadir las leches.",
+      "El bizcocho frío está húmedo por dentro, sin masa cruda."
+    ],
+    "troubleshooting": [
+      {
+        "problem": "Se bajó mucho en el horno.",
+        "solution": "Bate a picos medios e incorpora sin aplastar. No abras antes de que la estructura se fije."
+      },
+      {
+        "problem": "La crema se ve granulosa.",
+        "solution": "Se batió de más. Si apenas comienza, integra un poco de crema líquida fría a mano; si ya se separó, prepara otra tanda."
+      }
+    ],
+    "storage": "Mantén tapado y refrigerado hasta 3 días. Agrega fruta fresca el día de servir.",
+    "servingTip": "Sirve en platos con borde: esa cucharadita de leche del fondo también se disfruta.",
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Tres_leches_cake%2C_Germany.jpg/960px-Tres_leches_cake%2C_Germany.jpg",
+    "photoAlt": "Porción de pastel tres leches con salsas encima; presentación ilustrativa",
+    "photographer": "Struppig taucher",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Tres_leches_cake,_Germany.jpg",
+    "photoPlatform": "Wikimedia Commons",
+    "photoLicense": "CC BY 4.0",
+    "photoLicenseUrl": "https://creativecommons.org/licenses/by/4.0"
+  },
+  {
+    "id": "chocoflan",
+    "name": "Chocoflan",
+    "categoryLabel": "Dos capas, un solo antojo",
+    "tags": [
+      "chocolate",
+      "pasteles",
+      "frios",
+      "de-casa",
+      "recientes"
+    ],
+    "difficulty": "Elaborada",
+    "servings": 12,
+    "prep": 40,
+    "cook": 85,
+    "rest": 360,
+    "oven": 170,
+    "description": "Chocolate abajo, flan arriba y caramelo por todas partes. La espera sí tiene premio.",
+    "equipment": "Molde de rosca de 24 cm y capacidad mínima de 2.5 litros, charola profunda, aluminio y licuadora.",
+    "ingredients": [
+      {
+        "name": "mantequilla para engrasar",
+        "amount": 15.0,
+        "unit": "g",
+        "group": "Molde"
+      },
+      {
+        "name": "cajeta",
+        "amount": 120.0,
+        "unit": "g",
+        "group": "Molde"
+      },
+      {
+        "name": "harina de trigo",
+        "amount": 140.0,
+        "unit": "g",
+        "group": "Pastel"
+      },
+      {
+        "name": "cocoa sin azúcar",
+        "amount": 35.0,
+        "unit": "g",
+        "group": "Pastel"
+      },
+      {
+        "name": "polvo para hornear",
+        "amount": 6.0,
+        "unit": "g",
+        "group": "Pastel"
+      },
+      {
+        "name": "sal",
+        "amount": 1.0,
+        "unit": "g",
+        "group": "Pastel"
+      },
+      {
+        "name": "azúcar",
+        "amount": 120.0,
+        "unit": "g",
+        "group": "Pastel"
+      },
+      {
+        "name": "huevos grandes",
+        "amount": 2.0,
+        "unit": "pzas",
+        "group": "Pastel"
+      },
+      {
+        "name": "aceite vegetal",
+        "amount": 80.0,
+        "unit": "ml",
+        "group": "Pastel"
+      },
+      {
+        "name": "leche entera",
+        "amount": 150.0,
+        "unit": "ml",
+        "group": "Pastel"
+      },
+      {
+        "name": "vainilla",
+        "amount": 5.0,
+        "unit": "ml",
+        "group": "Pastel"
+      },
+      {
+        "name": "queso crema suave",
+        "amount": 190.0,
+        "unit": "g",
+        "group": "Flan"
+      },
+      {
+        "name": "leche condensada",
+        "amount": 397.0,
+        "unit": "g",
+        "group": "Flan"
+      },
+      {
+        "name": "leche evaporada",
+        "amount": 360.0,
+        "unit": "ml",
+        "group": "Flan"
+      },
+      {
+        "name": "huevos grandes",
+        "amount": 4.0,
+        "unit": "pzas",
+        "group": "Flan"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Prepara el molde",
+        "text": "Calienta el horno a 170 °C. Engrasa con mantequilla y reparte la cajeta por el fondo. Pon agua a calentar para el baño María. Usa un molde cerrado de una sola pieza para que no entre agua.",
+        "minutes": 0,
+        "cue": "Molde bien engrasado, incluida la chimenea."
+      },
+      {
+        "title": "Mezcla el pastel",
+        "text": "Tamiza harina, cocoa, polvo de hornear y sal. En otro recipiente bate azúcar con los 2 huevos; incorpora aceite, leche y vainilla. Añade los secos y mezcla solo hasta integrar. Vierte sobre la cajeta.",
+        "minutes": 0,
+        "cue": "Masa uniforme de chocolate, sin harina visible."
+      },
+      {
+        "title": "Añade el flan",
+        "text": "Licúa el queso, las dos leches y los 4 huevos del flan a velocidad baja. Vierte lentamente sobre el reverso de una cuchara encima de la masa. Durante el horneado las capas cambiarán de posición; no las remuevas.",
+        "minutes": 0,
+        "cue": "Mezcla lisa y vertido suave."
+      },
+      {
+        "title": "Hornea a baño María",
+        "text": "Cubre con aluminio, coloca en la charola y agrega agua caliente hasta media altura. Hornea unos 80–95 minutos. Comprueba el pastel con una brocheta y el flan con un movimiento suave; añade 10 minutos si aún hay zonas líquidas.",
+        "minutes": 85,
+        "cue": "Brocheta del pastel sin masa cruda y flan cuajado."
+      },
+      {
+        "title": "Deja que se asiente",
+        "text": "Retira del agua con guantes y deja templar 1 hora. Refrigera tapado al menos 5 horas, preferiblemente de un día para otro. Desmoldar tibio puede romper la unión de las capas.",
+        "minutes": 360,
+        "cue": "Molde frío y capas estables."
+      },
+      {
+        "title": "Desmolda sin prisa",
+        "text": "Despega con cuidado el contorno exterior y la chimenea. Entibia el fondo unos segundos en agua tibia. Coloca un plato con borde sobre el molde, sujeta bien y voltea. Espera unos segundos antes de levantar el molde.",
+        "minutes": 0,
+        "cue": "Bordes sueltos alrededor y en el centro."
+      }
+    ],
+    "tips": "No llenes más de tres cuartas partes del molde. Si tu molde es menor, prepara el sobrante por separado y ajusta su cocción.",
+    "beforeYouStart": [
+      "Comprueba la capacidad del molde con agua antes de empezar y luego sécalo.",
+      "El queso suave evita tener que licuar demasiado el flan.",
+      "Lee los ingredientes por grupo: los huevos del pastel y del flan son distintos."
+    ],
+    "doneWhen": [
+      "La brocheta atraviesa la parte de pastel sin masa pegajosa.",
+      "El flan tiene movimiento suave, sin líquido suelto."
+    ],
+    "troubleshooting": [
+      {
+        "problem": "Las capas se rompieron al voltear.",
+        "solution": "Déjalo enfriar completamente y suelta también la chimenea antes de desmoldar."
+      },
+      {
+        "problem": "El centro sigue crudo.",
+        "solution": "Revisa que el baño tenga agua y continúa cubierto en tandas de 10 minutos; el tamaño del molde cambia el tiempo."
+      }
+    ],
+    "storage": "Guarda tapado en el refrigerador hasta 3 días.",
+    "servingTip": "Corta rebanadas con un cuchillo húmedo y límpialo entre cortes.",
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Chocochocoflan.jpg/960px-Chocochocoflan.jpg",
+    "photoAlt": "Rebanadas de chocoflan con sus capas de chocolate y flan",
+    "photographer": "Srodriguez2014",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Chocochocoflan.jpg",
+    "photoPlatform": "Wikimedia Commons",
+    "photoLicense": "CC BY-SA 4.0",
+    "photoLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "id": "jericallas",
+    "name": "Jericallas",
+    "categoryLabel": "Vainilla, canela y costrita",
+    "tags": [
+      "frios",
+      "de-casa",
+      "recientes"
+    ],
+    "difficulty": "Intermedia",
+    "servings": 6,
+    "prep": 20,
+    "cook": 50,
+    "rest": 150,
+    "oven": 180,
+    "description": "Pequeñas, cremosas y con esa superficie tostada que se busca con la cuchara.",
+    "equipment": "6 ramequines aptos para horno de 150 ml, charola profunda, colador y batidor manual.",
+    "ingredients": [
+      {
+        "name": "leche entera",
+        "amount": 750.0,
+        "unit": "ml",
+        "group": "Crema"
+      },
+      {
+        "name": "azúcar",
+        "amount": 100.0,
+        "unit": "g",
+        "group": "Crema"
+      },
+      {
+        "name": "rama de canela",
+        "amount": 1.0,
+        "unit": "pza",
+        "group": "Crema"
+      },
+      {
+        "name": "vainilla",
+        "amount": 5.0,
+        "unit": "ml",
+        "group": "Crema"
+      },
+      {
+        "name": "huevos grandes",
+        "amount": 3.0,
+        "unit": "pzas",
+        "group": "Crema"
+      },
+      {
+        "name": "yemas",
+        "amount": 2.0,
+        "unit": "pzas",
+        "group": "Crema"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Perfuma la leche",
+        "text": "Calienta leche, azúcar y canela hasta que aparezcan pequeñas burbujas en el borde. Apaga, tapa y deja infusionar 10 minutos. Retira la canela y agrega vainilla. No necesitas reducir la leche.",
+        "minutes": 10,
+        "cue": "Leche humeante con aroma a canela."
+      },
+      {
+        "title": "Templa los huevos",
+        "text": "Precalienta a 180 °C. Bate a mano huevos y yemas solo para unir. Añade poco a poco una taza de leche caliente mientras bates; después incorpora el resto. Pasa por un colador y retira espuma con una cuchara.",
+        "minutes": 0,
+        "cue": "Mezcla fluida, sin hebras de huevo cocido."
+      },
+      {
+        "title": "Reparte y prepara el agua",
+        "text": "Distribuye en los 6 ramequines. Colócalos en la charola ya sobre la rejilla del horno. Añade agua caliente alrededor hasta media altura de los recipientes, evitando salpicar la crema.",
+        "minutes": 0,
+        "cue": "Porciones parejas, con un poco de borde libre."
+      },
+      {
+        "title": "Hornea hasta cuajar",
+        "text": "Hornea 40–50 minutos. Retira los recipientes cuando la crema esté cuajada pero flexible. No esperes que quede dura: seguirá asentándose al enfriar. Si unos se hacen antes, retíralos individualmente con pinzas y guantes.",
+        "minutes": 45,
+        "cue": "Bordes firmes y centro que aún tiembla unido."
+      },
+      {
+        "title": "Dora la superficie",
+        "text": "Si hace falta color, coloca los ramequines fuera del agua bajo el grill 1–3 minutos, vigilando todo el tiempo. Usa solo recipientes que soporten grill. Si no tienes esa función, conserva el dorado natural del horno.",
+        "minutes": 3,
+        "cue": "Manchas tostadas, sin quemar toda la crema."
+      },
+      {
+        "title": "Enfría",
+        "text": "Deja templar 30 minutos y refrigera al menos 2 horas. Tapa cuando estén frías para evitar condensación sobre la costra. Sirve en los mismos recipientes; estas cremas no se desmoldan.",
+        "minutes": 150,
+        "cue": "Interior frío y textura de crema firme."
+      }
+    ],
+    "tips": "La costra se forma al dorar la propia crema; no lleva la capa de azúcar de una crème brûlée.",
+    "beforeYouStart": [
+      "Usa recipientes del mismo tamaño para una cocción pareja.",
+      "No batas hasta espumar los huevos.",
+      "Confirma que tus ramequines soporten horno y, si lo usarás, grill."
+    ],
+    "doneWhen": [
+      "El centro se mueve ligeramente sin parecer leche líquida.",
+      "La superficie muestra zonas doradas y no está carbonizada."
+    ],
+    "troubleshooting": [
+      {
+        "problem": "La crema quedó cortada.",
+        "solution": "El calor fue excesivo. La próxima vez retira antes y mantén el baño María sin hervor fuerte."
+      },
+      {
+        "problem": "No tomó color.",
+        "solution": "Usa unos minutos de grill con vigilancia constante, solo si los recipientes son adecuados."
+      }
+    ],
+    "storage": "Refrigera tapadas hasta 3 días. No congeles.",
+    "servingTip": "Sírvelas frías y rompe primero la parte tostada con la cuchara.",
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Jericalla_en_taquer%C3%ADa_El_Tomate.jpg/960px-Jericalla_en_taquer%C3%ADa_El_Tomate.jpg",
+    "photoAlt": "Jericalla de superficie tostada acompañada de fruta",
+    "photographer": "ProtoplasmaKid",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Jericalla_en_taquer%C3%ADa_El_Tomate.jpg",
+    "photoPlatform": "Wikimedia Commons",
+    "photoLicense": "CC BY-SA 4.0",
+    "photoLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "id": "bunuelos-mexicanos",
+    "name": "Buñuelos mexicanos",
+    "categoryLabel": "Crujientes con canela",
+    "tags": [
+      "de-casa",
+      "sin-horno",
+      "recientes"
+    ],
+    "difficulty": "Intermedia",
+    "servings": 10,
+    "prep": 40,
+    "cook": 25,
+    "rest": 30,
+    "oven": 0,
+    "description": "Discos delgaditos que crujen al partirse, con azúcar y canela en los dedos.",
+    "equipment": "Rodillo, sartén profunda de 24 cm, termómetro de cocina, pinzas y rejilla.",
+    "ingredients": [
+      {
+        "name": "harina de trigo",
+        "amount": 250.0,
+        "unit": "g",
+        "group": "Masa"
+      },
+      {
+        "name": "polvo para hornear",
+        "amount": 3.0,
+        "unit": "g",
+        "group": "Masa"
+      },
+      {
+        "name": "sal",
+        "amount": 2.0,
+        "unit": "g",
+        "group": "Masa"
+      },
+      {
+        "name": "huevo grande",
+        "amount": 1.0,
+        "unit": "pza",
+        "group": "Masa"
+      },
+      {
+        "name": "mantequilla derretida y tibia",
+        "amount": 30.0,
+        "unit": "g",
+        "group": "Masa"
+      },
+      {
+        "name": "agua tibia, aproximadamente",
+        "amount": 90.0,
+        "unit": "ml",
+        "group": "Masa"
+      },
+      {
+        "name": "harina extra",
+        "amount": 20.0,
+        "unit": "g",
+        "group": "Estirado"
+      },
+      {
+        "name": "aceite vegetal para freír",
+        "amount": 750.0,
+        "unit": "ml",
+        "group": "Fritura"
+      },
+      {
+        "name": "azúcar",
+        "amount": 80.0,
+        "unit": "g",
+        "group": "Acabado"
+      },
+      {
+        "name": "canela molida",
+        "amount": 4.0,
+        "unit": "g",
+        "group": "Acabado"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Une la masa",
+        "text": "Mezcla harina, polvo de hornear y sal. Añade huevo y mantequilla; incorpora el agua poco a poco, reservando la última cucharada hasta ver si hace falta. Amasa 8 minutos hasta alisar. No debe estar pegajosa ni seca.",
+        "minutes": 0,
+        "cue": "Masa suave que se reúne sin deshacerse."
+      },
+      {
+        "title": "Deja reposar",
+        "text": "Divide en 10 bolitas, úntalas apenas con una gota del aceite y tapa con un paño. Reposa 30 minutos. Mezcla aparte azúcar y canela para tenerlas listas al salir de la fritura.",
+        "minutes": 30,
+        "cue": "La masa se estira sin encogerse enseguida."
+      },
+      {
+        "title": "Estira muy fino",
+        "text": "Enharina ligeramente la mesa y estira una bola del centro hacia afuera. Gira entre pasadas y retira el exceso de harina. Si se encoge, déjala reposar 5 minutos y trabaja otra. Mantén los discos separados sobre paños limpios.",
+        "minutes": 0,
+        "cue": "Discos de unos 18–20 cm, casi translúcidos."
+      },
+      {
+        "title": "Calienta el aceite",
+        "text": "Vierte suficiente aceite para alcanzar unos 3 cm, sin superar la mitad de la sartén. Calienta a 175 °C. Ten pinzas y rejilla a mano. No dejes agua cerca del aceite ni apiles los discos crudos.",
+        "minutes": 0,
+        "cue": "Aceite estable alrededor de 175 °C."
+      },
+      {
+        "title": "Fríe uno por uno",
+        "text": "Desliza un disco con cuidado. Fríe 30–60 segundos por lado, sujetándolo ligeramente con pinzas si se infla demasiado. Ajusta el fuego entre piezas para mantener 170–180 °C. Escurre sobre la rejilla; repite con los demás.",
+        "minutes": 0,
+        "cue": "Dorado claro con burbujas crujientes."
+      },
+      {
+        "title": "Espolvorea y sirve",
+        "text": "Espolvorea azúcar con canela cuando cada buñuelo siga caliente. Deja enfriar sin tapar para conservar el crujido. El aceite indicado es para la sartén: no se incorpora completo a la masa.",
+        "minutes": 0,
+        "cue": "Azúcar adherida y buñuelo firme al enfriar."
+      }
+    ],
+    "tips": "Estirar parejo y delgado importa más que lograr un círculo perfecto.",
+    "beforeYouStart": [
+      "Deja espacio alrededor de la sartén y usa utensilios completamente secos.",
+      "Prepara una rejilla para que el vapor salga por debajo.",
+      "No llenes demasiado la sartén de aceite."
+    ],
+    "doneWhen": [
+      "Los dos lados están dorados claros, sin zonas húmedas de masa.",
+      "Al enfriar, el disco se rompe con un crujido."
+    ],
+    "troubleshooting": [
+      {
+        "problem": "Se encogen al estirar.",
+        "solution": "El gluten necesita descanso. Tapa y espera 5–10 minutos antes de insistir."
+      },
+      {
+        "problem": "Quedan grasosos y blandos.",
+        "solution": "El aceite estaba frío o la masa gruesa. Verifica 175 °C y estira más fino la siguiente pieza."
+      }
+    ],
+    "storage": "Ya fríos, guarda en recipiente hermético a temperatura ambiente hasta 2 días. Evita el refrigerador.",
+    "servingTip": "Ponlos al centro de la mesa y rómpelos para compartir; un café les queda muy bien.",
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Bu%C3%B1uelos_con_helado.jpg/960px-Bu%C3%B1uelos_con_helado.jpg",
+    "photoAlt": "Buñuelo crujiente servido con helado",
+    "photographer": "Wotancito",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Bu%C3%B1uelos_con_helado.jpg",
+    "photoPlatform": "Wikimedia Commons",
+    "photoLicense": "CC BY-SA 4.0",
+    "photoLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "id": "churros-con-chocolate",
+    "name": "Churros con chocolate",
+    "categoryLabel": "De la sartén a la taza",
+    "tags": [
+      "chocolate",
+      "sin-horno",
+      "de-casa",
+      "recientes"
+    ],
+    "difficulty": "Intermedia",
+    "servings": 6,
+    "prep": 30,
+    "cook": 25,
+    "rest": 15,
+    "oven": 0,
+    "description": "Churros recién hechos, azúcar con canela y chocolate espeso para acompañar.",
+    "equipment": "Cazo, manga resistente con boquilla de estrella abierta de 12 mm, sartén profunda y termómetro.",
+    "ingredients": [
+      {
+        "name": "agua",
+        "amount": 250.0,
+        "unit": "ml",
+        "group": "Masa"
+      },
+      {
+        "name": "mantequilla",
+        "amount": 20.0,
+        "unit": "g",
+        "group": "Masa"
+      },
+      {
+        "name": "azúcar",
+        "amount": 10.0,
+        "unit": "g",
+        "group": "Masa"
+      },
+      {
+        "name": "sal",
+        "amount": 2.0,
+        "unit": "g",
+        "group": "Masa"
+      },
+      {
+        "name": "harina de trigo",
+        "amount": 150.0,
+        "unit": "g",
+        "group": "Masa"
+      },
+      {
+        "name": "aceite vegetal",
+        "amount": 750.0,
+        "unit": "ml",
+        "group": "Fritura"
+      },
+      {
+        "name": "azúcar",
+        "amount": 60.0,
+        "unit": "g",
+        "group": "Acabado"
+      },
+      {
+        "name": "canela molida",
+        "amount": 3.0,
+        "unit": "g",
+        "group": "Acabado"
+      },
+      {
+        "name": "leche entera",
+        "amount": 250.0,
+        "unit": "ml",
+        "group": "Chocolate"
+      },
+      {
+        "name": "chocolate semiamargo picado",
+        "amount": 120.0,
+        "unit": "g",
+        "group": "Chocolate"
+      },
+      {
+        "name": "fécula de maíz",
+        "amount": 8.0,
+        "unit": "g",
+        "group": "Chocolate"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Cocina la masa",
+        "text": "Lleva a hervor agua, mantequilla, 10 g de azúcar y sal. Retira del fuego, añade toda la harina y remueve con firmeza. Regresa a fuego bajo 1–2 minutos, moviendo hasta que no haya harina seca y se forme una bola.",
+        "minutes": 0,
+        "cue": "Bola compacta que se separa del cazo."
+      },
+      {
+        "title": "Prepara la manga",
+        "text": "Deja templar 15 minutos. Amasa brevemente con una espátula y llena una manga reforzada, presionando bien para expulsar aire. Esta versión no lleva huevo. Usa boquilla de estrella: las estrías ayudan a una fritura uniforme.",
+        "minutes": 15,
+        "cue": "Masa tibia y uniforme, sin huecos de aire."
+      },
+      {
+        "title": "Forma los churros",
+        "text": "Forma las tiras sobre papel para hornear y córtalas con tijeras. Despégalas con cuidado antes de freír, sin introducir papel al aceite. Si la masa no sale, revisa que la boquilla no sea demasiado estrecha; no revientes una manga débil.",
+        "minutes": 0,
+        "cue": "Tiras estriadas de 10–12 cm."
+      },
+      {
+        "title": "Fríe en tandas",
+        "text": "Calienta 4 cm de aceite a 175–180 °C, sin llenar más de la mitad de la sartén. Fríe pocas piezas 4–5 minutos, girándolas. Mantén distancia y usa pinzas largas; no dejes que se amontonen ni que el aceite humee.",
+        "minutes": 0,
+        "cue": "Dorado parejo y centro cocido."
+      },
+      {
+        "title": "Pasa por azúcar",
+        "text": "Escurre en una rejilla unos segundos y después rueda en los 60 g de azúcar mezclados con canela. Abre el primer churro: debe verse cocido, sin una franja de masa cruda; ajusta grosor o tiempo si hace falta.",
+        "minutes": 0,
+        "cue": "Exterior seco y ligeramente azucarado."
+      },
+      {
+        "title": "Haz el chocolate",
+        "text": "Disuelve la fécula en un poco de la leche fría. Calienta el resto con el chocolate picado, moviendo. Añade la fécula disuelta y cocina a hervor suave 1–2 minutos hasta espesar. Sirve caliente junto a los churros recién hechos.",
+        "minutes": 5,
+        "cue": "Chocolate liso que cubre la cuchara."
+      }
+    ],
+    "tips": "No sustituyas la boquilla estriada por una redonda: usa una manga fuerte y evita bolsas de aire en la masa.",
+    "beforeYouStart": [
+      "Prepara el acabado antes de encender la fritura.",
+      "Usa una boquilla de 12 mm para no hacer churros demasiado gruesos.",
+      "El aceite es para freír, no para incorporarlo a la receta."
+    ],
+    "doneWhen": [
+      "El interior del primer churro no tiene masa húmeda cruda.",
+      "La superficie está dorada y cruje al morder."
+    ],
+    "troubleshooting": [
+      {
+        "problem": "Se doran y siguen crudos dentro.",
+        "solution": "Baja un poco el fuego y revisa el grosor; piezas muy gruesas necesitan más tiempo."
+      },
+      {
+        "problem": "La manga se rompe.",
+        "solution": "Detente y usa una manga reforzada o churrera apta; no fuerces una boquilla estrecha."
+      }
+    ],
+    "storage": "Los churros se disfrutan el mismo día. Refrigera el chocolate sobrante hasta 2 días y recalienta removiendo.",
+    "servingTip": "Sirve el chocolate en tazas pequeñas y los churros sin tapar para que no suden.",
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Chocolate_con_churros_20180604_094957.jpg/960px-Chocolate_con_churros_20180604_094957.jpg",
+    "photoAlt": "Churros dorados acompañados de chocolate",
+    "photographer": "Jorge Castro Ruso",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Chocolate_con_churros_20180604_094957.jpg",
+    "photoPlatform": "Wikimedia Commons",
+    "photoLicense": "CC BY-SA 2.0",
+    "photoLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  {
+    "id": "capirotada",
+    "name": "Capirotada",
+    "categoryLabel": "Pan, piloncillo y canela",
+    "tags": [
+      "de-casa",
+      "faciles",
+      "recientes"
+    ],
+    "difficulty": "Fácil",
+    "servings": 8,
+    "prep": 25,
+    "cook": 35,
+    "rest": 20,
+    "oven": 180,
+    "description": "Pan doradito que absorbe miel de piloncillo, con pasas, cacahuates y queso.",
+    "equipment": "Refractario de 20 × 25 cm, charola, cazo y colador.",
+    "ingredients": [
+      {
+        "name": "bolillo del día anterior en rebanadas de 1.5 cm",
+        "amount": 350.0,
+        "unit": "g",
+        "group": "Base"
+      },
+      {
+        "name": "mantequilla derretida",
+        "amount": 45.0,
+        "unit": "g",
+        "group": "Base"
+      },
+      {
+        "name": "piloncillo troceado",
+        "amount": 200.0,
+        "unit": "g",
+        "group": "Miel"
+      },
+      {
+        "name": "agua",
+        "amount": 600.0,
+        "unit": "ml",
+        "group": "Miel"
+      },
+      {
+        "name": "rama de canela",
+        "amount": 1.0,
+        "unit": "pza",
+        "group": "Miel"
+      },
+      {
+        "name": "clavos de olor",
+        "amount": 2.0,
+        "unit": "pzas",
+        "group": "Miel"
+      },
+      {
+        "name": "pasas",
+        "amount": 70.0,
+        "unit": "g",
+        "group": "Capas"
+      },
+      {
+        "name": "cacahuates tostados sin sal",
+        "amount": 60.0,
+        "unit": "g",
+        "group": "Capas"
+      },
+      {
+        "name": "queso fresco desmoronado",
+        "amount": 150.0,
+        "unit": "g",
+        "group": "Capas"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Tuesta el pan",
+        "text": "Precalienta a 180 °C. Reserva 5 g de mantequilla para el refractario y pincela el pan con el resto. Tuesta en una charola 10–12 minutos, volteando a la mitad. Así conserva algo de estructura al recibir la miel.",
+        "minutes": 12,
+        "cue": "Rebanadas secas y doradas en los bordes."
+      },
+      {
+        "title": "Prepara la miel",
+        "text": "Calienta agua, piloncillo, canela y clavos. Al hervir, baja el fuego y cocina unos 10 minutos. Cuela para retirar especias. Debe quedar una miel ligera que pueda penetrar el pan, no un caramelo espeso.",
+        "minutes": 10,
+        "cue": "Piloncillo completamente disuelto."
+      },
+      {
+        "title": "Arma la primera capa",
+        "text": "Engrasa el refractario con la mantequilla reservada. Coloca la mitad del pan y reparte la mitad de pasas, cacahuates y queso. Vierte lentamente la mitad de la miel caliente sobre toda la superficie.",
+        "minutes": 0,
+        "cue": "Pan cubriendo el fondo sin comprimir."
+      },
+      {
+        "title": "Completa y humedece",
+        "text": "Añade el resto del pan y los complementos, seguido de la miel restante. Deja absorber 10 minutos y presiona apenas con una cuchara. No tritures las rebanadas: deben seguir distinguiéndose.",
+        "minutes": 10,
+        "cue": "Pan húmedo por dentro, sin charcos excesivos."
+      },
+      {
+        "title": "Hornea",
+        "text": "Cubre con aluminio y hornea 15 minutos. Destapa y hornea 8–10 minutos más. Si la superficie se seca muy rápido, vuelve a cubrir. La capirotada debe quedar húmeda, no convertirse en pan crujiente por dentro.",
+        "minutes": 23,
+        "cue": "Centro caliente, queso suave y bordes tostados."
+      },
+      {
+        "title": "Deja reposar",
+        "text": "Espera 10 minutos fuera del horno. Sirve con cuchara grande tomando todas las capas. Prueba antes de añadir más dulzor: el piloncillo y las pasas ya aportan bastante.",
+        "minutes": 10,
+        "cue": "Las porciones se sirven sin deshacerse del todo."
+      }
+    ],
+    "tips": "El pan de ayer absorbe mejor; si solo tienes fresco, sécalo unos minutos más en el horno.",
+    "beforeYouStart": [
+      "Usa queso fresco que puedas desmoronar.",
+      "Trocea el piloncillo para disolverlo sin reducir demasiado el agua.",
+      "Reparte los complementos antes de bañar para no dejarlos todos arriba."
+    ],
+    "doneWhen": [
+      "No hay zonas de pan secas en el centro.",
+      "La miel se ha absorbido y las orillas están ligeramente tostadas."
+    ],
+    "troubleshooting": [
+      {
+        "problem": "Quedó seca.",
+        "solution": "El pan absorbió más líquido de lo esperado. Humedece la porción con una pequeña cantidad de agua caliente y recalienta cubierta."
+      },
+      {
+        "problem": "Quedó apelmazada.",
+        "solution": "Evita presionar fuerte y usa rebanadas tostadas, no pan blando recién cortado."
+      }
+    ],
+    "storage": "Refrigera tapada hasta 3 días. Recalienta porciones cubiertas para conservar humedad.",
+    "servingTip": "Tibia es especialmente rica; sirve un poco de queso de cada capa.",
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Capirotada%2C_Postre.jpg/960px-Capirotada%2C_Postre.jpg",
+    "photoAlt": "Capirotada de pan, queso y frutos secos en un recipiente de barro",
+    "photographer": "Alejandro Lugo",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Capirotada,_Postre.jpg",
+    "photoPlatform": "Wikimedia Commons",
+    "photoLicense": "CC BY-SA 4.0",
+    "photoLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "id": "cocadas",
+    "name": "Cocadas",
+    "categoryLabel": "Coco tostado y bordes dorados",
+    "tags": [
+      "de-casa",
+      "faciles",
+      "recientes"
+    ],
+    "difficulty": "Fácil",
+    "servings": 16,
+    "prep": 15,
+    "cook": 20,
+    "rest": 20,
+    "oven": 170,
+    "description": "Montoncitos de coco con un centro tierno y puntas bien doraditas.",
+    "equipment": "Charola, papel para hornear, báscula y cuchara para porcionar.",
+    "ingredients": [
+      {
+        "name": "coco rallado seco sin azúcar",
+        "amount": 250.0,
+        "unit": "g",
+        "group": "Mezcla"
+      },
+      {
+        "name": "leche condensada",
+        "amount": 200.0,
+        "unit": "g",
+        "group": "Mezcla"
+      },
+      {
+        "name": "claras de huevo grandes",
+        "amount": 2.0,
+        "unit": "pzas",
+        "group": "Mezcla"
+      },
+      {
+        "name": "vainilla",
+        "amount": 5.0,
+        "unit": "ml",
+        "group": "Mezcla"
+      },
+      {
+        "name": "sal",
+        "amount": 1.0,
+        "unit": "g",
+        "group": "Mezcla"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Prepara la charola",
+        "text": "Coloca la rejilla al centro y precalienta el horno. Forra una charola con papel para hornear; no papel encerado. Si tu coco viene muy grueso, pícalo un poco para que las porciones no se desarmen.",
+        "minutes": 0,
+        "cue": "Horno a 170 °C y charola forrada."
+      },
+      {
+        "title": "Hidrata el coco",
+        "text": "Mezcla coco con leche condensada y vainilla. Deja reposar 5 minutos para que absorba humedad. Usa coco sin azúcar: el endulzado cambia mucho el equilibrio de esta mezcla.",
+        "minutes": 5,
+        "cue": "Coco uniformemente húmedo, sin líquido separado."
+      },
+      {
+        "title": "Incorpora las claras",
+        "text": "Bate las claras con sal a mano hasta que hagan espuma, sin montarlas firmes. Incorpora al coco con una espátula, raspando el fondo para repartirlas. No debe quedar una capa líquida debajo.",
+        "minutes": 0,
+        "cue": "Mezcla que se mantiene unida al apretarla."
+      },
+      {
+        "title": "Porciona",
+        "text": "Divide en 16 porciones y forma pequeños montículos con dos cucharas o manos apenas húmedas. Compacta suavemente la base y deja 3 cm entre piezas. Recoge las hebras sueltas para que no se quemen.",
+        "minutes": 0,
+        "cue": "16 montoncitos compactos de tamaño parecido."
+      },
+      {
+        "title": "Hornea",
+        "text": "Hornea 18–22 minutos. Gira la charola si tu horno dora más de un lado. Si las puntas se oscurecen antes de fijarse la base, baja la charola un nivel y cubre flojamente con aluminio.",
+        "minutes": 20,
+        "cue": "Puntas doradas y base firme al levantar con espátula."
+      },
+      {
+        "title": "Enfría antes de mover",
+        "text": "Deja 10 minutos en la charola y después pasa a una rejilla con una espátula. Espera otros 10 minutos antes de guardar. Recién salidas son delicadas: se afirman mientras pierden calor.",
+        "minutes": 20,
+        "cue": "Las piezas se desprenden enteras del papel."
+      }
+    ],
+    "tips": "Humedece apenas las manos para formar; demasiada agua dificulta el dorado.",
+    "beforeYouStart": [
+      "Comprueba que el coco sea seco y sin azúcar.",
+      "Prepara porciones parejas para que se horneen al mismo tiempo.",
+      "No uses una charola recién salida del horno para una segunda tanda."
+    ],
+    "doneWhen": [
+      "La base mantiene la forma y las puntas tienen color dorado.",
+      "El centro permanece tierno, sin clara líquida."
+    ],
+    "troubleshooting": [
+      {
+        "problem": "Se abren al hornear.",
+        "solution": "Compacta mejor las porciones y verifica que las claras estén bien distribuidas."
+      },
+      {
+        "problem": "Se pegan al retirarlas.",
+        "solution": "Espera los 10 minutos iniciales y levanta con una espátula plana; el papel para hornear facilita el desprendido."
+      }
+    ],
+    "storage": "Conserva ya frías en recipiente hermético hasta 3 días a temperatura ambiente fresca.",
+    "servingTip": "Van bien con café; si te apetece, sirve un poco de chocolate derretido aparte.",
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Coconut_macaroons.jpg/960px-Coconut_macaroons.jpg",
+    "photoAlt": "Bocados de coco horneados con puntas doradas",
+    "photographer": "Stacy",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Coconut_macaroons.jpg",
+    "photoPlatform": "Wikimedia Commons",
+    "photoLicense": "CC BY 2.0",
+    "photoLicenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "id": "besos-de-nuez",
+    "name": "Besos de nuez",
+    "categoryLabel": "Pequeños y nevados",
+    "tags": [
+      "galletas",
+      "de-casa",
+      "faciles",
+      "recientes"
+    ],
+    "difficulty": "Fácil",
+    "servings": 24,
+    "prep": 25,
+    "cook": 18,
+    "rest": 50,
+    "oven": 170,
+    "description": "Galletitas de nuez que se deshacen al morder y dejan azúcar en las manos.",
+    "equipment": "Charola, papel para hornear, batidora o espátula y rejilla.",
+    "ingredients": [
+      {
+        "name": "mantequilla suave",
+        "amount": 170.0,
+        "unit": "g",
+        "group": "Masa"
+      },
+      {
+        "name": "azúcar glass",
+        "amount": 50.0,
+        "unit": "g",
+        "group": "Masa"
+      },
+      {
+        "name": "vainilla",
+        "amount": 5.0,
+        "unit": "ml",
+        "group": "Masa"
+      },
+      {
+        "name": "harina de trigo",
+        "amount": 220.0,
+        "unit": "g",
+        "group": "Masa"
+      },
+      {
+        "name": "nuez finamente picada",
+        "amount": 100.0,
+        "unit": "g",
+        "group": "Masa"
+      },
+      {
+        "name": "sal",
+        "amount": 1.0,
+        "unit": "g",
+        "group": "Masa"
+      },
+      {
+        "name": "azúcar glass",
+        "amount": 100.0,
+        "unit": "g",
+        "group": "Acabado"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Prepara la nuez",
+        "text": "Pica la nuez a cuchillo o con pulsos cortos en un procesador. Reserva. Forra una charola y pesa por separado el azúcar de la masa y el del acabado para no confundirlos.",
+        "minutes": 0,
+        "cue": "Trocitos pequeños, sin convertirlos en pasta."
+      },
+      {
+        "title": "Haz una crema",
+        "text": "Bate mantequilla con los 50 g de azúcar glass durante 2 minutos. Incorpora vainilla. No hace falta que doble su volumen: solo busca una crema lisa y sin grumos grandes.",
+        "minutes": 0,
+        "cue": "Mantequilla suave y azúcar integrados."
+      },
+      {
+        "title": "Une la masa",
+        "text": "Añade harina, sal y nuez. Mezcla con espátula hasta que no queden secos; puede verse arenosa al principio. Junta con las manos sin amasar de más. Tapa y refrigera 30 minutos.",
+        "minutes": 30,
+        "cue": "Masa compacta que se reúne al apretarla."
+      },
+      {
+        "title": "Forma las bolitas",
+        "text": "Precalienta a 170 °C. Divide y rueda porciones del mismo tamaño. Coloca separadas 3 cm sobre la charola fría. Si la masa se desmorona, aprieta la porción con la palma antes de redondearla.",
+        "minutes": 0,
+        "cue": "24 piezas de unos 22 g, sin grietas profundas."
+      },
+      {
+        "title": "Hornea",
+        "text": "Hornea 16–20 minutos. No esperes que se doren por encima: se resecarían. Deja reposar 8 minutos sobre la charola antes de tocarlas; todavía calientes son muy frágiles.",
+        "minutes": 18,
+        "cue": "Base apenas dorada y parte superior pálida."
+      },
+      {
+        "title": "Ponles su abrigo",
+        "text": "Pasa con cuidado las galletas tibias por azúcar glass. Deja enfriar por completo en rejilla y vuelve a espolvorear o rodar en azúcar para un acabado más blanco. Guarda solo cuando estén frías.",
+        "minutes": 20,
+        "cue": "Capa blanca de azúcar sin humedad atrapada."
+      }
+    ],
+    "tips": "La nuez debe quedar fina pero con textura; si la mueles hasta soltar aceite, cambia la consistencia.",
+    "beforeYouStart": [
+      "La mantequilla debe ceder al presionarla, sin verse derretida.",
+      "Deja libre una rejilla para enfriar.",
+      "Reserva dos recipientes distintos para las cantidades de azúcar."
+    ],
+    "doneWhen": [
+      "Las bases están doradas claras y la superficie permanece pálida.",
+      "Una pieza fría se rompe con textura corta, sin centro pastoso."
+    ],
+    "troubleshooting": [
+      {
+        "problem": "Se desmoronan al cubrirlas.",
+        "solution": "Espera unos minutos más; recién salidas no soportan el movimiento."
+      },
+      {
+        "problem": "Se expandieron demasiado.",
+        "solution": "La mantequilla estaba muy caliente. Enfría las bolitas antes de hornear la siguiente tanda."
+      }
+    ],
+    "storage": "Guarda herméticas en un lugar fresco hasta 5 días, separando capas con papel.",
+    "servingTip": "Sirve en una bandeja pequeña y ten cerca una servilleta: el azúcar es parte del encanto.",
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Russian_teacakes_%288307560889%29.jpg/960px-Russian_teacakes_%288307560889%29.jpg",
+    "photoAlt": "Galletitas de nuez cubiertas con azúcar glass sobre una rejilla",
+    "photographer": "Stacy Spensley",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Russian_teacakes_(8307560889).jpg",
+    "photoPlatform": "Wikimedia Commons",
+    "photoLicense": "CC BY 2.0",
+    "photoLicenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "id": "alfajores-de-maicena",
+    "name": "Alfajores de maicena",
+    "categoryLabel": "Dulce de leche entre dos nubes",
+    "tags": [
+      "galletas",
+      "recientes"
+    ],
+    "difficulty": "Intermedia",
+    "servings": 18,
+    "prep": 35,
+    "cook": 12,
+    "rest": 60,
+    "oven": 170,
+    "description": "Tapitas suaves, una buena capa de dulce de leche y coco en el borde.",
+    "equipment": "Batidora, rodillo, cortador de 5 cm, charolas y papel para hornear.",
+    "ingredients": [
+      {
+        "name": "mantequilla suave",
+        "amount": 150.0,
+        "unit": "g",
+        "group": "Tapitas"
+      },
+      {
+        "name": "azúcar glass",
+        "amount": 90.0,
+        "unit": "g",
+        "group": "Tapitas"
+      },
+      {
+        "name": "yemas grandes",
+        "amount": 3.0,
+        "unit": "pzas",
+        "group": "Tapitas"
+      },
+      {
+        "name": "vainilla",
+        "amount": 5.0,
+        "unit": "ml",
+        "group": "Tapitas"
+      },
+      {
+        "name": "fécula de maíz",
+        "amount": 200.0,
+        "unit": "g",
+        "group": "Tapitas"
+      },
+      {
+        "name": "harina de trigo",
+        "amount": 100.0,
+        "unit": "g",
+        "group": "Tapitas"
+      },
+      {
+        "name": "polvo para hornear",
+        "amount": 5.0,
+        "unit": "g",
+        "group": "Tapitas"
+      },
+      {
+        "name": "sal",
+        "amount": 1.0,
+        "unit": "g",
+        "group": "Tapitas"
+      },
+      {
+        "name": "dulce de leche repostero",
+        "amount": 300.0,
+        "unit": "g",
+        "group": "Relleno"
+      },
+      {
+        "name": "coco rallado seco",
+        "amount": 50.0,
+        "unit": "g",
+        "group": "Relleno"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Haz la base",
+        "text": "Bate mantequilla con azúcar glass 2–3 minutos. Incorpora las yemas una a una y después la vainilla. Raspa los lados del recipiente para que no queden zonas sin mezclar.",
+        "minutes": 0,
+        "cue": "Crema lisa, sin mantequilla líquida."
+      },
+      {
+        "title": "Une y enfría",
+        "text": "Tamiza fécula, harina, polvo de hornear y sal. Incorpora a la crema con una espátula. Junta sin amasar, aplana en un disco, envuelve y refrigera 40 minutos. La masa fría se corta mejor.",
+        "minutes": 40,
+        "cue": "Masa suave que se junta sin pegarse demasiado."
+      },
+      {
+        "title": "Estira y corta",
+        "text": "Precalienta a 170 °C. Estira entre dos papeles para hornear hasta 5 mm. Corta círculos de 5 cm y coloca en charolas dejando 2 cm. Junta recortes con suavidad y vuelve a enfriar si se ablandan.",
+        "minutes": 0,
+        "cue": "Tapitas de 5 mm y diámetro uniforme."
+      },
+      {
+        "title": "Hornea pálidas",
+        "text": "Hornea por tandas 10–12 minutos. Las tapitas deben permanecer claras arriba. Espera 5 minutos en la charola antes de pasar a una rejilla. El rendimiento aproximado es de 36 tapitas para 18 alfajores.",
+        "minutes": 12,
+        "cue": "Bases firmes con apenas un toque de color."
+      },
+      {
+        "title": "Rellena con cuidado",
+        "text": "Pon dulce de leche en la cara plana de una tapita y cubre con otra, presionando apenas. Usa dulce de leche espeso de repostería para que no escurra al sostener el alfajor.",
+        "minutes": 0,
+        "cue": "Tapitas frías y relleno que sostiene la segunda capa."
+      },
+      {
+        "title": "Rueda por coco",
+        "text": "Pasa el borde por coco rallado y acomoda sin apilar de inmediato. Deja reposar 20 minutos en un lugar fresco. Para una textura aún más tierna, guarda unas horas antes de servir.",
+        "minutes": 20,
+        "cue": "Borde cubierto y alfajores asentados."
+      }
+    ],
+    "tips": "Presiona las tapitas lo mínimo al rellenar: son delicadas por la proporción de fécula.",
+    "beforeYouStart": [
+      "Usa fécula de maíz blanca sin saborizantes.",
+      "Busca dulce de leche repostero, más firme que una salsa.",
+      "La medida de 5 mm ayuda a que no queden demasiado frágiles."
+    ],
+    "doneWhen": [
+      "La base se despega del papel y la parte superior sigue clara.",
+      "Una tapita fría se sostiene entera antes de rellenarla."
+    ],
+    "troubleshooting": [
+      {
+        "problem": "La masa se agrieta al estirar.",
+        "solution": "Déjala templar unos minutos y estira entre papeles, sin añadir demasiada harina."
+      },
+      {
+        "problem": "El relleno se sale.",
+        "solution": "Usa menos cantidad o un dulce de leche más espeso; no aplastes las tapitas."
+      }
+    ],
+    "storage": "Guarda herméticos en lugar fresco hasta 3 días, o refrigera hasta 5 días. Déjalos templar unos minutos antes de servir.",
+    "servingTip": "Sírvelos al día siguiente si prefieres las tapitas más suaves.",
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Alfajores-de-maicena-biscuits-recipe.jpg/960px-Alfajores-de-maicena-biscuits-recipe.jpg",
+    "photoAlt": "Alfajores con dulce de leche y coco en los bordes",
+    "photographer": "Sara McCleary",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Alfajores-de-maicena-biscuits-recipe.jpg",
+    "photoPlatform": "Wikimedia Commons",
+    "photoLicense": "CC BY-SA 4.0",
+    "photoLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "id": "galletas-de-avena-y-pasas",
+    "name": "Galletas de avena y pasas",
+    "categoryLabel": "Canela y centro suave",
+    "tags": [
+      "galletas",
+      "faciles",
+      "recientes"
+    ],
+    "difficulty": "Fácil",
+    "servings": 20,
+    "prep": 25,
+    "cook": 12,
+    "rest": 40,
+    "oven": 180,
+    "description": "Bordes dorados, avena con textura y pasas que se encuentran en cada mordida.",
+    "equipment": "Batidora o espátula, dos charolas, papel para hornear y rejilla.",
+    "ingredients": [
+      {
+        "name": "mantequilla suave",
+        "amount": 115.0,
+        "unit": "g",
+        "group": "Masa"
+      },
+      {
+        "name": "azúcar mascabado",
+        "amount": 100.0,
+        "unit": "g",
+        "group": "Masa"
+      },
+      {
+        "name": "azúcar blanca",
+        "amount": 40.0,
+        "unit": "g",
+        "group": "Masa"
+      },
+      {
+        "name": "huevo grande",
+        "amount": 1.0,
+        "unit": "pza",
+        "group": "Masa"
+      },
+      {
+        "name": "vainilla",
+        "amount": 5.0,
+        "unit": "ml",
+        "group": "Masa"
+      },
+      {
+        "name": "harina de trigo",
+        "amount": 140.0,
+        "unit": "g",
+        "group": "Masa"
+      },
+      {
+        "name": "bicarbonato",
+        "amount": 3.0,
+        "unit": "g",
+        "group": "Masa"
+      },
+      {
+        "name": "canela molida",
+        "amount": 2.0,
+        "unit": "g",
+        "group": "Masa"
+      },
+      {
+        "name": "sal",
+        "amount": 2.0,
+        "unit": "g",
+        "group": "Masa"
+      },
+      {
+        "name": "avena en hojuelas tradicionales",
+        "amount": 150.0,
+        "unit": "g",
+        "group": "Masa"
+      },
+      {
+        "name": "pasas",
+        "amount": 100.0,
+        "unit": "g",
+        "group": "Masa"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Prepara los secos",
+        "text": "Mezcla harina, bicarbonato, canela y sal. Revisa que la avena sea en hojuelas, no harina de avena ni mezcla instantánea saborizada. Forra dos charolas para hornear por tandas.",
+        "minutes": 0,
+        "cue": "Harina sin grumos y avena medida aparte."
+      },
+      {
+        "title": "Bate la mantequilla",
+        "text": "Bate mantequilla y ambos azúcares 2 minutos. Añade huevo y vainilla; mezcla hasta unir, raspando el recipiente. La mantequilla debe estar suave, no caliente ni derretida.",
+        "minutes": 0,
+        "cue": "Crema uniforme con el azúcar bien repartido."
+      },
+      {
+        "title": "Incorpora avena y pasas",
+        "text": "Agrega los secos y mezcla solo hasta desaparecer la harina. Incorpora avena y pasas con espátula. Tapa y refrigera 30 minutos para hidratar las hojuelas y controlar la expansión.",
+        "minutes": 30,
+        "cue": "Masa espesa con pasas distribuidas."
+      },
+      {
+        "title": "Porciona",
+        "text": "Precalienta a 180 °C. Forma porciones de unos 35 g y acomoda con 5 cm de separación. Aplana apenas la parte superior; no las conviertas en discos finos. Mantén la masa sobrante fría.",
+        "minutes": 0,
+        "cue": "20 montoncitos de tamaño parecido."
+      },
+      {
+        "title": "Hornea en tandas",
+        "text": "Hornea 10–13 minutos. Retira cuando los bordes se vean firmes aunque el centro parezca un poco blando. No uses el color del centro como única señal: seguirán cocinándose unos instantes en la charola.",
+        "minutes": 12,
+        "cue": "Borde dorado y centro todavía algo suave."
+      },
+      {
+        "title": "Deja que terminen de fijarse",
+        "text": "Espera 5 minutos en la charola y pasa a una rejilla otros 5–10 minutos. Usa charolas frías para cada tanda. Guarda solo cuando se haya ido todo el calor para que no se humedezcan.",
+        "minutes": 10,
+        "cue": "Galletas que se levantan enteras."
+      }
+    ],
+    "tips": "Para un centro más suave, retíralas con los bordes firmes; hornearlas hasta estar duras las reseca.",
+    "beforeYouStart": [
+      "Usa avena en hojuelas tradicionales.",
+      "Separa bien las porciones: la masa se extiende.",
+      "La masa puede quedarse tapada en frío hasta el día siguiente."
+    ],
+    "doneWhen": [
+      "El contorno se ve dorado y seco.",
+      "Una galleta fría mantiene un centro tierno, sin masa cruda."
+    ],
+    "troubleshooting": [
+      {
+        "problem": "Salieron muy planas.",
+        "solution": "Enfría la masa y evita charolas calientes entre tandas."
+      },
+      {
+        "problem": "Quedaron duras.",
+        "solution": "Reduce 1–2 minutos la próxima tanda y pesa porciones parejas para no sobrecocer las pequeñas."
+      }
+    ],
+    "storage": "Conserva herméticas hasta 4 días. Congela porciones crudas hasta 1 mes y hornea desde frías, dando algo más de tiempo.",
+    "servingTip": "Acompáñalas con leche fría o café y guarda unas para el día siguiente.",
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Oatmeal_Raisin_cookie.jpg/960px-Oatmeal_Raisin_cookie.jpg",
+    "photoAlt": "Galleta de avena con pasas y superficie dorada",
+    "photographer": "Gaurav Dhwaj Khadka",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Oatmeal_Raisin_cookie.jpg",
+    "photoPlatform": "Wikimedia Commons",
+    "photoLicense": "CC BY-SA 4.0",
+    "photoLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "id": "galletas-de-jengibre",
+    "name": "Galletas de jengibre",
+    "categoryLabel": "Especias y formas bonitas",
+    "tags": [
+      "galletas",
+      "recientes"
+    ],
+    "difficulty": "Intermedia",
+    "servings": 24,
+    "prep": 35,
+    "cook": 12,
+    "rest": 85,
+    "oven": 175,
+    "description": "Canela, jengibre y bordes bien definidos para cortar la forma que se te ocurra.",
+    "equipment": "Rodillo, cortadores de unos 7 cm, charolas, papel para hornear y rejilla.",
+    "ingredients": [
+      {
+        "name": "mantequilla suave",
+        "amount": 115.0,
+        "unit": "g",
+        "group": "Masa"
+      },
+      {
+        "name": "azúcar mascabado",
+        "amount": 90.0,
+        "unit": "g",
+        "group": "Masa"
+      },
+      {
+        "name": "melaza de caña, no blackstrap",
+        "amount": 100.0,
+        "unit": "g",
+        "group": "Masa"
+      },
+      {
+        "name": "huevo grande",
+        "amount": 1.0,
+        "unit": "pza",
+        "group": "Masa"
+      },
+      {
+        "name": "harina de trigo",
+        "amount": 330.0,
+        "unit": "g",
+        "group": "Masa"
+      },
+      {
+        "name": "bicarbonato",
+        "amount": 3.0,
+        "unit": "g",
+        "group": "Masa"
+      },
+      {
+        "name": "jengibre molido",
+        "amount": 6.0,
+        "unit": "g",
+        "group": "Masa"
+      },
+      {
+        "name": "canela molida",
+        "amount": 4.0,
+        "unit": "g",
+        "group": "Masa"
+      },
+      {
+        "name": "clavo molido",
+        "amount": 1.0,
+        "unit": "g",
+        "group": "Masa"
+      },
+      {
+        "name": "sal",
+        "amount": 2.0,
+        "unit": "g",
+        "group": "Masa"
+      },
+      {
+        "name": "azúcar glass",
+        "amount": 100.0,
+        "unit": "g",
+        "group": "Glaseado"
+      },
+      {
+        "name": "agua, aproximadamente",
+        "amount": 15.0,
+        "unit": "ml",
+        "group": "Glaseado"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Perfuma la harina",
+        "text": "Mezcla harina, bicarbonato, jengibre, canela, clavo y sal. El jengibre de esta receta es seco y molido; el fresco aporta agua y no se cambia en la misma cantidad.",
+        "minutes": 0,
+        "cue": "Especias y bicarbonato sin grumos."
+      },
+      {
+        "title": "Haz la crema",
+        "text": "Bate mantequilla y azúcar mascabado 2 minutos. Agrega melaza y huevo, mezclando bien. Usa melaza de caña de sabor suave; la blackstrap puede resultar demasiado amarga.",
+        "minutes": 0,
+        "cue": "Mezcla oscura y uniforme."
+      },
+      {
+        "title": "Une y enfría",
+        "text": "Incorpora los secos sin amasar de más. Divide en dos discos, envuelve y refrigera 1 hora. Si sigue muy blanda por el calor de la cocina, dale algo más de frío antes de estirar.",
+        "minutes": 60,
+        "cue": "Masa firme que se puede estirar."
+      },
+      {
+        "title": "Corta tus formas",
+        "text": "Precalienta a 175 °C. Estira entre papeles a 5 mm y corta figuras. Pasa a la charola con una espátula, dejando 3 cm. Enfría las figuras 10 minutos antes de hornear y junta recortes sin sobreamasar.",
+        "minutes": 10,
+        "cue": "Piezas de 5 mm de grosor sin bordes deformados."
+      },
+      {
+        "title": "Hornea",
+        "text": "Hornea 9–12 minutos según el tamaño del cortador. Retira las piezas pequeñas antes si se doran. Espera 5 minutos en la charola y enfría completamente sobre rejilla antes de decorar.",
+        "minutes": 12,
+        "cue": "Bordes firmes y centro seco por encima."
+      },
+      {
+        "title": "Dibuja con glaseado",
+        "text": "Mezcla azúcar glass con el agua cucharadita a cucharadita; quizá no necesites toda. Pon en una manga pequeña y dibuja sobre galletas frías. Deja secar al aire antes de apilar; los dibujos gruesos necesitarán más tiempo.",
+        "minutes": 15,
+        "cue": "Glaseado espeso que cae en un hilo lento."
+      }
+    ],
+    "tips": "Corta todas las piezas de una tanda con tamaño parecido; las puntas pequeñas se doran antes.",
+    "beforeYouStart": [
+      "Pesa la melaza directamente en el recipiente para no perderla en la taza.",
+      "Reserva sitio en el refrigerador para las figuras cortadas.",
+      "El agua del glaseado se añade de a poco, según la consistencia."
+    ],
+    "doneWhen": [
+      "Los bordes sostienen la forma y no se hunden al tocarlos suavemente.",
+      "La superficie no tiene brillo de masa húmeda."
+    ],
+    "troubleshooting": [
+      {
+        "problem": "Las figuras pierden la forma.",
+        "solution": "Enfría los cortes antes de hornear y usa una charola a temperatura ambiente."
+      },
+      {
+        "problem": "El glaseado se escurre.",
+        "solution": "Incorpora azúcar glass poco a poco hasta que mantenga una línea al dibujar."
+      }
+    ],
+    "storage": "Guarda en recipiente hermético hasta 5 días una vez seco el glaseado.",
+    "servingTip": "Unos puntitos y una sonrisa bastan; también quedan bonitas sin decorar.",
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Gingerbread_Cookies_on_Table.jpg/960px-Gingerbread_Cookies_on_Table.jpg",
+    "photoAlt": "Galletas de jengibre decoradas con diferentes formas",
+    "photographer": "GutMaze",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Gingerbread_Cookies_on_Table.jpg",
+    "photoPlatform": "Wikimedia Commons",
+    "photoLicense": "CC BY-SA 4.0",
+    "photoLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "id": "conchas-de-vainilla",
+    "name": "Conchas de vainilla",
+    "categoryLabel": "Pan de casa, recién hecho",
+    "tags": [
+      "de-casa",
+      "pasteles",
+      "recientes"
+    ],
+    "difficulty": "Elaborada",
+    "servings": 12,
+    "prep": 45,
+    "cook": 20,
+    "rest": 150,
+    "oven": 180,
+    "description": "Pan suave con cubierta de vainilla que se rompe en pequeñas líneas al hornearse.",
+    "equipment": "Báscula, charolas, papel para hornear, batidora con gancho opcional y cuchillo fino.",
+    "ingredients": [
+      {
+        "name": "harina de trigo de fuerza media",
+        "amount": 500.0,
+        "unit": "g",
+        "group": "Pan"
+      },
+      {
+        "name": "levadura seca instantánea",
+        "amount": 7.0,
+        "unit": "g",
+        "group": "Pan"
+      },
+      {
+        "name": "azúcar",
+        "amount": 90.0,
+        "unit": "g",
+        "group": "Pan"
+      },
+      {
+        "name": "sal",
+        "amount": 6.0,
+        "unit": "g",
+        "group": "Pan"
+      },
+      {
+        "name": "leche tibia, no caliente",
+        "amount": 180.0,
+        "unit": "ml",
+        "group": "Pan"
+      },
+      {
+        "name": "huevos grandes",
+        "amount": 2.0,
+        "unit": "pzas",
+        "group": "Pan"
+      },
+      {
+        "name": "mantequilla suave",
+        "amount": 80.0,
+        "unit": "g",
+        "group": "Pan"
+      },
+      {
+        "name": "vainilla",
+        "amount": 5.0,
+        "unit": "ml",
+        "group": "Pan"
+      },
+      {
+        "name": "mantequilla suave",
+        "amount": 100.0,
+        "unit": "g",
+        "group": "Cubierta"
+      },
+      {
+        "name": "azúcar glass",
+        "amount": 100.0,
+        "unit": "g",
+        "group": "Cubierta"
+      },
+      {
+        "name": "harina de trigo",
+        "amount": 120.0,
+        "unit": "g",
+        "group": "Cubierta"
+      },
+      {
+        "name": "vainilla",
+        "amount": 5.0,
+        "unit": "ml",
+        "group": "Cubierta"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Forma la masa",
+        "text": "Mezcla harina, levadura y azúcar; añade sal, leche tibia, huevos y vainilla. Amasa hasta reunir todo. La leche debe sentirse apenas tibia al tacto, unos 30–35 °C; el calor excesivo perjudica la levadura.",
+        "minutes": 0,
+        "cue": "Masa reunida, aún algo pegajosa."
+      },
+      {
+        "title": "Integra la mantequilla",
+        "text": "Añade los 80 g de mantequilla en trozos, amasando hasta absorber cada uno. Trabaja 12–18 minutos a mano o unos 8–12 con gancho a velocidad baja-media. Evita añadir harina en exceso aunque al principio esté pegajosa.",
+        "minutes": 0,
+        "cue": "Masa elástica que se estira en una membrana fina."
+      },
+      {
+        "title": "Primer levado",
+        "text": "Coloca en un recipiente ligeramente engrasado, tapa y deja en un lugar templado de 60 a 90 minutos. El volumen manda sobre el reloj. Mientras, mezcla los ingredientes de la cubierta hasta obtener una pasta homogénea y guarda a temperatura fresca.",
+        "minutes": 90,
+        "cue": "La masa aproximadamente duplica su volumen."
+      },
+      {
+        "title": "Forma y cubre",
+        "text": "Desgasifica con suavidad y divide en 12 porciones iguales. Bolea y separa al menos 7 cm en charolas. Divide la cubierta en 12, aplana discos entre papeles y acomoda sobre el pan sin comprimirlo.",
+        "minutes": 0,
+        "cue": "12 bolas lisas, con la unión por debajo."
+      },
+      {
+        "title": "Marca y deja crecer",
+        "text": "Haz líneas curvas poco profundas en la cubierta sin cortar el pan. Tapa flojamente y deja levar 45–60 minutos. Precalienta a 180 °C al final del levado. Si la cocina está fría, el proceso puede tardar más.",
+        "minutes": 60,
+        "cue": "Panes visiblemente esponjados y cubierta marcada."
+      },
+      {
+        "title": "Hornea y enfría",
+        "text": "Hornea 18–22 minutos; si usas dos charolas, hazlo por tandas para un dorado uniforme. Deja en rejilla. Espera unos 15 minutos antes de abrir una: la miga termina de asentarse al perder calor.",
+        "minutes": 20,
+        "cue": "Bases doradas y pan ligero, sin centro pastoso."
+      }
+    ],
+    "tips": "La masa enriquecida leva más despacio. Mira cuánto crece en lugar de aumentar el calor para apresurarla.",
+    "beforeYouStart": [
+      "Usa levadura seca instantánea; revisa su fecha y consérvala bien cerrada.",
+      "La mantequilla del pan y la cubierta se pesan por separado.",
+      "No dejes la cubierta al sol o cerca del horno caliente."
+    ],
+    "doneWhen": [
+      "El pan recupera lentamente la forma tras una presión ligera antes de hornear.",
+      "La base está dorada y la miga se separa en hebras suaves."
+    ],
+    "troubleshooting": [
+      {
+        "problem": "La masa no crece.",
+        "solution": "Dale más tiempo en un sitio templado. Si no muestra actividad, revisa la levadura y la temperatura de la leche para la próxima tanda."
+      },
+      {
+        "problem": "La cubierta se desliza.",
+        "solution": "Estaba demasiado caliente o el disco era grueso. Enfría un poco la pasta y reparte una capa uniforme."
+      }
+    ],
+    "storage": "Guarda ya frías en bolsa o recipiente cerrado hasta 2 días. Congela hasta 1 mes y recalienta suavemente.",
+    "servingTip": "Tibia, con café o chocolate; parte una para ver la miga antes de llevarlas a la mesa.",
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Concha_%28pan%29.jpg/960px-Concha_%28pan%29.jpg",
+    "photoAlt": "Concha de pan dulce con cubierta clara marcada en líneas",
+    "photographer": "Koffermejia",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Concha_(pan).jpg",
+    "photoPlatform": "Wikimedia Commons",
+    "photoLicense": "CC BY-SA 4.0",
+    "photoLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "id": "orejas-de-hojaldre",
+    "name": "Orejas de hojaldre",
+    "categoryLabel": "Dos pliegues y mucho crujido",
+    "tags": [
+      "galletas",
+      "faciles",
+      "recientes"
+    ],
+    "difficulty": "Fácil",
+    "servings": 20,
+    "prep": 20,
+    "cook": 18,
+    "rest": 25,
+    "oven": 200,
+    "description": "Hojaldre caramelizado por los dos lados, con azúcar en cada vuelta.",
+    "equipment": "Rodillo, cuchillo afilado, charola y papel para hornear.",
+    "ingredients": [
+      {
+        "name": "hojaldre de mantequilla refrigerado",
+        "amount": 400.0,
+        "unit": "g",
+        "group": "Orejas"
+      },
+      {
+        "name": "azúcar",
+        "amount": 100.0,
+        "unit": "g",
+        "group": "Orejas"
+      },
+      {
+        "name": "canela molida",
+        "amount": 2.0,
+        "unit": "g",
+        "group": "Orejas"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Prepara el hojaldre",
+        "text": "Si está congelado, descongélalo dentro del refrigerador siguiendo el envase. Mezcla azúcar y canela. Esparce un tercio en la mesa y coloca el hojaldre encima. Evita trabajar junto al horno caliente.",
+        "minutes": 0,
+        "cue": "Masa fría pero flexible, sin grietas."
+      },
+      {
+        "title": "Extiende con azúcar",
+        "text": "Reparte otro tercio de azúcar encima y pasa el rodillo suavemente para adherir. Estira sin aplastar las capas. Mantén bordes razonablemente rectos; si la mantequilla comienza a verse blanda, enfría antes de seguir.",
+        "minutes": 0,
+        "cue": "Rectángulo de unos 30 × 35 cm y 3 mm."
+      },
+      {
+        "title": "Pliega hacia el centro",
+        "text": "Dobla ambos lados largos hacia el centro y vuelve a doblarlos hacia el centro una vez más. Cierra una mitad sobre la otra como un libro. Envuelve y enfría 20 minutos. Reserva el azúcar restante.",
+        "minutes": 20,
+        "cue": "Dos rollos simétricos que se encuentran al medio."
+      },
+      {
+        "title": "Corta las orejas",
+        "text": "Precalienta a 200 °C. Corta con movimientos firmes y coloca las piezas acostadas sobre papel para hornear, dejando 5 cm entre ellas. Espolvorea el azúcar reservado. Abre apenas las dos puntas para sugerir la forma.",
+        "minutes": 0,
+        "cue": "Rebanadas de 1 cm, sin comprimir las capas."
+      },
+      {
+        "title": "Hornea por ambos lados",
+        "text": "Hornea 10–12 minutos hasta dorar la base. Voltea con una espátula y hornea otros 5–7 minutos. Vigila al final: el azúcar pasa de caramelo a quemado rápidamente. Retira las más pequeñas si se adelantan.",
+        "minutes": 18,
+        "cue": "Color ámbar y capas crujientes."
+      },
+      {
+        "title": "Deja enfriar",
+        "text": "Espera 2 minutos en la charola y pásalas con espátula a una rejilla antes de que el caramelo se pegue. El azúcar está muy caliente: no las tomes con los dedos. Deja enfriar antes de probar.",
+        "minutes": 5,
+        "cue": "Orejas firmes que se despegan del papel."
+      }
+    ],
+    "tips": "El hojaldre debe llegar frío al horno; ese cambio de temperatura ayuda a separar sus capas.",
+    "beforeYouStart": [
+      "Compra hojaldre en lámina sin relleno.",
+      "Usa papel apto para horno a 200 °C.",
+      "Deja bastante espacio: las orejas se abren al cocinarse."
+    ],
+    "doneWhen": [
+      "Los dos lados presentan un dorado ámbar, sin masa gris translúcida.",
+      "Las capas se sienten secas y crujen una vez frías."
+    ],
+    "troubleshooting": [
+      {
+        "problem": "No se abrieron las capas.",
+        "solution": "La masa se calentó al manipularla. Enfría el rollo antes de cortar y usa el horno precalentado."
+      },
+      {
+        "problem": "Se quemó el azúcar.",
+        "solution": "Baja una posición la charola y revisa unos minutos antes; cada horno dora distinto."
+      }
+    ],
+    "storage": "Guarda frías y herméticas hasta 2 días. No refrigeres: la humedad ablanda el hojaldre.",
+    "servingTip": "Sirve cuando se hayan enfriado; el caramelo crujiente necesita esos minutos.",
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Palmeras_de_hojaldre_1.jpg/960px-Palmeras_de_hojaldre_1.jpg",
+    "photoAlt": "Orejas de hojaldre doradas con capas de azúcar",
+    "photographer": "jytyl",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Palmeras_de_hojaldre_1.jpg",
+    "photoPlatform": "Wikimedia Commons",
+    "photoLicense": "CC BY 2.0",
+    "photoLicenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "id": "madeleines",
+    "name": "Madeleines",
+    "categoryLabel": "Conchitas de limón",
+    "tags": [
+      "pasteles",
+      "recientes"
+    ],
+    "difficulty": "Intermedia",
+    "servings": 18,
+    "prep": 25,
+    "cook": 11,
+    "rest": 135,
+    "oven": 200,
+    "description": "Pequeños bizcochos de mantequilla con aroma a limón y una pancita en el centro.",
+    "equipment": "Molde metálico para madeleines, batidor, brocha y rejilla.",
+    "ingredients": [
+      {
+        "name": "mantequilla",
+        "amount": 100.0,
+        "unit": "g",
+        "group": "Masa"
+      },
+      {
+        "name": "huevos grandes",
+        "amount": 2.0,
+        "unit": "pzas",
+        "group": "Masa"
+      },
+      {
+        "name": "azúcar",
+        "amount": 90.0,
+        "unit": "g",
+        "group": "Masa"
+      },
+      {
+        "name": "miel",
+        "amount": 15.0,
+        "unit": "g",
+        "group": "Masa"
+      },
+      {
+        "name": "harina de trigo",
+        "amount": 120.0,
+        "unit": "g",
+        "group": "Masa"
+      },
+      {
+        "name": "polvo para hornear",
+        "amount": 4.0,
+        "unit": "g",
+        "group": "Masa"
+      },
+      {
+        "name": "sal",
+        "amount": 1.0,
+        "unit": "g",
+        "group": "Masa"
+      },
+      {
+        "name": "vainilla",
+        "amount": 5.0,
+        "unit": "ml",
+        "group": "Masa"
+      },
+      {
+        "name": "limón, solo la ralladura",
+        "amount": 1.0,
+        "unit": "pza",
+        "group": "Masa"
+      },
+      {
+        "name": "mantequilla extra",
+        "amount": 10.0,
+        "unit": "g",
+        "group": "Molde"
+      },
+      {
+        "name": "harina extra",
+        "amount": 10.0,
+        "unit": "g",
+        "group": "Molde"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Derrite y perfuma",
+        "text": "Derrite los 100 g de mantequilla y deja templar. Frota la ralladura de limón con el azúcar para soltar su aroma. Evita la parte blanca de la piel, que puede dar amargor.",
+        "minutes": 0,
+        "cue": "Mantequilla líquida y tibia, no caliente."
+      },
+      {
+        "title": "Mezcla los huevos",
+        "text": "Bate huevos, azúcar aromatizada y miel 2–3 minutos a mano o con batidora. Añade vainilla. No necesitas montar un merengue ni alcanzar una masa muy voluminosa.",
+        "minutes": 0,
+        "cue": "Mezcla algo espumosa, de color más claro."
+      },
+      {
+        "title": "Incorpora y enfría",
+        "text": "Tamiza harina, polvo de hornear y sal. Incorpora con espátula y después añade la mantequilla tibia en hilo. Tapa y refrigera al menos 2 horas; puede reposar hasta la noche siguiente.",
+        "minutes": 120,
+        "cue": "Masa espesa y homogénea, bien fría."
+      },
+      {
+        "title": "Prepara el molde",
+        "text": "Precalienta a 200 °C. Pincela cada cavidad con mantequilla extra y espolvorea harina; sacude el sobrante. Enfría el molde 10 minutos. Llena cada hueco a tres cuartas partes con masa fría sin extenderla.",
+        "minutes": 0,
+        "cue": "Cavidades engrasadas con película fina, sin charcos."
+      },
+      {
+        "title": "Hornea",
+        "text": "Hornea 9–12 minutos sin abrir durante los primeros 8. La pancita depende del frío de la masa, el molde y el horno; lo esencial es que estén cocidas y suaves. No sobrellenes para intentar hacerla más grande.",
+        "minutes": 11,
+        "cue": "Bordes dorados y centro elástico."
+      },
+      {
+        "title": "Desmolda tibias",
+        "text": "Espera 2 minutos, despega los bordes suavemente y pasa a una rejilla. Antes de otra tanda, enfría, limpia y vuelve a preparar el molde. Deja templar unos minutos antes de servir.",
+        "minutes": 15,
+        "cue": "Piezas que se desprenden con los bordes enteros."
+      }
+    ],
+    "tips": "Masa fría y molde bien preparado valen más que batir de más. Evita poner masa en un molde caliente.",
+    "beforeYouStart": [
+      "Usa un molde específico de madeleines para esta forma y tiempo.",
+      "Lava y seca el limón antes de rallarlo.",
+      "Planea el reposo de 2 horas antes de empezar."
+    ],
+    "doneWhen": [
+      "El centro vuelve a su sitio al tocarlo suavemente.",
+      "Los bordes están dorados y no hay masa húmeda en una brocheta."
+    ],
+    "troubleshooting": [
+      {
+        "problem": "Se pegan al molde.",
+        "solution": "Engrasa cada estría y retira a los 2 minutos, sin esperar a que se enfríen dentro."
+      },
+      {
+        "problem": "Quedaron secas.",
+        "solution": "Reduce el horneado de la siguiente tanda; son pequeñas y se pasan rápido."
+      }
+    ],
+    "storage": "Se disfrutan el día de horneado. Guarda herméticas hasta 2 días o congela hasta 1 mes.",
+    "servingTip": "Sírvelas apenas tibias junto a una taza de té.",
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Madeleines_de_Commercy.jpg/960px-Madeleines_de_Commercy.jpg",
+    "photoAlt": "Madeleines de mantequilla con forma de concha",
+    "photographer": "myself (Bernard Leprêtre)",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Madeleines_de_Commercy.jpg",
+    "photoPlatform": "Wikimedia Commons",
+    "photoLicense": "CC BY-SA 2.5",
+    "photoLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5"
+  },
+  {
+    "id": "muffins-de-arandanos",
+    "name": "Muffins de arándanos",
+    "categoryLabel": "Fruta azul y copete dorado",
+    "tags": [
+      "pasteles",
+      "faciles",
+      "recientes"
+    ],
+    "difficulty": "Fácil",
+    "servings": 12,
+    "prep": 20,
+    "cook": 23,
+    "rest": 15,
+    "oven": 190,
+    "description": "Arándanos que se revientan dentro de una miga suave. De los que se parten con las manos.",
+    "equipment": "Molde metálico de 12 muffins estándar, capacillos, espátula y rejilla.",
+    "ingredients": [
+      {
+        "name": "harina de trigo",
+        "amount": 250.0,
+        "unit": "g",
+        "group": "Masa"
+      },
+      {
+        "name": "azúcar",
+        "amount": 140.0,
+        "unit": "g",
+        "group": "Masa"
+      },
+      {
+        "name": "polvo para hornear",
+        "amount": 10.0,
+        "unit": "g",
+        "group": "Masa"
+      },
+      {
+        "name": "sal",
+        "amount": 2.0,
+        "unit": "g",
+        "group": "Masa"
+      },
+      {
+        "name": "huevos grandes",
+        "amount": 2.0,
+        "unit": "pzas",
+        "group": "Masa"
+      },
+      {
+        "name": "aceite vegetal",
+        "amount": 120.0,
+        "unit": "ml",
+        "group": "Masa"
+      },
+      {
+        "name": "leche entera",
+        "amount": 180.0,
+        "unit": "ml",
+        "group": "Masa"
+      },
+      {
+        "name": "vainilla",
+        "amount": 5.0,
+        "unit": "ml",
+        "group": "Masa"
+      },
+      {
+        "name": "arándanos azules frescos o congelados",
+        "amount": 200.0,
+        "unit": "g",
+        "group": "Fruta"
+      },
+      {
+        "name": "harina extra",
+        "amount": 10.0,
+        "unit": "g",
+        "group": "Fruta"
+      },
+      {
+        "name": "azúcar",
+        "amount": 20.0,
+        "unit": "g",
+        "group": "Acabado"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Prepara el molde",
+        "text": "Precalienta a 190 °C. Coloca capacillos en un molde metálico estándar. Si usas arándanos frescos, lávalos y sécalos muy bien. Si usas congelados, mantenlos congelados hasta incorporarlos.",
+        "minutes": 0,
+        "cue": "12 cavidades con capacillos y horno caliente."
+      },
+      {
+        "title": "Separa secos y líquidos",
+        "text": "Mezcla harina, 140 g de azúcar, polvo de hornear y sal. En otro recipiente bate a mano huevos, aceite, leche y vainilla hasta integrar. No necesitas airear la mezcla con batidora.",
+        "minutes": 0,
+        "cue": "Dos mezclas uniformes antes de unir."
+      },
+      {
+        "title": "Une lo justo",
+        "text": "Vierte los líquidos sobre los secos y mezcla con espátula en pocas vueltas. Detente en cuanto no queden bolsas de harina. Una masa completamente lisa por exceso de batido puede dar muffins duros.",
+        "minutes": 0,
+        "cue": "Masa con pequeños grumos, sin harina seca."
+      },
+      {
+        "title": "Añade la fruta",
+        "text": "Mezcla la fruta con los 10 g de harina extra e incorpora con 3–4 movimientos envolventes. Reparte en los capacillos hasta tres cuartas partes. Espolvorea los 20 g de azúcar sobre las porciones.",
+        "minutes": 0,
+        "cue": "Arándanos repartidos sin teñir toda la masa."
+      },
+      {
+        "title": "Hornea",
+        "text": "Hornea 20–25 minutos. Con fruta congelada puede tomar algunos minutos más. Inserta la brocheta en una zona de miga, no a través de un arándano. No abras el horno antes del minuto 18.",
+        "minutes": 23,
+        "cue": "Copete dorado y brocheta sin masa cruda."
+      },
+      {
+        "title": "Enfría fuera del molde",
+        "text": "Espera 5 minutos en el molde y mueve a una rejilla. Deja otros 10 minutos antes de partir. Guardarlos aún calientes humedece el capacillo y la superficie.",
+        "minutes": 15,
+        "cue": "Bases sin vapor atrapado y miga asentada."
+      }
+    ],
+    "tips": "No descongeles los arándanos antes de añadirlos; se rompen y tiñen más la masa.",
+    "beforeYouStart": [
+      "Usa arándanos azules; los rojos secos son un ingrediente distinto.",
+      "Sécalos bien si son frescos.",
+      "Coloca el molde en el centro del horno para dorar parejo."
+    ],
+    "doneWhen": [
+      "Una brocheta en la miga sale sin masa cruda.",
+      "El copete recupera su forma después de tocarlo suavemente."
+    ],
+    "troubleshooting": [
+      {
+        "problem": "La miga quedó dura.",
+        "solution": "Mezcla menos después de unir secos y líquidos y evita sobrehornear."
+      },
+      {
+        "problem": "Se pegaron los capacillos.",
+        "solution": "Déjalos enfriar y usa capacillos de buena calidad; calientes se adhieren más."
+      }
+    ],
+    "storage": "Guarda herméticos hasta 2 días en un lugar fresco, o congela ya fríos hasta 1 mes.",
+    "servingTip": "Parte uno tibio; los arándanos calientes pueden soltar jugo, así que espera unos minutos.",
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Muffin_NIH.jpg/960px-Muffin_NIH.jpg",
+    "photoAlt": "Muffin de arándanos con copete dorado y capacillo de papel",
+    "photographer": "National Cancer Institute, Renee Comet (photographer)",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Muffin_NIH.jpg",
+    "photoPlatform": "Wikimedia Commons",
+    "photoLicense": "Public domain",
+    "photoLicenseUrl": "https://commons.wikimedia.org/wiki/File:Muffin_NIH.jpg"
+  },
+  {
+    "id": "pastel-de-chocolate-con-ganache",
+    "name": "Pastel de chocolate con ganache",
+    "categoryLabel": "Chocolate, sin distraerse",
+    "tags": [
+      "chocolate",
+      "pasteles",
+      "recientes"
+    ],
+    "difficulty": "Intermedia",
+    "servings": 10,
+    "prep": 35,
+    "cook": 35,
+    "rest": 100,
+    "oven": 175,
+    "description": "Un pastel de chocolate de una capa con una cubierta brillante y generosa.",
+    "equipment": "Molde redondo de 22 cm y 5 cm de alto, papel para hornear, batidor y rejilla.",
+    "ingredients": [
+      {
+        "name": "harina de trigo",
+        "amount": 180.0,
+        "unit": "g",
+        "group": "Pastel"
+      },
+      {
+        "name": "cocoa sin azúcar",
+        "amount": 50.0,
+        "unit": "g",
+        "group": "Pastel"
+      },
+      {
+        "name": "azúcar",
+        "amount": 180.0,
+        "unit": "g",
+        "group": "Pastel"
+      },
+      {
+        "name": "polvo para hornear",
+        "amount": 6.0,
+        "unit": "g",
+        "group": "Pastel"
+      },
+      {
+        "name": "bicarbonato",
+        "amount": 3.0,
+        "unit": "g",
+        "group": "Pastel"
+      },
+      {
+        "name": "sal",
+        "amount": 2.0,
+        "unit": "g",
+        "group": "Pastel"
+      },
+      {
+        "name": "huevos grandes",
+        "amount": 2.0,
+        "unit": "pzas",
+        "group": "Pastel"
+      },
+      {
+        "name": "yogur natural sin azúcar",
+        "amount": 120.0,
+        "unit": "g",
+        "group": "Pastel"
+      },
+      {
+        "name": "aceite vegetal",
+        "amount": 90.0,
+        "unit": "ml",
+        "group": "Pastel"
+      },
+      {
+        "name": "vainilla",
+        "amount": 5.0,
+        "unit": "ml",
+        "group": "Pastel"
+      },
+      {
+        "name": "café recién hecho caliente",
+        "amount": 160.0,
+        "unit": "ml",
+        "group": "Pastel"
+      },
+      {
+        "name": "chocolate semiamargo picado",
+        "amount": 200.0,
+        "unit": "g",
+        "group": "Ganache"
+      },
+      {
+        "name": "crema para batir",
+        "amount": 200.0,
+        "unit": "ml",
+        "group": "Ganache"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Prepara el molde",
+        "text": "Precalienta a 175 °C. Engrasa el molde y cubre el fondo con un círculo de papel para hornear. Tamiza harina, cocoa, polvo de hornear, bicarbonato y sal; mezcla con el azúcar.",
+        "minutes": 0,
+        "cue": "Molde engrasado y fondo con papel."
+      },
+      {
+        "title": "Mezcla líquidos",
+        "text": "Bate a mano los huevos con yogur, aceite y vainilla. Incorpora esta mezcla a los secos con movimientos amplios. Raspa los lados y el fondo para eliminar bolsas de harina.",
+        "minutes": 0,
+        "cue": "Huevos, yogur y aceite completamente unidos."
+      },
+      {
+        "title": "Añade el café",
+        "text": "Vierte el café caliente en dos tandas mientras mezclas despacio para no salpicar. La masa quedará más líquida que otras masas de pastel: es esperado. Pasa de inmediato al molde sin superar tres cuartas partes.",
+        "minutes": 0,
+        "cue": "Masa fluida y uniforme."
+      },
+      {
+        "title": "Hornea y enfría",
+        "text": "Hornea 32–40 minutos. Revisa desde el minuto 32. Deja 15 minutos en el molde, desmolda y retira el papel. Enfría sobre rejilla al menos 1 hora antes de cubrir.",
+        "minutes": 35,
+        "cue": "Centro elástico y brocheta con migas, sin masa líquida."
+      },
+      {
+        "title": "Haz la ganache",
+        "text": "Calienta la crema hasta que humee, sin hervor fuerte. Viértela sobre el chocolate picado y deja quieta 2 minutos. Remueve desde el centro hacia afuera hasta alisar. No batas para evitar burbujas.",
+        "minutes": 5,
+        "cue": "Emulsión brillante, sin trozos de chocolate."
+      },
+      {
+        "title": "Cubre el pastel",
+        "text": "Deja templar la ganache 25–40 minutos hasta que cubra la cuchara. Extiende sobre el pastel totalmente frío, dejando caer un poco por los lados. Si sigue muy líquida, espera un poco más antes de usarla.",
+        "minutes": 40,
+        "cue": "Ganache espesa pero todavía extendible."
+      }
+    ],
+    "tips": "El café realza el chocolate. Puedes usar la misma cantidad de agua caliente si prefieres evitarlo.",
+    "beforeYouStart": [
+      "Usa cocoa pura sin azúcar, no polvo para preparar bebida.",
+      "Pica fino el chocolate de la cubierta.",
+      "No cubras el pastel caliente: derretiría la ganache."
+    ],
+    "doneWhen": [
+      "La brocheta no arrastra masa cruda del centro.",
+      "La ganache se extiende en una capa estable al enfriarse."
+    ],
+    "troubleshooting": [
+      {
+        "problem": "La ganache tiene trozos.",
+        "solution": "Pon el recipiente sobre agua apenas caliente y remueve suavemente hasta fundir."
+      },
+      {
+        "problem": "El pastel quedó seco.",
+        "solution": "Revisa antes la próxima vez; retira con migas húmedas en la brocheta, sin esperar a que salga completamente seca."
+      }
+    ],
+    "storage": "Refrigera tapado hasta 3 días por la cubierta de crema. Deja templar la porción 20 minutos antes de servir.",
+    "servingTip": "Corta con un cuchillo tibio y límpialo entre rebanadas para ver bien la cubierta.",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Chocolate_Cake_with_a_Decadent_Ganache.jpg",
+    "photoAlt": "Pastel de chocolate cubierto con ganache brillante",
+    "photographer": "روتانا",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Chocolate_Cake_with_a_Decadent_Ganache.jpg",
+    "photoPlatform": "Wikimedia Commons",
+    "photoLicense": "CC BY 4.0",
+    "photoLicenseUrl": "https://creativecommons.org/licenses/by/4.0"
+  },
+  {
+    "id": "pastel-invertido-de-pina",
+    "name": "Pastel invertido de piña",
+    "categoryLabel": "La fruta se queda arriba",
+    "tags": [
+      "pasteles",
+      "de-casa",
+      "recientes"
+    ],
+    "difficulty": "Intermedia",
+    "servings": 10,
+    "prep": 25,
+    "cook": 40,
+    "rest": 15,
+    "oven": 175,
+    "description": "Piña dorada sobre un bizcocho de mantequilla. Se voltea antes de que se enfríe.",
+    "equipment": "Molde redondo metálico de 23 cm y 5 cm de alto, batidora y plato resistente al calor con borde.",
+    "ingredients": [
+      {
+        "name": "mantequilla",
+        "amount": 50.0,
+        "unit": "g",
+        "group": "Cubierta"
+      },
+      {
+        "name": "azúcar mascabado",
+        "amount": 100.0,
+        "unit": "g",
+        "group": "Cubierta"
+      },
+      {
+        "name": "aros de piña en almíbar, escurridos",
+        "amount": 7.0,
+        "unit": "pzas",
+        "group": "Cubierta"
+      },
+      {
+        "name": "cerezas en almíbar, escurridas",
+        "amount": 7.0,
+        "unit": "pzas",
+        "group": "Cubierta"
+      },
+      {
+        "name": "mantequilla suave",
+        "amount": 100.0,
+        "unit": "g",
+        "group": "Pastel"
+      },
+      {
+        "name": "azúcar",
+        "amount": 120.0,
+        "unit": "g",
+        "group": "Pastel"
+      },
+      {
+        "name": "huevos grandes",
+        "amount": 2.0,
+        "unit": "pzas",
+        "group": "Pastel"
+      },
+      {
+        "name": "vainilla",
+        "amount": 5.0,
+        "unit": "ml",
+        "group": "Pastel"
+      },
+      {
+        "name": "harina de trigo",
+        "amount": 200.0,
+        "unit": "g",
+        "group": "Pastel"
+      },
+      {
+        "name": "polvo para hornear",
+        "amount": 8.0,
+        "unit": "g",
+        "group": "Pastel"
+      },
+      {
+        "name": "sal",
+        "amount": 2.0,
+        "unit": "g",
+        "group": "Pastel"
+      },
+      {
+        "name": "leche entera",
+        "amount": 120.0,
+        "unit": "ml",
+        "group": "Pastel"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Coloca la fruta",
+        "text": "Precalienta a 175 °C. Derrite los 50 g de mantequilla y reparte con azúcar mascabado en el fondo del molde. Acomoda los aros de piña y las cerezas en sus centros. Seca la fruta con papel si tiene mucho almíbar.",
+        "minutes": 0,
+        "cue": "Piña bien escurrida y fondo cubierto sin amontonar."
+      },
+      {
+        "title": "Bate la mantequilla",
+        "text": "Bate los 100 g de mantequilla suave con los 120 g de azúcar durante 3 minutos. Añade huevos de uno en uno y vainilla. Raspa el recipiente entre adiciones para integrar por completo.",
+        "minutes": 0,
+        "cue": "Crema más clara y esponjosa."
+      },
+      {
+        "title": "Completa la masa",
+        "text": "Mezcla harina, polvo de hornear y sal. Incorpora a la crema alternando con leche: secos, leche y secos. Mezcla a velocidad baja o con espátula solo hasta unir, sin seguir batiendo.",
+        "minutes": 0,
+        "cue": "Masa suave sin harina seca."
+      },
+      {
+        "title": "Cubre sin mover los aros",
+        "text": "Pon cucharadas de masa sobre la fruta y nivela con suavidad desde el centro hacia los bordes. No viertas de golpe: podrías desplazar la piña. Da un pequeño giro al molde para comprobar que quedó nivelado.",
+        "minutes": 0,
+        "cue": "Masa repartida de manera uniforme."
+      },
+      {
+        "title": "Hornea",
+        "text": "Hornea 35–45 minutos en la rejilla central. Prueba la miga con una brocheta evitando llegar al caramelo del fondo. Si se dora muy pronto, cubre flojamente al final.",
+        "minutes": 40,
+        "cue": "Superficie dorada y brocheta sin masa cruda."
+      },
+      {
+        "title": "Voltea aún tibio",
+        "text": "Deja reposar 10–15 minutos, pasa un cuchillo por el borde y coloca un plato con borde encima. Con guantes, sujeta y voltea con cuidado por el caramelo caliente. Espera 1 minuto antes de retirar el molde; recoloca cualquier aro que se haya quedado pegado.",
+        "minutes": 15,
+        "cue": "Bordes sueltos y caramelo todavía fluido."
+      }
+    ],
+    "tips": "Un molde de una sola pieza contiene el caramelo mejor que uno desmontable.",
+    "beforeYouStart": [
+      "Escurre y seca bien la fruta antes de comenzar.",
+      "Separa la mantequilla y el azúcar por grupos.",
+      "Ten listo el plato de servir antes de sacar el pastel del horno."
+    ],
+    "doneWhen": [
+      "La brocheta sale sin masa cruda al probar solo la miga.",
+      "La superficie vuelve a su lugar al tocarla suavemente."
+    ],
+    "troubleshooting": [
+      {
+        "problem": "La piña se quedó pegada.",
+        "solution": "Voltea antes de que el caramelo enfríe por completo; si un aro queda en el molde, levántalo y acomódalo con una espátula."
+      },
+      {
+        "problem": "La miga está muy húmeda alrededor de la fruta.",
+        "solution": "Escurre mejor la piña y hornea hasta que la miga esté cocida, sin probar dentro de un aro."
+      }
+    ],
+    "storage": "Refrigera tapado hasta 3 días. Deja templar un poco antes de servir.",
+    "servingTip": "Sirve mostrando la piña; una cucharada de yogur natural acompaña bien el caramelo.",
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Pineapple_Upside-Down_Cake_%288442873817%29.jpg/960px-Pineapple_Upside-Down_Cake_%288442873817%29.jpg",
+    "photoAlt": "Pastel invertido con piña caramelizada sobre la superficie",
+    "photographer": "Neil Conway from Oakland, USA",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Pineapple_Upside-Down_Cake_(8442873817).jpg",
+    "photoPlatform": "Wikimedia Commons",
+    "photoLicense": "CC BY 2.0",
+    "photoLicenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "id": "tarta-de-frutos-rojos",
+    "name": "Tarta de frutos rojos",
+    "categoryLabel": "Crema de vainilla y fruta fresca",
+    "tags": [
+      "pasteles",
+      "frios",
+      "recientes"
+    ],
+    "difficulty": "Elaborada",
+    "servings": 8,
+    "prep": 50,
+    "cook": 35,
+    "rest": 150,
+    "oven": 180,
+    "description": "Base crujiente, crema pastelera y fruta acomodada sin demasiadas reglas.",
+    "equipment": "Molde de tarta desmontable de 23 cm, rodillo, papel para hornear, pesos de repostería y colador.",
+    "ingredients": [
+      {
+        "name": "harina de trigo",
+        "amount": 200.0,
+        "unit": "g",
+        "group": "Base"
+      },
+      {
+        "name": "mantequilla fría en cubos",
+        "amount": 100.0,
+        "unit": "g",
+        "group": "Base"
+      },
+      {
+        "name": "azúcar glass",
+        "amount": 50.0,
+        "unit": "g",
+        "group": "Base"
+      },
+      {
+        "name": "yema grande",
+        "amount": 1.0,
+        "unit": "pza",
+        "group": "Base"
+      },
+      {
+        "name": "agua fría, aproximadamente",
+        "amount": 25.0,
+        "unit": "ml",
+        "group": "Base"
+      },
+      {
+        "name": "sal",
+        "amount": 1.0,
+        "unit": "g",
+        "group": "Base"
+      },
+      {
+        "name": "leche entera",
+        "amount": 400.0,
+        "unit": "ml",
+        "group": "Crema"
+      },
+      {
+        "name": "yemas grandes",
+        "amount": 3.0,
+        "unit": "pzas",
+        "group": "Crema"
+      },
+      {
+        "name": "azúcar",
+        "amount": 75.0,
+        "unit": "g",
+        "group": "Crema"
+      },
+      {
+        "name": "fécula de maíz",
+        "amount": 35.0,
+        "unit": "g",
+        "group": "Crema"
+      },
+      {
+        "name": "vainilla",
+        "amount": 5.0,
+        "unit": "ml",
+        "group": "Crema"
+      },
+      {
+        "name": "mantequilla",
+        "amount": 20.0,
+        "unit": "g",
+        "group": "Crema"
+      },
+      {
+        "name": "fresas, frambuesas y arándanos lavados y secos",
+        "amount": 400.0,
+        "unit": "g",
+        "group": "Fruta"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Haz la masa",
+        "text": "Mezcla harina, azúcar glass y sal; frota con la mantequilla fría hasta obtener arena gruesa. Añade yema y agua poco a poco, solo la necesaria para unir. Forma un disco sin amasar, envuelve y enfría 30 minutos.",
+        "minutes": 30,
+        "cue": "Masa unida sin vetas grandes de mantequilla."
+      },
+      {
+        "title": "Forra y enfría",
+        "text": "Estira entre papeles, forra el molde y presiona suavemente las esquinas. Recorta sobrantes y pincha el fondo. Enfría 20 minutos mientras precalientas a 180 °C. El frío ayuda a que no se encoja.",
+        "minutes": 20,
+        "cue": "Base de unos 3 mm, sin estirarla a la fuerza."
+      },
+      {
+        "title": "Hornea la base vacía",
+        "text": "Cubre con papel y pesos de repostería. Hornea 18 minutos, retira con cuidado papel y pesos y hornea 10–15 minutos más hasta dorar el fondo. Enfría por completo antes de rellenar.",
+        "minutes": 30,
+        "cue": "Fondo seco y bordes dorados claros."
+      },
+      {
+        "title": "Cocina la crema",
+        "text": "Calienta la leche hasta humear. Bate yemas con azúcar y fécula. Añade media leche poco a poco y regresa todo al cazo. Cocina a fuego medio batiendo; desde el primer hervor suave, mantén 1 minuto para cocer la fécula.",
+        "minutes": 5,
+        "cue": "Crema espesa y lisa que conserva el surco del batidor."
+      },
+      {
+        "title": "Enfría protegida",
+        "text": "Retira del fuego e incorpora vainilla y mantequilla. Pasa a un recipiente bajo, cubre a contacto con película apta para alimentos y deja templar brevemente. Refrigera unos 90 minutos. Remueve con batidor para recuperar una textura lisa.",
+        "minutes": 90,
+        "cue": "Crema fría, sin costra seca."
+      },
+      {
+        "title": "Monta la tarta",
+        "text": "Extiende la crema en la base fría. Acomoda los frutos enteros o cortados; seca bien las fresas antes de ponerlas. Desmolda sosteniendo la base, no presionando el fondo sin apoyo. Sirve el mismo día para disfrutar el crujido.",
+        "minutes": 0,
+        "cue": "Fruta seca y crema fría en una base crujiente."
+      }
+    ],
+    "tips": "Monta la tarta pocas horas antes de servir; la crema ablanda la base con el paso del tiempo.",
+    "beforeYouStart": [
+      "Lava la fruta con tiempo para que se seque completamente.",
+      "Los pesos se retiran después del primer horneado; no forman parte de los ingredientes.",
+      "Separa la yema de la base de las tres de la crema."
+    ],
+    "doneWhen": [
+      "La base está dorada también en el centro, sin masa translúcida.",
+      "La crema hierve suavemente un minuto y queda espesa sin sabor a fécula cruda."
+    ],
+    "troubleshooting": [
+      {
+        "problem": "La base se encogió.",
+        "solution": "No estires la masa al acomodarla y respeta ambos reposos en frío."
+      },
+      {
+        "problem": "La crema tiene grumos.",
+        "solution": "Pásala por un colador fino mientras aún está caliente y cúbrela a contacto para enfriar."
+      }
+    ],
+    "storage": "Refrigera la tarta montada hasta 2 días; la base pierde crujido. Guarda base y crema por separado si la preparas con anticipación.",
+    "servingTip": "Corta con cuchillo de sierra fino para atravesar la base sin aplastarla.",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Berry_Tart_from_La_Farine%2C_Rockridge%2C_2009.jpg",
+    "photoAlt": "Tarta cubierta con fresas, frambuesas y moras",
+    "photographer": "www.bluewaikiki.com",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Berry_Tart_from_La_Farine,_Rockridge,_2009.jpg",
+    "photoPlatform": "Wikimedia Commons",
+    "photoLicense": "CC BY 2.0",
+    "photoLicenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "id": "creme-brulee",
+    "name": "Crème brûlée",
+    "categoryLabel": "La primera cucharada cruje",
+    "tags": [
+      "frios",
+      "recientes"
+    ],
+    "difficulty": "Intermedia",
+    "servings": 6,
+    "prep": 25,
+    "cook": 40,
+    "rest": 270,
+    "oven": 150,
+    "description": "Crema de vainilla bien fría debajo de una capa fina de caramelo recién hecho.",
+    "equipment": "6 ramequines bajos de 120 ml, charola profunda, colador y soplete de cocina.",
+    "ingredients": [
+      {
+        "name": "crema para batir",
+        "amount": 500.0,
+        "unit": "ml",
+        "group": "Crema"
+      },
+      {
+        "name": "yemas grandes",
+        "amount": 5.0,
+        "unit": "pzas",
+        "group": "Crema"
+      },
+      {
+        "name": "azúcar",
+        "amount": 70.0,
+        "unit": "g",
+        "group": "Crema"
+      },
+      {
+        "name": "extracto de vainilla",
+        "amount": 10.0,
+        "unit": "ml",
+        "group": "Crema"
+      },
+      {
+        "name": "sal",
+        "amount": 1.0,
+        "unit": "g",
+        "group": "Crema"
+      },
+      {
+        "name": "azúcar blanca fina",
+        "amount": 45.0,
+        "unit": "g",
+        "group": "Caramelo"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Calienta la crema",
+        "text": "Precalienta a 150 °C. Calienta la crema con vainilla hasta que aparezcan pequeñas burbujas en los bordes. Retira del fuego. Pon agua a calentar aparte para el baño María.",
+        "minutes": 0,
+        "cue": "Crema humeante, sin hervor fuerte."
+      },
+      {
+        "title": "Templa las yemas",
+        "text": "Bate yemas, 70 g de azúcar y sal solo hasta unir. Añade lentamente la crema caliente sin dejar de mover. Cuela y retira la espuma de la superficie con una cuchara para que el acabado quede liso.",
+        "minutes": 0,
+        "cue": "Mezcla lisa, con muy poca espuma."
+      },
+      {
+        "title": "Prepara los recipientes",
+        "text": "Reparte en ramequines bajos, dejando algo de borde libre. Coloca en la charola sobre la rejilla del horno y añade agua caliente alrededor. Evita que entre agua dentro de la crema.",
+        "minutes": 0,
+        "cue": "Porciones parejas y agua a media altura."
+      },
+      {
+        "title": "Hornea suavemente",
+        "text": "Hornea 30–45 minutos según la profundidad del ramequín. Empieza a revisar a los 30. Retira cuando el centro se mueva como gelatina suave, sin estar líquido. La crema muy rígida en el horno suele quedar sobrecocida.",
+        "minutes": 40,
+        "cue": "Bordes fijos y centro con un temblor pequeño."
+      },
+      {
+        "title": "Enfría por completo",
+        "text": "Saca del baño con guantes, deja templar unos 30 minutos y refrigera al menos 4 horas. Tapa cuando esté fría. Si aparece condensación, sécala suavemente con papel antes de caramelizar.",
+        "minutes": 270,
+        "cue": "Crema firme y totalmente fría."
+      },
+      {
+        "title": "Haz la costra al servir",
+        "text": "Reparte el azúcar del acabado en una película delgada sobre cada crema. Con soplete de cocina, calienta moviéndolo continuamente hasta fundir y dorar. Apoya los ramequines en una superficie resistente al calor. Espera 1 minuto y sirve; no caramelices horas antes.",
+        "minutes": 0,
+        "cue": "Capa fina ámbar que se endurece en 1 minuto."
+      }
+    ],
+    "tips": "Una capa delgada de azúcar se rompe con facilidad y permite que la crema siga fría.",
+    "beforeYouStart": [
+      "Usa ramequines bajos de capacidad similar.",
+      "Esta versión requiere soplete de cocina para el acabado.",
+      "Reserva las claras para otra preparación; aquí solo se usan yemas."
+    ],
+    "doneWhen": [
+      "La crema cuajada tiembla ligeramente, sin ondas de líquido.",
+      "El azúcar forma una lámina ámbar firme, sin zonas negras."
+    ],
+    "troubleshooting": [
+      {
+        "problem": "La crema quedó granulosa.",
+        "solution": "Se calentó demasiado. Hornea a menor temperatura y retira en cuanto el centro conserve un ligero temblor."
+      },
+      {
+        "problem": "El caramelo se ablanda.",
+        "solution": "La humedad del refrigerador lo disuelve. Carameliza justo antes de servir y seca primero la superficie."
+      }
+    ],
+    "storage": "La crema sin caramelizar se conserva tapada en el refrigerador hasta 2 días.",
+    "servingTip": "Llévala a la mesa poco después del soplete para que cada quien rompa su costra.",
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Cr%C3%A8me_br%C3%BBl%C3%A9e_at_restaurant_in_Zushi.jpg/960px-Cr%C3%A8me_br%C3%BBl%C3%A9e_at_restaurant_in_Zushi.jpg",
+    "photoAlt": "Crème brûlée en un ramequín blanco con caramelo dorado",
+    "photographer": "Syced",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Cr%C3%A8me_br%C3%BBl%C3%A9e_at_restaurant_in_Zushi.jpg",
+    "photoPlatform": "Wikimedia Commons",
+    "photoLicense": "CC0",
+    "photoLicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  {
+    "id": "panna-cotta-de-vainilla",
+    "name": "Panna cotta de vainilla",
+    "categoryLabel": "Cremosa y con un pequeño temblor",
+    "tags": [
+      "frios",
+      "sin-horno",
+      "faciles",
+      "recientes"
+    ],
+    "difficulty": "Fácil",
+    "servings": 6,
+    "prep": 20,
+    "cook": 5,
+    "rest": 250,
+    "oven": 0,
+    "description": "Vainilla y crema en vasitos, con una salsa de fresas para terminar.",
+    "equipment": "6 vasitos de 150 ml, cazo, colador y báscula con precisión de gramos.",
+    "ingredients": [
+      {
+        "name": "crema para batir",
+        "amount": 500.0,
+        "unit": "ml",
+        "group": "Crema"
+      },
+      {
+        "name": "leche entera",
+        "amount": 150.0,
+        "unit": "ml",
+        "group": "Crema"
+      },
+      {
+        "name": "azúcar",
+        "amount": 70.0,
+        "unit": "g",
+        "group": "Crema"
+      },
+      {
+        "name": "grenetina sin sabor en polvo, aproximadamente 200 bloom",
+        "amount": 7.0,
+        "unit": "g",
+        "group": "Crema"
+      },
+      {
+        "name": "agua fría",
+        "amount": 35.0,
+        "unit": "ml",
+        "group": "Crema"
+      },
+      {
+        "name": "vainilla",
+        "amount": 10.0,
+        "unit": "ml",
+        "group": "Crema"
+      },
+      {
+        "name": "fresas picadas",
+        "amount": 200.0,
+        "unit": "g",
+        "group": "Salsa"
+      },
+      {
+        "name": "azúcar",
+        "amount": 25.0,
+        "unit": "g",
+        "group": "Salsa"
+      },
+      {
+        "name": "jugo de limón",
+        "amount": 10.0,
+        "unit": "ml",
+        "group": "Salsa"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Hidrata la grenetina",
+        "text": "Espolvorea la grenetina sobre los 35 ml de agua fría en un recipiente pequeño. No viertas el agua sobre un montón de polvo. Deja hidratar 10 minutos sin calentar todavía.",
+        "minutes": 10,
+        "cue": "Esponja uniforme, sin polvo seco."
+      },
+      {
+        "title": "Calienta la base",
+        "text": "Calienta crema, leche y 70 g de azúcar a fuego medio-bajo, removiendo. Retira cuando humee, antes de hervir. Incorpora vainilla y deja perder el calor más intenso durante 1 minuto.",
+        "minutes": 0,
+        "cue": "Azúcar disuelta y líquido humeante."
+      },
+      {
+        "title": "Disuelve y reparte",
+        "text": "Añade la grenetina hidratada a la base caliente fuera del fuego. Remueve hasta disolver por completo y cuela. Reparte en los vasitos dejando espacio para la salsa. Esta versión se sirve en vaso y no necesita desmolde.",
+        "minutes": 0,
+        "cue": "Mezcla sin granitos de grenetina."
+      },
+      {
+        "title": "Refrigera",
+        "text": "Deja templar unos 10 minutos, tapa y refrigera al menos 4 horas. No muevas los vasos durante el primer cuajado. Si todavía está líquida, dale más tiempo: el tamaño del recipiente y la temperatura influyen.",
+        "minutes": 240,
+        "cue": "Crema que tiembla suavemente pero no fluye."
+      },
+      {
+        "title": "Cocina la salsa",
+        "text": "Calienta las fresas con 25 g de azúcar y limón durante unos 5 minutos, removiendo. Aplasta algunas con un tenedor y deja otras en trozos. Pasa a un recipiente y enfría completamente.",
+        "minutes": 5,
+        "cue": "Fresas suaves y jugo ligeramente espeso."
+      },
+      {
+        "title": "Termina los vasos",
+        "text": "Añade una o dos cucharadas de salsa a cada vaso justo antes de servir. No pongas salsa caliente: derrite la capa superior de la panna cotta. Sirve directamente del refrigerador.",
+        "minutes": 0,
+        "cue": "Salsa fría sobre una crema ya cuajada."
+      }
+    ],
+    "tips": "Pesa la grenetina; añadir de más por precaución vuelve la crema gomosa.",
+    "beforeYouStart": [
+      "Usa grenetina sin sabor, no gelatina de sabores.",
+      "La fuerza puede variar por marca; consulta el envase si indica una dosificación distinta.",
+      "Prepara vasos pequeños para que la crema cuaje uniformemente."
+    ],
+    "doneWhen": [
+      "Al inclinar apenas un vaso, la crema permanece unida.",
+      "La textura cede a la cuchara y no se siente como goma."
+    ],
+    "troubleshooting": [
+      {
+        "problem": "No cuajó.",
+        "solution": "Comprueba el tiempo de frío y que la grenetina estuviera hidratada y totalmente disuelta. No la agregues en polvo a los vasos fríos."
+      },
+      {
+        "problem": "Tiene pequeños grumos.",
+        "solution": "La grenetina no se disolvió bien; cuela la mezcla caliente antes de repartir en la siguiente preparación."
+      }
+    ],
+    "storage": "Refrigera los vasos tapados hasta 3 días y la salsa por separado. No congeles.",
+    "servingTip": "Deja la salsa con algunos trozos para contrastar con la crema lisa.",
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Vanilla_Pannakotta.jpg/960px-Vanilla_Pannakotta.jpg",
+    "photoAlt": "Panna cotta de vainilla desmoldada y decorada; presentación ilustrativa",
+    "photographer": "Mujeeb2002",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Vanilla_Pannakotta.jpg",
+    "photoPlatform": "Wikimedia Commons",
+    "photoLicense": "CC BY-SA 4.0",
+    "photoLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "id": "gelatina-de-mosaico",
+    "name": "Gelatina de mosaico",
+    "categoryLabel": "Cubitos de colores, crema de vainilla",
+    "tags": [
+      "frios",
+      "sin-horno",
+      "de-casa",
+      "recientes"
+    ],
+    "difficulty": "Intermedia",
+    "servings": 12,
+    "prep": 35,
+    "cook": 10,
+    "rest": 540,
+    "oven": 0,
+    "description": "Cada rebanada guarda un dibujo distinto. Primero cuajan los colores, luego todo lo demás.",
+    "equipment": "3 recipientes bajos, molde de 2 litros, báscula, cazo y espátula.",
+    "ingredients": [
+      {
+        "name": "sobre de gelatina de fresa, dosificado para 500 ml",
+        "amount": 1.0,
+        "unit": "pza",
+        "group": "Cubos"
+      },
+      {
+        "name": "sobre de gelatina de limón, dosificado para 500 ml",
+        "amount": 1.0,
+        "unit": "pza",
+        "group": "Cubos"
+      },
+      {
+        "name": "sobre de gelatina de uva, dosificado para 500 ml",
+        "amount": 1.0,
+        "unit": "pza",
+        "group": "Cubos"
+      },
+      {
+        "name": "agua, 300 ml por sabor",
+        "amount": 900.0,
+        "unit": "ml",
+        "group": "Cubos"
+      },
+      {
+        "name": "leche condensada",
+        "amount": 397.0,
+        "unit": "g",
+        "group": "Base blanca"
+      },
+      {
+        "name": "leche evaporada",
+        "amount": 360.0,
+        "unit": "ml",
+        "group": "Base blanca"
+      },
+      {
+        "name": "leche entera",
+        "amount": 150.0,
+        "unit": "ml",
+        "group": "Base blanca"
+      },
+      {
+        "name": "grenetina sin sabor en polvo, aproximadamente 200 bloom",
+        "amount": 25.0,
+        "unit": "g",
+        "group": "Base blanca"
+      },
+      {
+        "name": "agua fría",
+        "amount": 125.0,
+        "unit": "ml",
+        "group": "Base blanca"
+      },
+      {
+        "name": "vainilla",
+        "amount": 5.0,
+        "unit": "ml",
+        "group": "Base blanca"
+      },
+      {
+        "name": "aceite neutro",
+        "amount": 5.0,
+        "unit": "ml",
+        "group": "Molde"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Prepara los colores",
+        "text": "Usa sobres cuya etiqueta rinda 500 ml cada uno, pero prepara cada sabor con 300 ml de agua total para obtener cubos firmes: disuelve en 150 ml hirviendo y añade 150 ml fría. Vierte por separado en recipientes bajos y refrigera al menos 4 horas.",
+        "minutes": 240,
+        "cue": "Tres gelatinas firmes que se pueden cortar."
+      },
+      {
+        "title": "Corta los cubitos",
+        "text": "Pasa un cuchillo por los recipientes y corta las gelatinas en cubos. Desprende con espátula y conserva en frío. Engrasa apenas el molde con el aceite y retira el exceso con papel; no deben quedar gotas.",
+        "minutes": 0,
+        "cue": "Dados de 1.5–2 cm con bordes definidos."
+      },
+      {
+        "title": "Hidrata y funde",
+        "text": "Espolvorea los 25 g de grenetina sobre 125 ml de agua fría y espera 10 minutos. Funde a baño María suave, removiendo. Retira en cuanto se disuelva; un hervor prolongado no es necesario.",
+        "minutes": 10,
+        "cue": "Grenetina completamente líquida, sin hervir."
+      },
+      {
+        "title": "Prepara la base",
+        "text": "Mezcla las tres leches y vainilla. Incorpora primero unas cucharadas de esta mezcla a la grenetina fundida para templarla y luego une todo en hilo, removiendo. Deja templar si sigue caliente: una base caliente derrite los cubos.",
+        "minutes": 0,
+        "cue": "Mezcla blanca fluida a temperatura ambiente."
+      },
+      {
+        "title": "Monta el mosaico",
+        "text": "Reparte los cubos en el molde y vierte la base blanca con suavidad. Mueve apenas con una espátula para distribuir, sin romper. Tapa y refrigera al menos 5 horas, mejor de un día para otro.",
+        "minutes": 300,
+        "cue": "Cubos distribuidos y base completamente cuajada."
+      },
+      {
+        "title": "Desmolda",
+        "text": "Despega suavemente el contorno con dedos limpios. Sumerge solo el exterior del molde 5–10 segundos en agua tibia, seca y voltea sobre un plato. Repite unos segundos si hace falta; no uses agua hirviendo.",
+        "minutes": 0,
+        "cue": "La gelatina se separa sin licuarse en los bordes."
+      }
+    ],
+    "tips": "Los sobres varían de tamaño: importa que cada uno esté dosificado para 500 ml de líquido según su etiqueta.",
+    "beforeYouStart": [
+      "Empieza por los cubos con varias horas de anticipación.",
+      "Comprueba una capacidad mínima de 2 litros en el molde.",
+      "La base blanca debe estar templada antes de tocar los colores."
+    ],
+    "doneWhen": [
+      "Los cubos conservan sus bordes dentro de la mezcla blanca.",
+      "La rebanada fría mantiene su forma al cortarla."
+    ],
+    "troubleshooting": [
+      {
+        "problem": "Los colores se mezclaron.",
+        "solution": "La base estaba caliente o los cubos no estaban firmes. Enfría ambos antes de unir."
+      },
+      {
+        "problem": "No se desprende del molde.",
+        "solution": "Entibia solo el exterior unos segundos más y suelta el borde con suavidad; no tires de la gelatina."
+      }
+    ],
+    "storage": "Conserva tapada en el refrigerador hasta 4 días. No congeles.",
+    "servingTip": "Corta con un cuchillo liso humedecido y muestra el mosaico de cada rebanada.",
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Gelatina_de_mosaico.jpg/960px-Gelatina_de_mosaico.jpg",
+    "photoAlt": "Gelatina blanca de rosca con cubos de colores y fruta encima",
+    "photographer": "Photo.MarioVG",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Gelatina_de_mosaico.jpg",
+    "photoPlatform": "Wikimedia Commons",
+    "photoLicense": "CC BY-SA 4.0",
+    "photoLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "id": "paletas-de-fresa-con-yogur",
+    "name": "Paletas de fresa con yogur",
+    "categoryLabel": "Para una tarde de calor",
+    "tags": [
+      "frios",
+      "sin-horno",
+      "faciles",
+      "recientes"
+    ],
+    "difficulty": "Fácil",
+    "servings": 8,
+    "prep": 20,
+    "cook": 0,
+    "rest": 360,
+    "oven": 0,
+    "description": "Fresa, yogur y pequeños remolinos rosados. Solo hay que esperar a que se congelen.",
+    "equipment": "8 moldes de paleta de unos 90 ml, palitos y licuadora.",
+    "ingredients": [
+      {
+        "name": "fresas maduras lavadas y sin hojas",
+        "amount": 350.0,
+        "unit": "g",
+        "group": "Paletas"
+      },
+      {
+        "name": "yogur griego natural sin azúcar",
+        "amount": 300.0,
+        "unit": "g",
+        "group": "Paletas"
+      },
+      {
+        "name": "miel",
+        "amount": 70.0,
+        "unit": "g",
+        "group": "Paletas"
+      },
+      {
+        "name": "jugo de limón",
+        "amount": 15.0,
+        "unit": "ml",
+        "group": "Paletas"
+      },
+      {
+        "name": "vainilla",
+        "amount": 5.0,
+        "unit": "ml",
+        "group": "Paletas"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Prepara la fruta",
+        "text": "Retira hojas y partes dañadas. Trocea las fresas y reserva 70 g en cubitos pequeños. Revisa la capacidad de los moldes: el rendimiento cambia si son mucho mayores o menores que 90 ml.",
+        "minutes": 0,
+        "cue": "Fresas limpias, maduras y bien escurridas."
+      },
+      {
+        "title": "Licúa la fresa",
+        "text": "Licúa los 280 g restantes de fresas con limón y 35 g de miel. No añadas agua: diluye el sabor y aumenta los cristales de hielo. Si la fruta no gira, aplástala un poco antes de encender.",
+        "minutes": 0,
+        "cue": "Puré uniforme con semillas finas."
+      },
+      {
+        "title": "Prepara el yogur",
+        "text": "Mezcla yogur con vainilla y los otros 35 g de miel. Prueba ambas mezclas; deben sentirse un poco más dulces de lo que buscas al servir, porque el frío reduce la percepción del dulzor.",
+        "minutes": 0,
+        "cue": "Yogur liso y ligeramente dulce."
+      },
+      {
+        "title": "Llena con remolinos",
+        "text": "Alterna cucharadas de yogur y puré. Reparte los cubitos de fresa y pasa un palito una o dos veces para dibujar vetas, sin unir todo por completo. Deja un pequeño espacio para la expansión.",
+        "minutes": 0,
+        "cue": "Moldes casi llenos, con 5 mm libres."
+      },
+      {
+        "title": "Congela sin mover",
+        "text": "Inserta los palitos y congela en una superficie nivelada al menos 6 horas, preferiblemente toda la noche. Evita abrir el congelador repetidamente durante las primeras horas. No intentes desmoldar cuando el centro siga blando.",
+        "minutes": 360,
+        "cue": "Paletas sólidas hasta el centro."
+      },
+      {
+        "title": "Desmolda al servir",
+        "text": "Pasa el exterior del molde por agua tibia 5–10 segundos y tira suavemente del palito. Si no sale, repite brevemente en lugar de jalar fuerte. Sirve de inmediato o guarda individualmente envueltas en el congelador.",
+        "minutes": 0,
+        "cue": "La paleta sale entera y conserva su forma."
+      }
+    ],
+    "tips": "El yogur griego entero aporta una textura más cremosa que uno muy líquido o sin grasa.",
+    "beforeYouStart": [
+      "Ten espacio nivelado en el congelador para el molde.",
+      "Usa palitos adecuados para alimentos.",
+      "Si la miel está cristalizada, entíbiala aparte y deja enfriar antes de mezclar."
+    ],
+    "doneWhen": [
+      "El centro está totalmente sólido antes de retirar el molde.",
+      "La paleta sale sin que el palito se desprenda."
+    ],
+    "troubleshooting": [
+      {
+        "problem": "Salieron muy duras y con hielo.",
+        "solution": "Evita añadir agua y usa yogur espeso; deja templar la paleta 1 minuto antes de comer."
+      },
+      {
+        "problem": "El palito se sale solo.",
+        "solution": "Faltó congelación o se calentó demasiado el molde. Vuelve a congelar y entibia apenas el exterior."
+      }
+    ],
+    "storage": "Guarda envueltas o en recipiente cerrado en el congelador hasta 3 semanas.",
+    "servingTip": "Saca solo las que vayas a servir para que las demás no se derritan y recongelen.",
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Hokkyoku-no-Ice_Candy_Strawberry.jpg/960px-Hokkyoku-no-Ice_Candy_Strawberry.jpg",
+    "photoAlt": "Paleta helada de fresa de color rosa claro; presentación ilustrativa",
+    "photographer": "Tokumeigakarinoaoshima",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Hokkyoku-no-Ice_Candy_Strawberry.jpg",
+    "photoPlatform": "Wikimedia Commons",
+    "photoLicense": "CC BY-SA 4.0",
+    "photoLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "id": "helado-de-vainilla-sin-maquina",
+    "name": "Helado de vainilla sin máquina",
+    "categoryLabel": "Cucharadas suaves, cero complicaciones",
+    "tags": [
+      "frios",
+      "sin-horno",
+      "faciles",
+      "recientes"
+    ],
+    "difficulty": "Fácil",
+    "servings": 10,
+    "prep": 20,
+    "cook": 0,
+    "rest": 375,
+    "oven": 0,
+    "description": "Crema montada y vainilla para tener un helado casero esperando en el congelador.",
+    "equipment": "Batidora, recipiente frío, espátula y molde con tapa de unos 1.5 litros.",
+    "ingredients": [
+      {
+        "name": "crema para batir muy fría, mínimo 35 % de grasa",
+        "amount": 500.0,
+        "unit": "ml",
+        "group": "Helado"
+      },
+      {
+        "name": "leche condensada fría",
+        "amount": 397.0,
+        "unit": "g",
+        "group": "Helado"
+      },
+      {
+        "name": "extracto de vainilla",
+        "amount": 10.0,
+        "unit": "ml",
+        "group": "Helado"
+      },
+      {
+        "name": "sal",
+        "amount": 1.0,
+        "unit": "g",
+        "group": "Helado"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Enfría el equipo",
+        "text": "Coloca recipiente y batidores 15 minutos en el refrigerador o unos minutos en el congelador. Mantén crema y leche condensada frías. No uses media crema: no monta igual que la crema para batir.",
+        "minutes": 15,
+        "cue": "Recipiente y batidores bien fríos."
+      },
+      {
+        "title": "Perfuma la leche condensada",
+        "text": "Mezcla leche condensada, vainilla y sal en un recipiente amplio. Ten lista una espátula para incorporar después la crema sin perder todo el aire. Esta versión no lleva huevo ni necesita cocción.",
+        "minutes": 0,
+        "cue": "Base lisa con vainilla bien repartida."
+      },
+      {
+        "title": "Monta la crema",
+        "text": "Bate la crema fría empezando suave y aumentando la velocidad. Detente cuando mantenga picos que se doblan apenas en la punta. Si se ve granulosa, ya va demasiado batida: no busques una textura de mantequilla.",
+        "minutes": 0,
+        "cue": "Picos medios a firmes, lisos y brillantes."
+      },
+      {
+        "title": "Une con suavidad",
+        "text": "Incorpora un tercio de la crema a la leche condensada para aligerarla. Añade el resto en dos tandas con movimientos envolventes desde el fondo. No uses la batidora después de unir ambas mezclas.",
+        "minutes": 0,
+        "cue": "Mezcla aireada sin vetas blancas grandes."
+      },
+      {
+        "title": "Congela tapado",
+        "text": "Vierte en el molde, alisa sin aplastar y cubre a contacto con película apta para alimentos antes de poner la tapa. Congela al menos 6 horas, mejor toda la noche. No necesita removerse durante la congelación.",
+        "minutes": 360,
+        "cue": "Helado firme, con el centro completamente congelado."
+      },
+      {
+        "title": "Sirve con paciencia",
+        "text": "Deja el recipiente 5–10 minutos en el refrigerador antes de servir, según la temperatura de tu congelador. Usa una cuchara ligeramente tibia y seca. Devuelve al frío de inmediato el helado que no vayas a servir.",
+        "minutes": 0,
+        "cue": "La cuchara entra sin romper el helado en bloques."
+      }
+    ],
+    "tips": "El aire de la crema montada es lo que sustituye el trabajo de una máquina; incorpórala con suavidad.",
+    "beforeYouStart": [
+      "Usa crema de al menos 35 % de grasa, sin sustitutos vegetales.",
+      "No uses leche evaporada en lugar de condensada.",
+      "Elige un recipiente con tapa para evitar olores del congelador."
+    ],
+    "doneWhen": [
+      "La mezcla conserva volumen antes de ir al congelador.",
+      "Tras el reposo, el centro está firme y se puede servir después de templarlo brevemente."
+    ],
+    "troubleshooting": [
+      {
+        "problem": "Quedó denso.",
+        "solution": "La crema se incorporó sin montar suficiente o perdió el aire al mezclar. Usa movimientos suaves."
+      },
+      {
+        "problem": "Está muy duro al sacarlo.",
+        "solution": "Es normal en un congelador frío. Témplalo unos minutos en el refrigerador y usa una cuchara tibia."
+      }
+    ],
+    "storage": "Conserva bien tapado en el congelador hasta 3 semanas. Evita derretir y volver a congelar.",
+    "servingTip": "Vainilla sola ya está bien; también acompaña el crumble de durazno de este recetario.",
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Vanilla_ice_cream_%2843128938082%29.jpg/960px-Vanilla_ice_cream_%2843128938082%29.jpg",
+    "photoAlt": "Helado claro de vainilla servido en un plato",
+    "photographer": "Joey Doll",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Vanilla_ice_cream_(43128938082).jpg",
+    "photoPlatform": "Wikimedia Commons",
+    "photoLicense": "CC BY 2.0",
+    "photoLicenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "id": "banoffee-pie",
+    "name": "Banoffee pie",
+    "categoryLabel": "Plátano, dulce de leche y crema",
+    "tags": [
+      "frios",
+      "sin-horno",
+      "faciles",
+      "recientes"
+    ],
+    "difficulty": "Fácil",
+    "servings": 8,
+    "prep": 30,
+    "cook": 0,
+    "rest": 150,
+    "oven": 0,
+    "description": "Base de galleta, plátano en rebanadas y una nube de crema para terminar.",
+    "equipment": "Molde de tarta de 22 cm, procesador o bolsa y rodillo, espátula y batidora.",
+    "ingredients": [
+      {
+        "name": "galletas tipo Digestive o María",
+        "amount": 220.0,
+        "unit": "g",
+        "group": "Base"
+      },
+      {
+        "name": "mantequilla derretida",
+        "amount": 100.0,
+        "unit": "g",
+        "group": "Base"
+      },
+      {
+        "name": "dulce de leche repostero listo para usar",
+        "amount": 300.0,
+        "unit": "g",
+        "group": "Relleno"
+      },
+      {
+        "name": "plátanos medianos maduros pero firmes",
+        "amount": 3.0,
+        "unit": "pzas",
+        "group": "Relleno"
+      },
+      {
+        "name": "crema para batir fría",
+        "amount": 300.0,
+        "unit": "ml",
+        "group": "Cubierta"
+      },
+      {
+        "name": "azúcar glass",
+        "amount": 15.0,
+        "unit": "g",
+        "group": "Cubierta"
+      },
+      {
+        "name": "vainilla",
+        "amount": 5.0,
+        "unit": "ml",
+        "group": "Cubierta"
+      },
+      {
+        "name": "cocoa sin azúcar",
+        "amount": 5.0,
+        "unit": "g",
+        "group": "Cubierta"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Tritura las galletas",
+        "text": "Muele las galletas o tritúralas en una bolsa resistente con rodillo. Mezcla con mantequilla derretida hasta humedecer todas las migas. Si quedan trozos grandes, la base se romperá más al cortar.",
+        "minutes": 0,
+        "cue": "Migas finas que se compactan al apretarlas."
+      },
+      {
+        "title": "Forma la base",
+        "text": "Presiona las migas en el molde con el fondo de un vaso, cubriendo fondo y laterales sin dejarlos demasiado gruesos. Refrigera al menos 2 horas. Esta base no se hornea y necesita el frío para sostenerse.",
+        "minutes": 120,
+        "cue": "Fondo y bordes firmes, de grosor parejo."
+      },
+      {
+        "title": "Extiende el dulce de leche",
+        "text": "Remueve el dulce de leche para suavizarlo y extiende sobre la base fría con una espátula. Usa un producto ya preparado; esta receta no requiere hervir latas cerradas ni cocinar leche condensada.",
+        "minutes": 0,
+        "cue": "Capa uniforme sin arrastrar las migas."
+      },
+      {
+        "title": "Acomoda el plátano",
+        "text": "Pela y corta los plátanos justo en este momento para reducir la oxidación. Acomoda en una o dos capas sin amontonar en el centro. Elige fruta madura con pulpa firme, no demasiado blanda.",
+        "minutes": 0,
+        "cue": "Rebanadas de 5 mm cubriendo el relleno."
+      },
+      {
+        "title": "Monta la cubierta",
+        "text": "Bate crema fría con azúcar glass y vainilla hasta que mantenga su forma. Extiende encima de todo el plátano para cubrirlo. Haz ondas con el dorso de una cuchara, sin comprimir la crema.",
+        "minutes": 0,
+        "cue": "Crema con picos firmes y superficie lisa."
+      },
+      {
+        "title": "Termina y enfría",
+        "text": "Tamiza cocoa sobre la crema y refrigera 30 minutos antes de servir. Si usaste molde desmontable, retira el aro con cuidado manteniendo apoyada la base. Corta con un cuchillo liso y sirve con espátula ancha.",
+        "minutes": 30,
+        "cue": "Tarta fría y relleno estable al cortar."
+      }
+    ],
+    "tips": "Añade el plátano el día de servir; la base y el dulce de leche sí pueden quedar preparados desde la víspera.",
+    "beforeYouStart": [
+      "Usa dulce de leche espeso y listo para consumir.",
+      "Enfría la crema y las varillas antes de batir.",
+      "Busca plátanos amarillos con pocas manchas y pulpa firme."
+    ],
+    "doneWhen": [
+      "La base fría se sostiene al sacar una porción.",
+      "La crema mantiene las ondas y el dulce de leche no escurre como salsa."
+    ],
+    "troubleshooting": [
+      {
+        "problem": "La base se desarma.",
+        "solution": "Tritura más fino, reparte bien la mantequilla y presiona antes de enfriar."
+      },
+      {
+        "problem": "El plátano se oscurece.",
+        "solution": "Córtalo justo al montar y cúbrelo por completo con crema; prepara la tarta el mismo día."
+      }
+    ],
+    "storage": "Refrigera tapada hasta 2 días. La fruta luce mejor el primer día.",
+    "servingTip": "Sirve porciones pequeñas al principio: el dulce de leche es generoso.",
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Banoffee_pie_with_chocolate_dusting%2C_January_2009.jpg/960px-Banoffee_pie_with_chocolate_dusting%2C_January_2009.jpg",
+    "photoAlt": "Banoffee pie con rebanadas de plátano, crema y chocolate espolvoreado",
+    "photographer": "Sarah",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Banoffee_pie_with_chocolate_dusting,_January_2009.jpg",
+    "photoPlatform": "Wikimedia Commons",
+    "photoLicense": "CC BY 2.0",
+    "photoLicenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "id": "crumble-de-durazno",
+    "name": "Crumble de durazno",
+    "categoryLabel": "Fruta tibia y migas crujientes",
+    "tags": [
+      "pasteles",
+      "faciles",
+      "recientes"
+    ],
+    "difficulty": "Fácil",
+    "servings": 6,
+    "prep": 25,
+    "cook": 35,
+    "rest": 20,
+    "oven": 180,
+    "description": "Duraznos jugosos bajo una capa irregular de avena y mantequilla. Se sirve con cuchara.",
+    "equipment": "Refractario de 20 × 20 cm o 22 cm redondo, recipiente y tenedor.",
+    "ingredients": [
+      {
+        "name": "duraznos maduros firmes, ya sin hueso",
+        "amount": 800.0,
+        "unit": "g",
+        "group": "Fruta"
+      },
+      {
+        "name": "azúcar",
+        "amount": 50.0,
+        "unit": "g",
+        "group": "Fruta"
+      },
+      {
+        "name": "fécula de maíz",
+        "amount": 15.0,
+        "unit": "g",
+        "group": "Fruta"
+      },
+      {
+        "name": "jugo de limón",
+        "amount": 15.0,
+        "unit": "ml",
+        "group": "Fruta"
+      },
+      {
+        "name": "canela molida",
+        "amount": 3.0,
+        "unit": "g",
+        "group": "Fruta"
+      },
+      {
+        "name": "harina de trigo",
+        "amount": 120.0,
+        "unit": "g",
+        "group": "Cubierta"
+      },
+      {
+        "name": "avena en hojuelas",
+        "amount": 60.0,
+        "unit": "g",
+        "group": "Cubierta"
+      },
+      {
+        "name": "azúcar mascabado",
+        "amount": 80.0,
+        "unit": "g",
+        "group": "Cubierta"
+      },
+      {
+        "name": "mantequilla fría en cubos",
+        "amount": 100.0,
+        "unit": "g",
+        "group": "Cubierta"
+      },
+      {
+        "name": "sal",
+        "amount": 1.0,
+        "unit": "g",
+        "group": "Cubierta"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Corta los duraznos",
+        "text": "Precalienta a 180 °C. Lava los duraznos, retira huesos y corta. Puedes dejar la piel si está fina. Los 800 g corresponden a fruta ya limpia; compra un poco más para compensar huesos y partes que retires.",
+        "minutes": 0,
+        "cue": "Gajos de unos 1.5 cm con tamaño parecido."
+      },
+      {
+        "title": "Sazona la fruta",
+        "text": "Mezcla azúcar, fécula y canela. Añade a los duraznos junto con limón y revuelve. Reparte en el refractario sin compactar demasiado. La fécula espesará los jugos durante el horneado.",
+        "minutes": 0,
+        "cue": "Gajos cubiertos de una capa fina, sin fécula suelta."
+      },
+      {
+        "title": "Prepara las migas",
+        "text": "Mezcla harina, avena, azúcar mascabado y sal. Añade mantequilla fría y frota con los dedos o un tenedor. Detente cuando haya migas de varios tamaños; no formes una masa lisa ni derritas la mantequilla.",
+        "minutes": 0,
+        "cue": "Mezcla arenosa con trozos del tamaño de un chícharo."
+      },
+      {
+        "title": "Cubre sin aplastar",
+        "text": "Distribuye las migas sobre la fruta, llegando a los bordes. No presiones: las aberturas dejan salir vapor y favorecen el crujido. Coloca el refractario sobre una charola si está muy lleno para recoger posibles jugos.",
+        "minutes": 0,
+        "cue": "Capa suelta con pequeñas aberturas para el vapor."
+      },
+      {
+        "title": "Hornea",
+        "text": "Hornea 30–40 minutos. No te guíes solo por el color: el relleno debe hervir suavemente para espesar la fécula. Si las migas ya están doradas y la fruta sigue firme, cubre con aluminio y continúa unos minutos.",
+        "minutes": 35,
+        "cue": "Cubierta dorada y jugo burbujeando también cerca del centro."
+      },
+      {
+        "title": "Deja reposar",
+        "text": "Espera 15–20 minutos fuera del horno. Sirve con una cuchara grande tomando fruta y cubierta. El reposo evita que los jugos salgan demasiado líquidos y permite comerlo tibio sin quemarse.",
+        "minutes": 20,
+        "cue": "Jugos algo espesos y fruta tierna."
+      }
+    ],
+    "tips": "Con fruta más madura puede hacer falta menos tiempo; busca gajos tiernos y jugos que burbujeen.",
+    "beforeYouStart": [
+      "Usa duraznos frescos firmes para este tiempo y proporción.",
+      "Mantén la mantequilla de la cubierta fría hasta usarla.",
+      "El refractario debe tener al menos 4 cm de profundidad."
+    ],
+    "doneWhen": [
+      "Un cuchillo entra con facilidad en un gajo del centro.",
+      "Los jugos burbujean bajo las migas y la cubierta está dorada."
+    ],
+    "troubleshooting": [
+      {
+        "problem": "El relleno está aguado.",
+        "solution": "Necesita hervir durante el horneado y reposar al salir; no lo retires solo porque la cubierta tomó color."
+      },
+      {
+        "problem": "La cubierta parece una costra dura.",
+        "solution": "Se compactó o se mezcló demasiado. Deja migas sueltas de distintos tamaños en la próxima preparación."
+      }
+    ],
+    "storage": "Refrigera tapado hasta 3 días. Recalienta destapado en horno a 170 °C para recuperar parte del crujido.",
+    "servingTip": "Una bola del helado de vainilla del recetario sobre el crumble tibio queda muy bien.",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Leftover_peach_crumble_at_3PM_on_a_Saturday%3F_Sure%2C_why_not%3F_%289328443401%29.jpg",
+    "photoAlt": "Crumble de durazno con una cubierta de migas horneadas",
+    "photographer": "Neil Conway from Oakland, USA",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Leftover_peach_crumble_at_3PM_on_a_Saturday%3F_Sure,_why_not%3F_(9328443401).jpg",
+    "photoPlatform": "Wikimedia Commons",
+    "photoLicense": "CC BY 2.0",
+    "photoLicenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "id": "profiteroles-con-crema",
+    "name": "Profiteroles con crema",
+    "categoryLabel": "Huecos por dentro, llenos al final",
+    "tags": [
+      "pasteles",
+      "chocolate",
+      "recientes"
+    ],
+    "difficulty": "Elaborada",
+    "servings": 20,
+    "prep": 45,
+    "cook": 35,
+    "rest": 60,
+    "oven": 200,
+    "description": "Pequeñas piezas de pasta choux con crema de vainilla y chocolate por encima.",
+    "equipment": "Cazo, espátula firme, manga pastelera, charola, papel para hornear y batidora.",
+    "ingredients": [
+      {
+        "name": "agua",
+        "amount": 125.0,
+        "unit": "ml",
+        "group": "Pasta choux"
+      },
+      {
+        "name": "leche entera",
+        "amount": 125.0,
+        "unit": "ml",
+        "group": "Pasta choux"
+      },
+      {
+        "name": "mantequilla",
+        "amount": 100.0,
+        "unit": "g",
+        "group": "Pasta choux"
+      },
+      {
+        "name": "azúcar",
+        "amount": 5.0,
+        "unit": "g",
+        "group": "Pasta choux"
+      },
+      {
+        "name": "sal",
+        "amount": 2.0,
+        "unit": "g",
+        "group": "Pasta choux"
+      },
+      {
+        "name": "harina de trigo",
+        "amount": 150.0,
+        "unit": "g",
+        "group": "Pasta choux"
+      },
+      {
+        "name": "huevos grandes, puede sobrar parte del último",
+        "amount": 4.0,
+        "unit": "pzas",
+        "group": "Pasta choux"
+      },
+      {
+        "name": "crema para batir muy fría",
+        "amount": 350.0,
+        "unit": "ml",
+        "group": "Relleno"
+      },
+      {
+        "name": "azúcar glass",
+        "amount": 30.0,
+        "unit": "g",
+        "group": "Relleno"
+      },
+      {
+        "name": "vainilla",
+        "amount": 5.0,
+        "unit": "ml",
+        "group": "Relleno"
+      },
+      {
+        "name": "chocolate semiamargo picado",
+        "amount": 120.0,
+        "unit": "g",
+        "group": "Chocolate"
+      },
+      {
+        "name": "crema para batir",
+        "amount": 120.0,
+        "unit": "ml",
+        "group": "Chocolate"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Cocina la panada",
+        "text": "Precalienta a 200 °C. Hierve agua, leche, mantequilla, azúcar y sal. Retira, agrega toda la harina y remueve. Regresa a fuego medio-bajo 2–3 minutos, moviendo, hasta que la masa se una y deje una fina película en el cazo.",
+        "minutes": 0,
+        "cue": "Bola de masa y una película fina en el fondo del cazo."
+      },
+      {
+        "title": "Añade huevo poco a poco",
+        "text": "Pasa a un recipiente y deja templar 5–10 minutos. Bate los huevos aparte y agrégalos en pequeñas tandas, mezclando por completo entre cada una. Detente al conseguir la V lenta de la espátula; quizá no necesites todo el huevo.",
+        "minutes": 10,
+        "cue": "Masa brillante que cae de la espátula formando una V."
+      },
+      {
+        "title": "Forma las piezas",
+        "text": "Pon la masa en una manga con boquilla lisa grande. Forma montículos separados 5 cm sobre la charola forrada. Baja las puntas con un dedo apenas húmedo para evitar que se quemen. No aplastes las piezas.",
+        "minutes": 0,
+        "cue": "20 montículos de unos 4 cm, con puntas alisadas."
+      },
+      {
+        "title": "Hornea y seca",
+        "text": "Hornea 15 minutos a 200 °C y, sin abrir, baja a 180 °C otros 18–22 minutos. No abras durante los primeros 25 minutos. Al dorarse, perfora un lateral con una brocheta y deja 5 minutos en el horno apagado, puerta entreabierta, para sacar vapor.",
+        "minutes": 35,
+        "cue": "Piezas bien infladas, doradas y ligeras."
+      },
+      {
+        "title": "Prepara el relleno",
+        "text": "Enfría las piezas en rejilla unos 30 minutos. Bate los 350 ml de crema fría con azúcar glass y vainilla hasta picos firmes. Abre cada pieza por la mitad y rellena con manga o cuchara. Refrigera mientras terminas el chocolate.",
+        "minutes": 50,
+        "cue": "Piezas frías y crema firme pero lisa."
+      },
+      {
+        "title": "Termina con chocolate",
+        "text": "Calienta los 120 ml de crema hasta humear y vierte sobre el chocolate. Espera 2 minutos y remueve desde el centro. Deja templar para que no derrita el relleno y vierte una pequeña cantidad sobre los profiteroles justo antes de servir.",
+        "minutes": 0,
+        "cue": "Salsa lisa que cae en una cinta."
+      }
+    ],
+    "tips": "La cantidad de huevo depende de cuánto se secó la panada; la textura en V es más fiable que vaciar los cuatro de golpe.",
+    "beforeYouStart": [
+      "Pesa todos los ingredientes antes de encender el fuego.",
+      "Reserva el último huevo batido para añadirlo por cucharadas.",
+      "El horno debe estar bien caliente y no se abre al principio."
+    ],
+    "doneWhen": [
+      "La corteza está dorada también en los pliegues, no solo en las puntas.",
+      "Una pieza abierta tiene un hueco interior y paredes cocidas, sin pasta húmeda gruesa."
+    ],
+    "troubleshooting": [
+      {
+        "problem": "Se desinflaron al salir.",
+        "solution": "Faltó cocción o secado. Dora bien toda la pieza y libera el vapor al final."
+      },
+      {
+        "problem": "La masa se extendió como un disco.",
+        "solution": "Se añadió demasiado huevo. En la siguiente tanda incorpora el último poco a poco y detente al formar la V."
+      }
+    ],
+    "storage": "Las piezas vacías se conservan hasta 1 día en recipiente seco o se congelan 1 mes. Rellenas, refrigera y consume el mismo día.",
+    "servingTip": "Rellena poco antes de servir para conservar el contraste entre corteza y crema.",
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Homemade_profiteroles.jpg/960px-Homemade_profiteroles.jpg",
+    "photoAlt": "Profiteroles caseros cubiertos con salsa de chocolate",
+    "photographer": "Bellunese",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Homemade_profiteroles.jpg",
+    "photoPlatform": "Wikimedia Commons",
+    "photoLicense": "CC0",
+    "photoLicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  {
+    "id": "panque-de-limon",
+    "name": "Panqué de limón",
+    "categoryLabel": "Ralladura, glaseado y una rebanada más",
+    "tags": [
+      "pasteles",
+      "faciles",
+      "recientes"
+    ],
+    "difficulty": "Fácil",
+    "servings": 10,
+    "prep": 25,
+    "cook": 50,
+    "rest": 60,
+    "oven": 175,
+    "description": "Miga de mantequilla y una capa fina de glaseado de limón que cae por los lados.",
+    "equipment": "Molde de panqué de 23 × 13 cm, papel para hornear, rallador y batidora.",
+    "ingredients": [
+      {
+        "name": "mantequilla suave",
+        "amount": 150.0,
+        "unit": "g",
+        "group": "Panqué"
+      },
+      {
+        "name": "azúcar",
+        "amount": 170.0,
+        "unit": "g",
+        "group": "Panqué"
+      },
+      {
+        "name": "huevos grandes",
+        "amount": 3.0,
+        "unit": "pzas",
+        "group": "Panqué"
+      },
+      {
+        "name": "harina de trigo",
+        "amount": 220.0,
+        "unit": "g",
+        "group": "Panqué"
+      },
+      {
+        "name": "polvo para hornear",
+        "amount": 8.0,
+        "unit": "g",
+        "group": "Panqué"
+      },
+      {
+        "name": "sal",
+        "amount": 2.0,
+        "unit": "g",
+        "group": "Panqué"
+      },
+      {
+        "name": "yogur natural sin azúcar",
+        "amount": 100.0,
+        "unit": "g",
+        "group": "Panqué"
+      },
+      {
+        "name": "limones, solo ralladura",
+        "amount": 2.0,
+        "unit": "pzas",
+        "group": "Panqué"
+      },
+      {
+        "name": "jugo de limón",
+        "amount": 30.0,
+        "unit": "ml",
+        "group": "Panqué"
+      },
+      {
+        "name": "azúcar glass",
+        "amount": 100.0,
+        "unit": "g",
+        "group": "Glaseado"
+      },
+      {
+        "name": "jugo de limón, aproximadamente",
+        "amount": 20.0,
+        "unit": "ml",
+        "group": "Glaseado"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Perfuma el azúcar",
+        "text": "Precalienta a 175 °C. Engrasa y forra el molde dejando papel que sobresalga a los lados. Lava y seca los limones. Frota su ralladura con el azúcar, sin llegar a la parte blanca de la piel.",
+        "minutes": 0,
+        "cue": "Azúcar húmeda y aromática."
+      },
+      {
+        "title": "Bate la base",
+        "text": "Bate mantequilla y azúcar aromatizada 3 minutos. Incorpora los huevos uno a uno, raspando el recipiente entre cada adición. Si la mezcla se ve algo cortada, sigue con los secos; no calientes la masa.",
+        "minutes": 0,
+        "cue": "Crema clara, sin grandes grumos de mantequilla."
+      },
+      {
+        "title": "Completa la mezcla",
+        "text": "Mezcla harina, polvo de hornear y sal. Incorpora a la crema alternando con yogur y los 30 ml de jugo. Termina de unir con espátula en cuanto desaparezca la harina. Vierte y alisa en el molde.",
+        "minutes": 0,
+        "cue": "Masa espesa y homogénea, sin sobrebatir."
+      },
+      {
+        "title": "Hornea",
+        "text": "Hornea 45–55 minutos. Revisa el centro con una brocheta, porque los bordes se cuecen antes. Si la superficie dora demasiado, cubre flojamente con aluminio después del minuto 35.",
+        "minutes": 50,
+        "cue": "Grieta central cocida y brocheta sin masa cruda."
+      },
+      {
+        "title": "Enfría",
+        "text": "Espera 15 minutos en el molde. Levanta usando el papel y pasa a una rejilla para enfriar otros 45 minutos, o hasta estar completamente frío. Retira el papel antes de glasear.",
+        "minutes": 60,
+        "cue": "Panqué firme y sin calor al tocar el centro."
+      },
+      {
+        "title": "Pon el glaseado",
+        "text": "Mezcla azúcar glass con el jugo del glaseado de a cucharaditas; quizá no necesites todo. Vierte sobre el panqué frío y deja que se asiente antes de cortar. Un glaseado sobre pan caliente se absorberá en la miga.",
+        "minutes": 0,
+        "cue": "Cubierta espesa que cae lentamente de la cuchara."
+      }
+    ],
+    "tips": "La ralladura aporta mucho aroma sin añadir líquido de más; ralla antes de exprimir los limones.",
+    "beforeYouStart": [
+      "Saca huevos y mantequilla con anticipación para que estén a temperatura ambiente.",
+      "Usa yogur natural espeso, sin fruta.",
+      "Reserva el jugo del glaseado por separado."
+    ],
+    "doneWhen": [
+      "La brocheta sale con algunas migas, sin pasta cruda.",
+      "La grieta del centro se ve cocida, no brillante y líquida."
+    ],
+    "troubleshooting": [
+      {
+        "problem": "Se doró arriba pero está crudo.",
+        "solution": "Cubre flojamente y continúa en tandas de 5 minutos; comprueba el tamaño del molde."
+      },
+      {
+        "problem": "El glaseado está transparente.",
+        "solution": "Añade un poco más de azúcar glass y espera a que el panqué esté completamente frío."
+      }
+    ],
+    "storage": "Guarda hermético hasta 3 días en lugar fresco. Congela rebanadas sin glasear hasta 1 mes.",
+    "servingTip": "Corta rebanadas gruesas y acompaña con té o café.",
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Lemon_Drizzle_Slice_-_Caf%C3%A9_W_2025-12-26.jpg/960px-Lemon_Drizzle_Slice_-_Caf%C3%A9_W_2025-12-26.jpg",
+    "photoAlt": "Rebanada de pastel de limón glaseado servida en un plato",
+    "photographer": "Andy Li",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Lemon_Drizzle_Slice_-_Caf%C3%A9_W_2025-12-26.jpg",
+    "photoPlatform": "Wikimedia Commons",
+    "photoLicense": "CC0",
+    "photoLicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  {
+    "id": "natillas-de-vainilla",
+    "name": "Natillas de vainilla",
+    "categoryLabel": "Cuchara, canela y galleta",
+    "tags": [
+      "frios",
+      "sin-horno",
+      "de-casa",
+      "faciles",
+      "recientes"
+    ],
+    "difficulty": "Fácil",
+    "servings": 6,
+    "prep": 20,
+    "cook": 8,
+    "rest": 135,
+    "oven": 0,
+    "description": "Una crema suave de vainilla con su galleta encima y una pizca de canela.",
+    "equipment": "Cazo de fondo grueso, batidor, colador y 6 recipientes pequeños.",
+    "ingredients": [
+      {
+        "name": "leche entera",
+        "amount": 600.0,
+        "unit": "ml",
+        "group": "Natillas"
+      },
+      {
+        "name": "yemas grandes",
+        "amount": 4.0,
+        "unit": "pzas",
+        "group": "Natillas"
+      },
+      {
+        "name": "azúcar",
+        "amount": 75.0,
+        "unit": "g",
+        "group": "Natillas"
+      },
+      {
+        "name": "fécula de maíz",
+        "amount": 20.0,
+        "unit": "g",
+        "group": "Natillas"
+      },
+      {
+        "name": "vainilla",
+        "amount": 5.0,
+        "unit": "ml",
+        "group": "Natillas"
+      },
+      {
+        "name": "galletas María",
+        "amount": 6.0,
+        "unit": "pzas",
+        "group": "Acabado"
+      },
+      {
+        "name": "canela molida",
+        "amount": 2.0,
+        "unit": "g",
+        "group": "Acabado"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Reserva leche fría",
+        "text": "Separa 100 ml de la leche y disuelve en ella la fécula. Calienta los otros 500 ml en un cazo hasta que humee, sin dejar que se derrame. Prepara los recipientes antes de empezar a espesar.",
+        "minutes": 0,
+        "cue": "Fécula completamente disuelta, sin grumos."
+      },
+      {
+        "title": "Mezcla las yemas",
+        "text": "Bate yemas con azúcar hasta unir, sin dejar reposar el azúcar sobre las yemas sin mezclar. Añade la leche fría con fécula y remueve. Usa solo las yemas; las claras pueden reservarse para otra receta.",
+        "minutes": 0,
+        "cue": "Base amarilla uniforme."
+      },
+      {
+        "title": "Templa la mezcla",
+        "text": "Vierte la mitad de la leche caliente poco a poco sobre las yemas mientras bates. Regresa todo al cazo con el resto de la leche y mezcla antes de volver al fuego.",
+        "minutes": 0,
+        "cue": "Yemas integradas sin hebras cocidas."
+      },
+      {
+        "title": "Cocina removiendo",
+        "text": "Cocina a fuego medio-bajo, raspando fondo y esquinas. Cuando aparezcan las primeras burbujas suaves y espese, cocina 1 minuto más sin dejar de mover. Retira, añade vainilla y cuela si notas algún grumo.",
+        "minutes": 8,
+        "cue": "Crema que cubre la cuchara y conserva un surco suave."
+      },
+      {
+        "title": "Reparte y enfría",
+        "text": "Vierte en los recipientes y deja templar unos 15 minutos. Tapa a contacto con película apta para alimentos si no quieres costra y refrigera al menos 2 horas. No intentes desmoldarlas: son una crema suave.",
+        "minutes": 135,
+        "cue": "Crema fría y más firme, todavía de cuchara."
+      },
+      {
+        "title": "Termina al servir",
+        "text": "Retira la película, coloca una galleta sobre cada porción y espolvorea canela. Si prefieres la galleta blanda, colócala mientras la crema aún está templada y refrigera todo junto.",
+        "minutes": 0,
+        "cue": "Galleta colocada sin romper la superficie."
+      }
+    ],
+    "tips": "La fécula requiere un breve hervor suave; remover de forma continua evita que el fondo se pegue.",
+    "beforeYouStart": [
+      "Disuelve la fécula únicamente en leche fría.",
+      "Ten los recipientes listos: la crema espesa rápido.",
+      "La galleta se puede añadir al final para que conserve algo de crujido."
+    ],
+    "doneWhen": [
+      "La crema cubre el dorso de una cuchara y no tiene sabor a fécula cruda.",
+      "En frío conserva una textura suave, sin líquido separado."
+    ],
+    "troubleshooting": [
+      {
+        "problem": "Hay grumos.",
+        "solution": "Cuela aún caliente y bate suavemente. La próxima vez templa las yemas más despacio."
+      },
+      {
+        "problem": "Se pegó el fondo.",
+        "solution": "Pasa la parte superior a otro recipiente sin raspar lo quemado; usa fuego más bajo y remueve las esquinas."
+      }
+    ],
+    "storage": "Mantén tapadas en el refrigerador hasta 3 días. No congeles.",
+    "servingTip": "Sirve bien frías, con una cuchara pequeña y canela recién espolvoreada.",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Natillas-caseras-con-galleta-venta-aurelio-restaurante-chipiona.JPG",
+    "photoAlt": "Natillas de vainilla con galleta María y canela",
+    "photographer": "Venta Aurelio",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Natillas-caseras-con-galleta-venta-aurelio-restaurante-chipiona.JPG",
+    "photoPlatform": "Wikimedia Commons",
+    "photoLicense": "CC BY-SA 3.0",
+    "photoLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "id": "merenguitos",
+    "name": "Merenguitos",
+    "categoryLabel": "Pequeños, ligeros y crujientes",
+    "tags": [
+      "galletas",
+      "recientes"
+    ],
+    "difficulty": "Intermedia",
+    "servings": 30,
+    "prep": 25,
+    "cook": 90,
+    "rest": 60,
+    "oven": 100,
+    "description": "Un bocado de vainilla que primero cruje y luego se deshace.",
+    "equipment": "Batidora, recipiente de metal o vidrio, manga con boquilla y dos charolas.",
+    "ingredients": [
+      {
+        "name": "claras de huevo, aproximadamente 3 grandes",
+        "amount": 100.0,
+        "unit": "g",
+        "group": "Merengue"
+      },
+      {
+        "name": "azúcar blanca fina",
+        "amount": 200.0,
+        "unit": "g",
+        "group": "Merengue"
+      },
+      {
+        "name": "jugo de limón",
+        "amount": 5.0,
+        "unit": "ml",
+        "group": "Merengue"
+      },
+      {
+        "name": "vainilla",
+        "amount": 3.0,
+        "unit": "ml",
+        "group": "Merengue"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Limpia el equipo",
+        "text": "Precalienta a 100 °C. Forra las charolas con papel para hornear. Pesa las claras: la proporción usa el doble de azúcar que de claras por peso. Una pequeña cantidad de grasa dificulta el montado.",
+        "minutes": 0,
+        "cue": "Recipiente y varillas sin grasa ni yema."
+      },
+      {
+        "title": "Empieza a batir",
+        "text": "Bate las claras a velocidad media hasta espumar. Añade limón y continúa hasta obtener picos suaves. No añadas toda el azúcar desde el principio porque tarda más en incorporar aire.",
+        "minutes": 0,
+        "cue": "Espuma blanca con burbuja fina."
+      },
+      {
+        "title": "Añade azúcar despacio",
+        "text": "Agrega el azúcar cucharada a cucharada, batiendo 15–20 segundos entre adiciones. Continúa hasta que el merengue mantenga una punta firme. Incorpora vainilla al final. No debe verse opaco ni separado.",
+        "minutes": 0,
+        "cue": "Picos firmes y brillantes, casi sin grano al frotar."
+      },
+      {
+        "title": "Forma los bocados",
+        "text": "Pasa a una manga y forma pequeños besos sobre el papel, dejando 2 cm de separación. Para fijar el papel, pon una gotita de merengue debajo de las esquinas. Evita hacer piezas muy grandes junto a pequeñas.",
+        "minutes": 0,
+        "cue": "30 montículos de unos 3 cm, separados."
+      },
+      {
+        "title": "Seca a temperatura baja",
+        "text": "Hornea 75–90 minutos a 100 °C. Deben secarse sin dorarse. Revisa uno: si el centro sigue pegajoso, prolonga en tandas de 10 minutos. Si toman color, baja la temperatura unos 10 °C.",
+        "minutes": 90,
+        "cue": "Superficie seca y pieza que se despega del papel."
+      },
+      {
+        "title": "Enfría dentro",
+        "text": "Apaga el horno y deja enfriar dentro con la puerta entreabierta aproximadamente 1 hora. Guarda de inmediato cuando estén fríos; absorben humedad del ambiente con facilidad. Comprueba el centro de una pieza antes de envasar.",
+        "minutes": 60,
+        "cue": "Interior seco y crujiente al partir una pieza fría."
+      }
+    ],
+    "tips": "En un día húmedo pueden tardar más en secarse y se ablandan antes; guárdalos herméticamente.",
+    "beforeYouStart": [
+      "Usa un recipiente de metal o vidrio muy limpio.",
+      "Pesa las claras en gramos para mantener la proporción.",
+      "El secado es largo y a temperatura baja; no intentes acelerarlo con calor fuerte."
+    ],
+    "doneWhen": [
+      "Una pieza fría se despega sin dejar una base húmeda.",
+      "El interior está seco, sin una franja pegajosa gruesa."
+    ],
+    "troubleshooting": [
+      {
+        "problem": "No montaron.",
+        "solution": "Puede haber grasa o yema. Limpia el equipo y comienza con claras nuevas."
+      },
+      {
+        "problem": "Se pusieron pegajosos después.",
+        "solution": "Absorbieron humedad. Puedes secarlos otra vez a 90 °C unos minutos y enfriar antes de cerrar."
+      }
+    ],
+    "storage": "Conserva en recipiente hermético en lugar seco hasta 1 semana. No refrigeres.",
+    "servingTip": "Sirve algunos solos y usa los pequeños para acompañar fruta y crema.",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Vegan_meringue_kisses_%28cropped%29_1.jpg",
+    "photoAlt": "Pequeños merengues blancos de forma estriada; presentación ilustrativa",
+    "photographer": "Hagar Or Ringel Maman (הגר אור רינגל ממן)",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Vegan_meringue_kisses_(cropped)_1.jpg",
+    "photoPlatform": "Wikimedia Commons",
+    "photoLicense": "CC BY-SA 3.0",
+    "photoLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "id": "tarta-de-pera-y-almendra",
+    "name": "Tarta de pera y almendra",
+    "categoryLabel": "Fruta dorada y crema de almendra",
+    "tags": [
+      "pasteles",
+      "recientes"
+    ],
+    "difficulty": "Intermedia",
+    "servings": 8,
+    "prep": 45,
+    "cook": 45,
+    "rest": 60,
+    "oven": 180,
+    "description": "Peras en abanico sobre un relleno de almendra que se dora alrededor.",
+    "equipment": "Molde de tarta de 23 cm, rodillo, papel para hornear y batidora o espátula.",
+    "ingredients": [
+      {
+        "name": "harina de trigo",
+        "amount": 200.0,
+        "unit": "g",
+        "group": "Base"
+      },
+      {
+        "name": "mantequilla fría",
+        "amount": 100.0,
+        "unit": "g",
+        "group": "Base"
+      },
+      {
+        "name": "azúcar glass",
+        "amount": 50.0,
+        "unit": "g",
+        "group": "Base"
+      },
+      {
+        "name": "yema",
+        "amount": 1.0,
+        "unit": "pza",
+        "group": "Base"
+      },
+      {
+        "name": "agua fría, aproximadamente",
+        "amount": 25.0,
+        "unit": "ml",
+        "group": "Base"
+      },
+      {
+        "name": "sal",
+        "amount": 1.0,
+        "unit": "g",
+        "group": "Base"
+      },
+      {
+        "name": "mantequilla suave",
+        "amount": 80.0,
+        "unit": "g",
+        "group": "Relleno"
+      },
+      {
+        "name": "azúcar",
+        "amount": 80.0,
+        "unit": "g",
+        "group": "Relleno"
+      },
+      {
+        "name": "almendra molida",
+        "amount": 100.0,
+        "unit": "g",
+        "group": "Relleno"
+      },
+      {
+        "name": "huevo grande",
+        "amount": 1.0,
+        "unit": "pza",
+        "group": "Relleno"
+      },
+      {
+        "name": "harina de trigo",
+        "amount": 10.0,
+        "unit": "g",
+        "group": "Relleno"
+      },
+      {
+        "name": "vainilla",
+        "amount": 5.0,
+        "unit": "ml",
+        "group": "Relleno"
+      },
+      {
+        "name": "peras medianas maduras pero firmes",
+        "amount": 3.0,
+        "unit": "pzas",
+        "group": "Fruta"
+      },
+      {
+        "name": "jugo de limón",
+        "amount": 10.0,
+        "unit": "ml",
+        "group": "Fruta"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Haz la base",
+        "text": "Frota harina, azúcar glass y sal con mantequilla fría hasta obtener migas. Incorpora yema y agua poco a poco, solo hasta unir. Aplana en un disco, envuelve y refrigera 30 minutos.",
+        "minutes": 30,
+        "cue": "Masa que se une sin amasar demasiado."
+      },
+      {
+        "title": "Forra el molde",
+        "text": "Estira entre papeles y acomoda en el molde sin tirar de la masa. Recorta el borde, pincha el fondo y refrigera 15 minutos. Precalienta a 180 °C. La base se hornea junto con el relleno, sin pesos.",
+        "minutes": 15,
+        "cue": "Base de 3 mm bien apoyada en las esquinas."
+      },
+      {
+        "title": "Prepara la almendra",
+        "text": "Mezcla mantequilla suave con azúcar hasta alisar. Añade huevo y vainilla; incorpora almendra molida y los 10 g de harina. No batas para meter mucho aire: busca una pasta uniforme.",
+        "minutes": 0,
+        "cue": "Crema homogénea y fácil de extender."
+      },
+      {
+        "title": "Acomoda las peras",
+        "text": "Pela, parte y retira el corazón de las peras. Frota con limón y corta cada mitad en láminas sin separarlas del todo. Extiende la crema de almendra sobre la base fría y acomoda las mitades, abriéndolas apenas.",
+        "minutes": 0,
+        "cue": "Láminas finas con forma de abanico."
+      },
+      {
+        "title": "Hornea",
+        "text": "Hornea 40–50 minutos en una posición media-baja para cocinar el fondo. Comprueba la crema entre las peras con una brocheta: no debe salir pasta líquida. Si el borde dora antes, protégelo con tiras de aluminio.",
+        "minutes": 45,
+        "cue": "Relleno dorado y firme también junto a la fruta."
+      },
+      {
+        "title": "Deja que se asiente",
+        "text": "Deja templar al menos 15 minutos antes de retirar el aro, siempre con el fondo apoyado. Sirve tibia o termina de enfriar sobre rejilla. No la cortes recién salida: el relleno aún es muy delicado.",
+        "minutes": 15,
+        "cue": "Relleno estable y base que se sostiene."
+      }
+    ],
+    "tips": "Peras demasiado duras pueden quedar crudas; usa fruta madura que aún se pueda cortar en láminas limpias.",
+    "beforeYouStart": [
+      "La almendra molida debe ser fina, no mantequilla de almendra.",
+      "Separa la mantequilla fría de la base y la suave del relleno.",
+      "Escoge peras de tamaño similar para una cocción pareja."
+    ],
+    "doneWhen": [
+      "El relleno de almendra está dorado y no tiembla como líquido.",
+      "Un cuchillo entra en las peras sin resistencia fuerte."
+    ],
+    "troubleshooting": [
+      {
+        "problem": "La base quedó pálida.",
+        "solution": "Coloca en una rejilla algo más baja y verifica la cocción del fondo antes de retirar."
+      },
+      {
+        "problem": "El relleno se hundió al cortar.",
+        "solution": "Faltó cocción o reposo. Comprueba la zona junto a la fruta y deja templar antes de servir."
+      }
+    ],
+    "storage": "Refrigera tapada hasta 3 días. Recalienta suavemente si la quieres tibia.",
+    "servingTip": "Una porción tibia y una cucharada de crema sin azúcar son suficientes.",
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Tarte_Bourdaloue.jpg/960px-Tarte_Bourdaloue.jpg",
+    "photoAlt": "Tarta de pera con relleno dorado y fruta en abanico",
+    "photographer": "traaf",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Tarte_Bourdaloue.jpg",
+    "photoPlatform": "Wikimedia Commons",
+    "photoLicense": "CC BY-SA 2.0",
+    "photoLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  {
+    "id": "blondies-de-chocolate-blanco",
+    "name": "Blondies de chocolate blanco",
+    "categoryLabel": "Vainilla, nuez y centro tierno",
+    "tags": [
+      "chocolate",
+      "pasteles",
+      "faciles",
+      "recientes"
+    ],
+    "difficulty": "Fácil",
+    "servings": 16,
+    "prep": 20,
+    "cook": 25,
+    "rest": 60,
+    "oven": 175,
+    "description": "Cuadritos de mantequilla y azúcar mascabado con chocolate blanco en trozos.",
+    "equipment": "Molde cuadrado de 20 × 20 cm, papel para hornear, batidor manual y espátula.",
+    "ingredients": [
+      {
+        "name": "mantequilla derretida y tibia",
+        "amount": 150.0,
+        "unit": "g",
+        "group": "Masa"
+      },
+      {
+        "name": "azúcar mascabado",
+        "amount": 180.0,
+        "unit": "g",
+        "group": "Masa"
+      },
+      {
+        "name": "huevos grandes",
+        "amount": 2.0,
+        "unit": "pzas",
+        "group": "Masa"
+      },
+      {
+        "name": "vainilla",
+        "amount": 10.0,
+        "unit": "ml",
+        "group": "Masa"
+      },
+      {
+        "name": "harina de trigo",
+        "amount": 190.0,
+        "unit": "g",
+        "group": "Masa"
+      },
+      {
+        "name": "polvo para hornear",
+        "amount": 3.0,
+        "unit": "g",
+        "group": "Masa"
+      },
+      {
+        "name": "sal",
+        "amount": 2.0,
+        "unit": "g",
+        "group": "Masa"
+      },
+      {
+        "name": "chocolate blanco picado",
+        "amount": 120.0,
+        "unit": "g",
+        "group": "Trozos"
+      },
+      {
+        "name": "nuez picada",
+        "amount": 70.0,
+        "unit": "g",
+        "group": "Trozos"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Prepara el molde",
+        "text": "Precalienta a 175 °C. Coloca papel para hornear en el molde y engrasa apenas los lados expuestos. Derrite la mantequilla y deja que pierda el calor fuerte antes de mezclar con huevo.",
+        "minutes": 0,
+        "cue": "Molde forrado con papel que sobresale por dos lados."
+      },
+      {
+        "title": "Une azúcar y mantequilla",
+        "text": "Mezcla mantequilla tibia con azúcar mascabado a mano durante 1 minuto. Añade huevos y vainilla, batiendo solo para integrar. No hace falta montar mucho aire: buscamos una textura compacta y tierna.",
+        "minutes": 0,
+        "cue": "Mezcla espesa y brillante."
+      },
+      {
+        "title": "Incorpora los secos",
+        "text": "Mezcla harina, polvo de hornear y sal. Incorpora con espátula hasta que apenas desaparezcan los secos. Detente antes de seguir trabajando la masa; el batido excesivo puede endurecer los cuadritos.",
+        "minutes": 0,
+        "cue": "Masa uniforme, sin harina en el fondo."
+      },
+      {
+        "title": "Reparte los trozos",
+        "text": "Añade chocolate blanco y nuez. Vierte en el molde y extiende con la espátula hasta nivelar. Reserva algunos trozos si quieres ponerlos por encima, presionando ligeramente para que se adhieran.",
+        "minutes": 0,
+        "cue": "Chocolate y nuez distribuidos hasta las esquinas."
+      },
+      {
+        "title": "Hornea",
+        "text": "Hornea 23–28 minutos. Prueba el centro evitando un trozo de chocolate derretido. No esperes que la brocheta salga totalmente seca; deben mantener humedad sin quedar crudos.",
+        "minutes": 25,
+        "cue": "Bordes firmes y centro con migas húmedas, no masa líquida."
+      },
+      {
+        "title": "Enfría y corta",
+        "text": "Deja enfriar en el molde al menos 1 hora. Levanta por el papel y corta 16 cuadrados con cuchillo limpio. Para cortes más definidos, refrigera brevemente una vez frío y deja templar antes de servir.",
+        "minutes": 60,
+        "cue": "La pieza se levanta del molde sin doblarse demasiado."
+      }
+    ],
+    "tips": "El chocolate blanco se funde al probar con brocheta: revisa también la miga para no confundirlo con masa cruda.",
+    "beforeYouStart": [
+      "Usa mantequilla tibia, nunca recién hirviendo.",
+      "Pica chocolate y nuez en trozos pequeños.",
+      "El molde de 20 cm determina el grosor y el tiempo."
+    ],
+    "doneWhen": [
+      "Los bordes se ven firmes y el centro no tiene movimiento líquido.",
+      "Al enfriar, el interior es tierno y compacto."
+    ],
+    "troubleshooting": [
+      {
+        "problem": "Quedaron secos.",
+        "solution": "Reduce unos minutos el horneado y retira con migas húmedas en la brocheta."
+      },
+      {
+        "problem": "Se rompen al levantar.",
+        "solution": "Espera a que enfríen en el molde; calientes todavía no tienen estructura para cortarse."
+      }
+    ],
+    "storage": "Guarda herméticos hasta 3 días en lugar fresco o congela hasta 1 mes.",
+    "servingTip": "Corta cuadritos pequeños: van muy bien con café sin demasiado azúcar.",
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Blondies_caseros_postre.jpg/960px-Blondies_caseros_postre.jpg",
+    "photoAlt": "Cuadrados de blondie de miga dorada; presentación ilustrativa",
+    "photographer": "Almanutri",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Blondies_caseros_postre.jpg",
+    "photoPlatform": "Wikimedia Commons",
+    "photoLicense": "CC BY-SA 4.0",
+    "photoLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "id": "pudin-de-chia-con-arandanos",
+    "name": "Pudín de chía con arándanos",
+    "categoryLabel": "Vasitos de fruta y vainilla",
+    "tags": [
+      "frios",
+      "sin-horno",
+      "faciles",
+      "recientes"
+    ],
+    "difficulty": "Fácil",
+    "servings": 4,
+    "prep": 20,
+    "cook": 0,
+    "rest": 250,
+    "oven": 0,
+    "description": "Chía hidratada, yogur y arándanos en capas para sacar del refrigerador.",
+    "equipment": "Recipiente con tapa, batidor, licuadora o tenedor y 4 vasos.",
+    "ingredients": [
+      {
+        "name": "leche entera o bebida vegetal sin azúcar",
+        "amount": 400.0,
+        "unit": "ml",
+        "group": "Pudín"
+      },
+      {
+        "name": "semillas de chía",
+        "amount": 70.0,
+        "unit": "g",
+        "group": "Pudín"
+      },
+      {
+        "name": "miel",
+        "amount": 30.0,
+        "unit": "g",
+        "group": "Pudín"
+      },
+      {
+        "name": "vainilla",
+        "amount": 5.0,
+        "unit": "ml",
+        "group": "Pudín"
+      },
+      {
+        "name": "arándanos azules frescos",
+        "amount": 300,
+        "unit": "g",
+        "group": "Capas"
+      },
+      {
+        "name": "yogur natural sin azúcar",
+        "amount": 150.0,
+        "unit": "g",
+        "group": "Capas"
+      },
+      {
+        "name": "jugo de limón",
+        "amount": 10.0,
+        "unit": "ml",
+        "group": "Capas"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Mezcla la base",
+        "text": "Bate leche, miel y vainilla hasta disolver. Añade chía en lluvia mientras remueves con el batidor. Raspa el fondo y los lados para que las semillas no queden amontonadas en una zona.",
+        "minutes": 0,
+        "cue": "Semillas repartidas sin grupos secos."
+      },
+      {
+        "title": "Remueve otra vez",
+        "text": "Deja reposar 10 minutos y vuelve a remover bien. Este segundo mezclado separa los grumos antes de que terminen de hidratarse. Si ves alguno, deshazlo con la cuchara ahora, no al final del frío.",
+        "minutes": 10,
+        "cue": "La mezcla empieza a espesar de manera uniforme."
+      },
+      {
+        "title": "Hidrata en frío",
+        "text": "Tapa y refrigera al menos 4 horas, mejor toda la noche. Remueve al sacar. Si quedó más espeso de lo que prefieres, añade una cucharada de leche por vez; no lo diluyas de golpe.",
+        "minutes": 240,
+        "cue": "Textura espesa de cuchara, sin una capa de leche separada."
+      },
+      {
+        "title": "Prepara los arándanos",
+        "minutes": 0,
+        "cue": "Fruta limpia y bien escurrida.",
+        "text": "Lava y seca los arándanos. Aplasta 200 g con un tenedor y mezcla con el limón; deja los otros 100 g enteros. No añadas agua al puré. Prueba la fruta antes de endulzar más."
+      },
+      {
+        "title": "Arma las capas",
+        "text": "Reparte el pudín entre los vasos. Agrega una capa de yogur y después los arándanos aplastados. Usa el dorso de una cuchara para poner las capas suavemente y mantenerlas visibles.",
+        "minutes": 0,
+        "cue": "Cuatro vasos con pudín, yogur y mango."
+      },
+      {
+        "title": "Termina y sirve",
+        "text": "Reparte los arándanos enteros por encima. Sirve frío o tapa cada vaso y devuelve al refrigerador hasta el momento de comer. Si preparas con anticipación, la fruta luce mejor añadida el mismo día.",
+        "minutes": 0,
+        "cue": "Cubitos frescos y vasos fríos."
+      }
+    ],
+    "tips": "El segundo mezclado a los 10 minutos evita casi todos los grumos de semillas sin hidratar.",
+    "beforeYouStart": [
+      "Compra chía entera, no molida.",
+      "Usa arándanos azules frescos, lavados y bien secos.",
+      "El reposo es indispensable aunque la mezcla parezca espesa al principio."
+    ],
+    "doneWhen": [
+      "Las semillas tienen una capa de gel visible y no están secas por dentro.",
+      "Al remover, la mezcla mantiene una textura uniforme sin leche separada."
+    ],
+    "troubleshooting": [
+      {
+        "problem": "Quedaron grumos.",
+        "solution": "Sepáralos con batidor y deja más tiempo de hidratación; remueve de nuevo a los 10 minutos la próxima vez."
+      },
+      {
+        "problem": "Está demasiado líquido.",
+        "solution": "Dale el reposo completo y comprueba las cantidades; la chía necesita varias horas para hidratarse."
+      }
+    ],
+    "storage": "Refrigera tapado hasta 3 días. Añade los arándanos enteros el día de servir.",
+    "servingTip": "Usa vasos transparentes para ver las capas y mezcla con la cuchara al comer.",
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Chia_jars_with_bleuberries_%28Unsplash%29.jpg/960px-Chia_jars_with_bleuberries_%28Unsplash%29.jpg",
+    "photoAlt": "Vasos de pudín de chía con yogur, arándanos y kiwi; presentación ilustrativa",
+    "photographer": "Brenda Godinez cravethebenefits",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Chia_jars_with_bleuberries_(Unsplash).jpg",
+    "photoPlatform": "Wikimedia Commons",
+    "photoLicense": "CC0",
+    "photoLicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  {
+    "id": "crepas-con-cajeta",
+    "name": "Crepas con cajeta",
+    "categoryLabel": "Dobladitas y recién hechas",
+    "tags": [
+      "sin-horno",
+      "de-casa",
+      "recientes"
+    ],
+    "difficulty": "Intermedia",
+    "servings": 6,
+    "prep": 30,
+    "cook": 20,
+    "rest": 30,
+    "oven": 0,
+    "description": "Crepas finas, cajeta tibia y nueces por encima. Dos por persona para empezar.",
+    "equipment": "Sartén antiadherente de 20–22 cm, licuadora o batidor, cucharón y espátula fina.",
+    "ingredients": [
+      {
+        "name": "harina de trigo",
+        "amount": 125.0,
+        "unit": "g",
+        "group": "Crepas"
+      },
+      {
+        "name": "huevos grandes",
+        "amount": 2.0,
+        "unit": "pzas",
+        "group": "Crepas"
+      },
+      {
+        "name": "leche entera",
+        "amount": 300.0,
+        "unit": "ml",
+        "group": "Crepas"
+      },
+      {
+        "name": "mantequilla derretida y tibia",
+        "amount": 25.0,
+        "unit": "g",
+        "group": "Crepas"
+      },
+      {
+        "name": "azúcar",
+        "amount": 10.0,
+        "unit": "g",
+        "group": "Crepas"
+      },
+      {
+        "name": "sal",
+        "amount": 1.0,
+        "unit": "g",
+        "group": "Crepas"
+      },
+      {
+        "name": "vainilla",
+        "amount": 5.0,
+        "unit": "ml",
+        "group": "Crepas"
+      },
+      {
+        "name": "mantequilla extra",
+        "amount": 10.0,
+        "unit": "g",
+        "group": "Sartén"
+      },
+      {
+        "name": "cajeta",
+        "amount": 250.0,
+        "unit": "g",
+        "group": "Salsa"
+      },
+      {
+        "name": "leche entera",
+        "amount": 50.0,
+        "unit": "ml",
+        "group": "Salsa"
+      },
+      {
+        "name": "nuez picada",
+        "amount": 50.0,
+        "unit": "g",
+        "group": "Acabado"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Licúa la masa",
+        "text": "Licúa harina, huevos, leche, mantequilla tibia, azúcar, sal y vainilla unos segundos hasta unir. También puedes batir a mano incorporando la leche gradualmente. No necesitas una mezcla espumosa.",
+        "minutes": 0,
+        "cue": "Masa líquida y sin grumos."
+      },
+      {
+        "title": "Deja reposar",
+        "text": "Tapa y deja reposar 30 minutos en el refrigerador. Remueve antes de usar. Debe cubrir el fondo de la sartén en una película fina; si quedó demasiado espesa, añade leche de cucharada en cucharada.",
+        "minutes": 30,
+        "cue": "La espuma baja y la masa sigue siendo fluida."
+      },
+      {
+        "title": "Prepara la sartén",
+        "text": "Calienta la sartén a fuego medio y pincela apenas con mantequilla extra. Vierte un pequeño cucharón y gira de inmediato para cubrir el fondo. La primera crepa sirve para ajustar temperatura y cantidad.",
+        "minutes": 0,
+        "cue": "Superficie caliente, sin humo ni charcos de mantequilla."
+      },
+      {
+        "title": "Cocina las crepas",
+        "text": "Cocina 45–60 segundos hasta que los bordes se despeguen. Voltea con espátula y cocina 15–30 segundos más. Apila en un plato y cubre flojamente. Repite engrasando apenas cuando haga falta; salen unas 12 crepas.",
+        "minutes": 0,
+        "cue": "Bordes secos y base con manchas doradas claras."
+      },
+      {
+        "title": "Entibia la cajeta",
+        "text": "Calienta cajeta con los 50 ml de leche a fuego bajo, removiendo. Retira cuando se alise. No hace falta hervir; si la marca de cajeta ya es muy líquida, añade la leche poco a poco.",
+        "minutes": 0,
+        "cue": "Salsa fluida que todavía cubre la cuchara."
+      },
+      {
+        "title": "Dobla y termina",
+        "text": "Extiende una cucharada fina de salsa en cada crepa y dobla en cuatro. Sirve dos por persona, añade un hilo de salsa por encima y reparte nuez. Lleva a la mesa antes de que se enfríen.",
+        "minutes": 0,
+        "cue": "Crepas tibias con salsa repartida."
+      }
+    ],
+    "tips": "Una sartén apenas engrasada facilita extender la masa: demasiada mantequilla hace que se deslice sin cubrir.",
+    "beforeYouStart": [
+      "Usa una sartén antiadherente en buen estado.",
+      "Ten a mano plato, espátula y un paño limpio para cubrir la pila.",
+      "La masa reposa para que la harina se hidrate y se vuelva más fácil de extender."
+    ],
+    "doneWhen": [
+      "La crepa se despega por los bordes antes de voltearla.",
+      "Queda flexible y fina, sin una capa gruesa de masa húmeda."
+    ],
+    "troubleshooting": [
+      {
+        "problem": "Se rompe al voltear.",
+        "solution": "Dale unos segundos más y revisa que cubra el fondo sin quedar demasiado delgada."
+      },
+      {
+        "problem": "La masa no se extiende.",
+        "solution": "Puede estar espesa o la sartén demasiado caliente. Añade una cucharada de leche y reduce un poco el fuego."
+      }
+    ],
+    "storage": "Refrigera las crepas sin salsa, separadas con papel, hasta 2 días. Recalienta brevemente en sartén y añade la cajeta al servir.",
+    "servingTip": "Sirve en plato tibio para mantenerlas suaves mientras llega el café.",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/8/85/Crepas_de_cajeta.jpg",
+    "photoAlt": "Crepas dobladas con cajeta y azúcar espolvoreada",
+    "photographer": "Vale.Val12",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Crepas_de_cajeta.jpg",
+    "photoPlatform": "Wikimedia Commons",
+    "photoLicense": "CC BY 4.0",
+    "photoLicenseUrl": "https://creativecommons.org/licenses/by/4.0"
+  },
+  {
+    "id": "manzanas-al-horno",
+    "name": "Manzanas al horno",
+    "categoryLabel": "Canela hasta el centro",
+    "tags": [
+      "de-casa",
+      "faciles",
+      "recientes"
+    ],
+    "difficulty": "Fácil",
+    "servings": 4,
+    "prep": 20,
+    "cook": 40,
+    "rest": 10,
+    "oven": 180,
+    "description": "Manzanas enteras con nuez y pasas, horneadas hasta que la cuchara entre sin esfuerzo.",
+    "equipment": "Refractario pequeño, descorazonador o cuchillo de punta y cuchara.",
+    "ingredients": [
+      {
+        "name": "manzanas medianas firmes tipo Golden",
+        "amount": 4.0,
+        "unit": "pzas",
+        "group": "Manzanas"
+      },
+      {
+        "name": "azúcar mascabado",
+        "amount": 40.0,
+        "unit": "g",
+        "group": "Relleno"
+      },
+      {
+        "name": "nuez picada",
+        "amount": 40.0,
+        "unit": "g",
+        "group": "Relleno"
+      },
+      {
+        "name": "pasas",
+        "amount": 30.0,
+        "unit": "g",
+        "group": "Relleno"
+      },
+      {
+        "name": "canela molida",
+        "amount": 3.0,
+        "unit": "g",
+        "group": "Relleno"
+      },
+      {
+        "name": "mantequilla suave",
+        "amount": 25.0,
+        "unit": "g",
+        "group": "Relleno"
+      },
+      {
+        "name": "agua",
+        "amount": 100.0,
+        "unit": "ml",
+        "group": "Fondo"
+      },
+      {
+        "name": "jugo de limón",
+        "amount": 15.0,
+        "unit": "ml",
+        "group": "Fondo"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Prepara las manzanas",
+        "text": "Precalienta a 180 °C. Lava y seca las manzanas. Retira el corazón desde arriba dejando aproximadamente 1 cm de base para contener el relleno. Amplía un poco el hueco con una cuchara pequeña.",
+        "minutes": 0,
+        "cue": "Cavidad limpia sin atravesar la base."
+      },
+      {
+        "title": "Marca la piel",
+        "text": "Haz un corte poco profundo alrededor del ecuador de cada manzana, solo atravesando la piel. Ayuda a controlar dónde se abre al expandirse. Trabaja sobre tabla y gira la fruta con cuidado.",
+        "minutes": 0,
+        "cue": "Corte superficial alrededor de la mitad de la fruta."
+      },
+      {
+        "title": "Mezcla el relleno",
+        "text": "Une azúcar mascabado, nuez, pasas, canela y mantequilla suave. Divide entre las cuatro cavidades sin comprimir demasiado. Deja un pequeño montículo encima de cada manzana.",
+        "minutes": 0,
+        "cue": "Pasta suelta con nuez y pasas repartidas."
+      },
+      {
+        "title": "Prepara el fondo",
+        "text": "Coloca las frutas en el refractario juntas pero sin apretarlas. Mezcla agua y limón y vierte al fondo. El líquido evita que se quemen los jugos y ayuda a cocinar la base.",
+        "minutes": 0,
+        "cue": "Manzanas de pie con líquido alrededor, no sobre el relleno."
+      },
+      {
+        "title": "Hornea",
+        "text": "Hornea 35–45 minutos, bañando una vez con el jugo del fondo. Revisa desde el minuto 30: tamaño y variedad cambian el tiempo. Si la nuez dora antes de ablandarse la fruta, cubre flojamente con aluminio.",
+        "minutes": 40,
+        "cue": "Pulpa tierna al insertar un cuchillo fino en un lateral."
+      },
+      {
+        "title": "Sirve tibias",
+        "text": "Deja reposar 10 minutos. Sirve cada manzana con una cucharada de sus jugos. Comprueba que no queden semillas en el hueco antes de llevar a la mesa; el relleno interior conserva mucho calor.",
+        "minutes": 10,
+        "cue": "Centro caliente y fruta suave que conserva la forma."
+      }
+    ],
+    "tips": "Elige cuatro manzanas parecidas en tamaño para que queden listas al mismo tiempo.",
+    "beforeYouStart": [
+      "Usa fruta firme que soporte el horneado.",
+      "No perfores el fondo al sacar el corazón.",
+      "El refractario debe sostener las manzanas de pie sin quedar demasiado grande."
+    ],
+    "doneWhen": [
+      "Un cuchillo entra fácilmente en la pulpa cerca del centro.",
+      "La manzana sigue de pie y los jugos del fondo no están quemados."
+    ],
+    "troubleshooting": [
+      {
+        "problem": "Se abrieron demasiado.",
+        "solution": "Estaban muy maduras o se pasaron de cocción. Revisa antes y usa fruta firme."
+      },
+      {
+        "problem": "El fondo se secó.",
+        "solution": "Añade un poco de agua caliente al refractario y sigue vigilando; no viertas agua fría sobre vidrio caliente."
+      }
+    ],
+    "storage": "Refrigera tapadas hasta 3 días. Recalienta en porciones con un poco de sus jugos.",
+    "servingTip": "Una cucharada de yogur o helado de vainilla acompaña bien la fruta tibia.",
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Brat%C3%A4pfel_1.JPG/960px-Brat%C3%A4pfel_1.JPG",
+    "photoAlt": "Manzanas asadas enteras con relleno de frutos secos",
+    "photographer": "Brücke-Osteuropa",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Brat%C3%A4pfel_1.JPG",
+    "photoPlatform": "Wikimedia Commons",
+    "photoLicense": "CC BY-SA 3.0",
+    "photoLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
   }
 ];
 
 const storageKey = "sweet-notes.v1";
 const recipeById = new Map(recipeCatalog.map(recipe => [recipe.id, recipe]));
-const categoryNames = { chocolate: "Chocolate", pasteles: "Pasteles", galletas: "Galletas", frios: "Postres fríos", "sin-horno": "Sin horno", faciles: "Recetas fáciles", nuevas: "Recién llegadas", "de-casa": "Sabores de casa" };
+const categoryNames = { chocolate: "Chocolate", pasteles: "Pasteles", galletas: "Galletas", frios: "Postres fríos", "sin-horno": "Sin horno", faciles: "Recetas fáciles", nuevas: "Primeras incorporaciones", recientes: "Recién llegadas", "de-casa": "Sabores de casa" };
 const numberFormatter = new Intl.NumberFormat("es-MX", { maximumFractionDigits: 2 });
 const reducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)");
 let storageWorks = true;
@@ -3259,8 +8274,8 @@ function favoriteLabel(recipe) {
 
 function cardMarkup(recipe) {
   const saved = favoriteIds.has(recipe.id);
-  const badge = recipe.id === "arroz-con-leche" ? "El favorito de Ángel" : recipe.tags.includes("nuevas") ? "Nuevo antojo" : recipe.tags.includes("sin-horno") ? "Sin horno" : recipe.difficulty === "Fácil" ? "Fácil" : "Para preparar con tiempo";
-  return `<article class="recipe-card" data-recipe-card="${recipe.id}"><div class="card-photo"><button class="card-open-image" type="button" data-open-recipe="${recipe.id}" aria-label="Ver receta de ${escapeHTML(recipe.name)}">${imageMarkup(recipe)}</button><span class="card-badge">${badge}</span><button class="favorite-button${saved ? " is-saved" : ""}" type="button" data-favorite="${recipe.id}" aria-pressed="${saved}" aria-label="${escapeHTML(favoriteLabel(recipe))}">${icon("heart")}</button></div><div class="card-copy"><p class="card-category">${escapeHTML(recipe.categoryLabel)}</p><h3 class="card-title"><button type="button" data-open-recipe="${recipe.id}">${escapeHTML(recipe.name)}</button></h3><p class="card-description">${escapeHTML(recipe.description)}</p><div class="card-meta"><span>${icon("clock")}${formatDuration(totalMinutes(recipe))}</span><span><i class="difficulty-dot" aria-hidden="true"></i>${recipe.difficulty}</span><button class="card-arrow" type="button" data-open-recipe="${recipe.id}" aria-label="Preparar ${escapeHTML(recipe.name)}">${icon("arrow")}</button></div></div></article>`;
+  const badge = recipe.id === "arroz-con-leche" ? "El favorito de Ángel" : recipe.tags.includes("recientes") ? "Nuevo antojo" : recipe.tags.includes("sin-horno") ? "Sin horno" : recipe.difficulty === "Fácil" ? "Fácil" : "Para preparar con tiempo";
+  return `<article class="recipe-card" data-recipe-card="${recipe.id}"><div class="card-photo"><button class="card-open-image" type="button" data-open-recipe="${recipe.id}" aria-label="Ver receta de ${escapeHTML(recipe.name)}">${imageMarkup(recipe)}</button><span class="card-badge">${badge}</span><button class="favorite-button${saved ? " is-saved" : ""}" type="button" data-favorite="${recipe.id}" aria-pressed="${saved}" aria-label="${escapeHTML(favoriteLabel(recipe))}">${icon("heart")}</button></div><div class="card-copy"><p class="card-category">${escapeHTML(recipe.categoryLabel)}</p><h3 class="card-title"><button type="button" data-open-recipe="${recipe.id}">${escapeHTML(recipe.name)}</button></h3><p class="card-description">${escapeHTML(recipe.description)}</p><p class="card-baking-note"><span>Rinde: ${recipe.servings}</span><span>${recipe.oven ? `Horno a ${recipe.oven} °C` : "Sin horno"}</span><span>${recipe.steps.length} pasos</span></p><div class="card-meta"><span>${icon("clock")}${formatDuration(totalMinutes(recipe))}</span><span><i class="difficulty-dot" aria-hidden="true"></i>${recipe.difficulty}</span><button class="card-arrow" type="button" data-open-recipe="${recipe.id}" aria-label="Preparar ${escapeHTML(recipe.name)}">${icon("arrow")}</button></div></div></article>`;
 }
 
 function filteredRecipes() {
@@ -3272,6 +8287,11 @@ function filteredRecipes() {
       (filters.time === "all" || recipe.prep <= Number(filters.time)) &&
       words.every(word => searchText.includes(word));
   });
+  if (filters.sort === "featured") {
+    const highlights = ["flan-napolitano", "muffins-de-arandanos", "churros-con-chocolate", "tarta-de-pera-y-almendra", "blondies-de-chocolate-blanco", "helado-de-vainilla-sin-maquina"];
+    const rank = recipe => { const index = highlights.indexOf(recipe.id); return index < 0 ? highlights.length : index; };
+    matches.sort((first, second) => rank(first) - rank(second));
+  }
   if (filters.sort === "quick") matches.sort((first, second) => totalMinutes(first) - totalMinutes(second));
   if (filters.sort === "alphabetical") matches.sort((first, second) => first.name.localeCompare(second.name, "es"));
   return matches;
@@ -3931,6 +8951,7 @@ document.addEventListener("change", event => {
     else state.checked.delete(index);
     persistData();
     document.getElementById("ingredients-progress").textContent = `${state.checked.size} de ${recipe.ingredients.length} ingredientes listos`;
+    if (input.checked && state.checked.size === recipe.ingredients.length) celebrateIngredients();
   }
 });
 
@@ -4995,3 +10016,37 @@ function initializeHiddenQuokka() {
 }
 
 initializeHiddenQuokka();
+
+function initializeCollectionDetails() {
+  const batch = document.getElementById("new-batch");
+  if (batch && "IntersectionObserver" in window) {
+    const observer = new IntersectionObserver(entries => {
+      if (!entries.some(entry => entry.isIntersecting)) return;
+      batch.classList.add("batch-arrived");
+      observer.disconnect();
+    }, { threshold: .25 });
+    observer.observe(batch);
+  }
+}
+
+function celebrateIngredients() {
+  if (reducedMotion.matches) return;
+  const progress = document.getElementById("ingredients-progress");
+  if (!progress) return;
+  progress.querySelectorAll(".ingredient-spark").forEach(spark => spark.remove());
+  for (let index = 0; index < 7; index += 1) {
+    const spark = document.createElement("span");
+    const angle = -Math.PI + index * Math.PI / 6;
+    spark.className = "ingredient-spark";
+    spark.setAttribute("aria-hidden", "true");
+    spark.style.setProperty("--spark-x", `${Math.cos(angle) * 38}px`);
+    spark.style.setProperty("--spark-y", `${Math.sin(angle) * 32 - 8}px`);
+    spark.style.setProperty("--spark-turn", `${index * 57 - 120}deg`);
+    spark.style.setProperty("--spark-color", index % 2 ? "#8f87ad" : "#52677d");
+    progress.append(spark);
+    spark.addEventListener("animationend", () => spark.remove(), { once: true });
+    setTimeout(() => spark.remove(), 850);
+  }
+}
+
+initializeCollectionDetails();
